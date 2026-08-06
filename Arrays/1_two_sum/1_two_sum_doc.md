@@ -41,8 +41,7 @@ O(n)
 
 ## Mistakes Made
 
-- Initially forgot duplicate case.
-- Returned wrong indices.
+- stored current number before the check. 
 
 ---
 
