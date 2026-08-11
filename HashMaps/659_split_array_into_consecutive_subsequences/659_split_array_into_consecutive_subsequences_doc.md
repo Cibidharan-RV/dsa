@@ -1,7 +1,7 @@
 # 659. Split Array Into Consecutive Subsequences
 
 ## Difficulty
-- Medium
+Medium
 
 ## Topics
 - Greedy

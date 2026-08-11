@@ -1,2 +1,4 @@
 create_problem.py
 template.md
+generate_readme.py
+.gitignore
