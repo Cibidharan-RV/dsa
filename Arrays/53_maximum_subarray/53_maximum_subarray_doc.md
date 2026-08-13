@@ -11,11 +11,11 @@ Medium
 
 ## Idea
 
+[View Submission on LeetCode](https://leetcode.com/submissions/detail/2102459454/)
+
 keep track of the minimum prefix sum so far and the current prefix sum, the difference between them will give the sum subarray ending at the current index. 
 Compare it with the maximum sum subarray found so far and update if necessary. 
 If the minimum prefix sum found so far is greater than current prefix sum, update the minimum prefix sum.
-
-[Click here to see the submission](https://leetcode.com/problems/maximum-subarray/submissions/2102459454)
 
 ---
 
@@ -58,3 +58,7 @@ O(1)
 - K Items With the Maximum Sum
 - Maximum Good Subarray Sum
 - Maximize Subarray Sum After Removing All Occurrences of One Element
+
+
+## Date
+2026-08-11

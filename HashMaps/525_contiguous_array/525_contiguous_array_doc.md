@@ -14,6 +14,8 @@ Medium
 
 ## Idea
 
+[View Submission on LeetCode](https://leetcode.com/submissions/detail/2080681532/)
+
 Maintain a running prefix sum representing the difference between the number of `1`s and `0`s.
 
 - Treat `1` as `+1`
@@ -59,3 +61,6 @@ O(n)
 - Continuous Subarray Sum (523)
 - Binary Subarrays With Sum (930)
 - Maximum Size Subarray Sum Equals k (325)
+
+## Date
+2026-07-25

@@ -11,6 +11,8 @@ Easy
 
 ## Idea
 
+[View Submission on LeetCode](https://leetcode.com/submissions/detail/2095988729/)
+
 use the property of XOR. that is X ^ X = 0 and X ^ 0 = X. 
 store an int variable with first element, then iterate through all the array, and apply xor with that variable for each element. after the iteration ends the unique number wil be stored in the variable.
 
@@ -54,3 +56,6 @@ O(1)
 - Find the Duplicate Number
 - Find the Difference
 - Find the XOR of Numbers Which Appear Twice
+
+## Date
+2026-08-06

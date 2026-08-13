@@ -14,6 +14,8 @@ Medium
 
 ## Idea
 
+[View Submission on LeetCode](https://leetcode.com/submissions/detail/2083102876/)
+
 Traverse through the array, and compute the presum. 
 Store frequency of seen presums inside a vecor of int.
 if presum - goal > 0 
@@ -48,3 +50,6 @@ O(n)
 - Ways to Split Array Into Good Subarrays
 - Find All Possible Stable Binary Arrays I
 - Find All Possible Stable Binary Arrays II
+
+## Date
+2026-07-27

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DSA Progress Dashboard</title>
+    <!-- Google Fonts: Outfit for a modern geometric look -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- GSAP for Animations -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+<body class="dark-mode">
+
+    <!-- Theme Toggle (Fixed Top Right) -->
+    <label class="theme-switch" for="theme-toggle">
+        <input type="checkbox" id="theme-toggle">
+        <span class="slider">
+            <span class="icon moon">🌙</span>
+            <span class="icon sun">☀️</span>
+        </span>
+    </label>
+
+    <!-- Floating Background Elements -->
+    <div class="bg-shape shape-1"></div>
+    <div class="bg-shape shape-2"></div>
+    <div class="bg-shape shape-3"></div>
+
+    <div class="container">
+        <!-- Hero Section -->
+        <header class="hero">
+            <h1 class="glitch-text">DSA Journey</h1>
+            <p class="subtitle">A visual representation of my data structures and algorithms progress.</p>
+            
+            <div class="heatmap-container glass">
+                <div class="heatmap-header">
+                    <h3>Contribution Activity</h3>
+                    <span id="heatmap-total">0 problems in the last year</span>
+                </div>
+                <div class="heatmap-scroll-wrapper">
+                    <div id="heatmap-grid" class="heatmap-grid"></div>
+                </div>
+                <div class="heatmap-legend">
+                    Less <span class="heat-box level-0"></span> <span class="heat-box level-1"></span> <span class="heat-box level-2"></span> <span class="heat-box level-3"></span> <span class="heat-box level-4"></span> More
+                </div>
+            </div>
+
+            <div class="stats-container glass">
+                <div class="stats-header">
+                    <h2><span id="stat-total">0</span> Problems Solved</h2>
+                </div>
+                <div class="progress-bar-container">
+                    <div class="progress-segment easy" id="bar-easy" style="width: 0%"></div>
+                    <div class="progress-segment medium" id="bar-medium" style="width: 0%"></div>
+                    <div class="progress-segment hard" id="bar-hard" style="width: 0%"></div>
+                </div>
+                <div class="progress-legend">
+                    <div class="legend-item"><span class="dot easy"></span> Easy (<span id="stat-easy">0</span>)</div>
+                    <div class="legend-item"><span class="dot medium"></span> Medium (<span id="stat-medium">0</span>)</div>
+                    <div class="legend-item"><span class="dot hard"></span> Hard (<span id="stat-hard">0</span>)</div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Controls Section -->
+        <section class="controls glass">
+            <div class="controls-top">
+                <input type="text" id="search-input" placeholder="Search by name, number, or topic...">
+                <div class="controls-actions">
+                    <span id="results-count" class="results-counter">Found: 0</span>
+                    <button id="random-btn" class="action-btn">🎲 Random Problem</button>
+                </div>
+            </div>
+            
+            <div class="controls-bottom">
+                <div class="filter-group" id="difficulty-filters">
+                    <button class="filter-btn active" data-filter="All">All</button>
+                    <button class="filter-btn diff-easy-btn" data-filter="Easy">Easy</button>
+                    <button class="filter-btn diff-medium-btn" data-filter="Medium">Medium</button>
+                    <button class="filter-btn diff-hard-btn" data-filter="Hard">Hard</button>
+                </div>
+                
+                <div class="filter-group">
+                    <select id="category-select" class="dropdown-select">
+                        <option value="All">All Topics</option>
+                        <!-- Dynamic categories injected here -->
+                    </select>
+                    
+                    <select id="sort-select" class="dropdown-select">
+                        <option value="num-asc">Sort: Number (Low to High)</option>
+                        <option value="date-desc">Sort: Date (Newest First)</option>
+                        <option value="date-asc">Sort: Date (Oldest First)</option>
+                    </select>
+                </div>
+            </div>
+        </section>
+
+        <!-- Problems Grid -->
+        <section class="problems-grid" id="problems-grid">
+            <!-- Problem cards will be injected here via JavaScript -->
+        </section>
+        
+        <footer>
+            <div class="social-links">
+                <a href="https://leetcode.com/u/cibidharan/" target="_blank" title="LeetCode"><i class="fa-solid fa-code"></i></a>
+                <a href="https://github.com/cibidharan-rv" target="_blank" title="GitHub"><i class="fa-brands fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/cibidharan/" target="_blank" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+                <a href="https://x.com/CibidharanRV" target="_blank" title="X (Twitter)"><i class="fa-brands fa-x-twitter"></i></a>
+                <a href="https://www.threads.net/@cibidharan" target="_blank" title="Threads"><i class="fa-brands fa-threads"></i></a>
+                <a href="https://www.instagram.com/cibidharan/" target="_blank" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
+            </div>
+            <p>Generated automatically with 💙 from LeetCode sync scripts.</p>
+        </footer>
+    </div>
+
+    <!-- Data script generated by Python -->
+    <script src="data.js"></script>
+    <!-- App logic -->
+    <script src="app.js"></script>
+</body>
+</html>

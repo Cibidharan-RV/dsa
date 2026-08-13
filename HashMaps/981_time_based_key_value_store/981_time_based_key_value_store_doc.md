@@ -15,6 +15,8 @@ Medium
 
 ## Idea
 
+[View Submission on LeetCode](https://leetcode.com/submissions/detail/2086312341/)
+
 unordered_map< string(key) , map< int(timestamp), string(vlaue) > >
 
 set() - inserting value, get the address of map pointed by key and then insert the value in the desired timestamp.
@@ -40,3 +42,7 @@ O(T)
 - String hasing takes time. O(L)
 - Concepts of Map and Unordered map
 ---
+
+
+## Date
+2026-07-29

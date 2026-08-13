@@ -1,4 +1,11 @@
+__pycache__
+*.pyc
+
 create_problem.py
-template.md
+utils.py
+sync_leetcode.py
 generate_readme.py
-.gitignore
+
+template.md
+
+.env

@@ -10,6 +10,8 @@ Easy
 ---
 
 ## Idea
+
+[View Submission on LeetCode](https://leetcode.com/submissions/detail/2073571610/)
 calculate the sum of sq of each digits of num and then `next num = sum of sq of current num` and proces this infinitely, while if num == 1 at some point return true, or if num comes back to a value it has been already (use the unordered_set) return false.
 ---
 
@@ -39,3 +41,7 @@ O(logN)
 - incorrect logic understanding from question.
 
 ---
+
+
+## Date
+2026-07-19

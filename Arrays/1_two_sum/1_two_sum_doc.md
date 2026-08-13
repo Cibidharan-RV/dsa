@@ -11,6 +11,8 @@ Easy
 
 ## Idea
 
+[View Submission on LeetCode](https://leetcode.com/submissions/detail/2096080741/)
+
 Store previously seen numbers inside a hash map.
 
 For every number:
@@ -50,3 +52,6 @@ O(n)
 - Two Sum II
 - 4Sum
 - Contains Duplicate
+
+## Date
+2026-08-06

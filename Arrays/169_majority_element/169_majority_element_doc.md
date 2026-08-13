@@ -11,12 +11,12 @@ Easy
 
 ## Idea
 
+[View Submission on LeetCode](https://leetcode.com/submissions/detail/2097359925/)
+
 Iterarte through the array, update freq for every element while iteration.
 keep track of the number with highest freq in each iteration. 
 if the frequency of the current number is greater than n/2, return it immediately.
 else return the number with highest freq at the last.
-
-[Click here to see the submission](https://leetcode.com/problems/majority-element/submissions/2097359925)
 
 ---
 
@@ -52,3 +52,7 @@ O(n) hashmap
 - Minimum Operations to Exceed Threshold Value I
 - Find the Most Common Response
 - Find Valid Pair of Adjacent Digits in String
+
+
+## Date
+2026-08-07

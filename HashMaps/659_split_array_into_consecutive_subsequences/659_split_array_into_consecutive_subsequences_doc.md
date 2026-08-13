@@ -12,6 +12,8 @@ Medium
 
 ## Idea
 
+[View Submission on LeetCode](https://leetcode.com/submissions/detail/2074572658/)
+
 Maintain a collection of subsequences using `vector<unordered_set<int>>`.
 
 For each number:
@@ -57,3 +59,6 @@ The optimal solution compresses the state by maintaining:
 - `end[x]` → number of subsequences ending at `x`.
 
 This removes the need to search through all subsequences and achieves `O(n)` time.
+
+## Date
+2026-07-20

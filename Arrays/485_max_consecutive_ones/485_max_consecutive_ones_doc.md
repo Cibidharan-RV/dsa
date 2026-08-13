@@ -10,6 +10,8 @@ Easy
 
 ## Idea
 
+[View Submission on LeetCode](https://leetcode.com/submissions/detail/2095177633/)
+
 count till seening 0, if zero appeared update max_count and resest the counter.
 
 Example :
@@ -46,3 +48,6 @@ O(1)
 - Longer Contiguous Segments of Ones than Zeros
 - Length of the Longest Alphabetical Continuous Substring
 - Maximum Enemy Forts That Can Be Captured
+
+## Date
+2026-08-05

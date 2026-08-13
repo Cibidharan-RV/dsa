@@ -13,14 +13,14 @@ Medium
 ---
 
 ## Idea
+
+[View Submission on LeetCode](https://leetcode.com/submissions/detail/2097351499/)
 maintain a pointer as current_insert (initially 0), which will point to the index where the next color should be inserted
 for all three colors. 
 - iterate through the loop, if seen the current searching color.
 - swap it to the current_insert pointer.
 - increment current_insert pointer.
 repeat for next colors
-
-[Click here to see the submission](https://leetcode.com/problems/sort-colors/submissions/2097351499)
 
 ---
 
@@ -51,3 +51,7 @@ O(1)
 - Sort List
 - Wiggle Sort
 - Wiggle Sort II
+
+
+## Date
+2026-08-07

@@ -12,6 +12,8 @@ Medium
 
 ## Idea
 
+[View Submission on LeetCode](https://leetcode.com/submissions/detail/2081912201/)
+
 calculate the prefix sum and find the positive remainder and search for the number of occurances of the prefixes with the same remainder. add them, because the current element can form valid subarray with them. because they two have same remainder so their difference should be divisible by k.
 increment to the frequency of the current presum to be matched with the future presums.
 ---
@@ -48,3 +50,6 @@ O(K)
 - Two Sum II
 - 4Sum
 - Contains Duplicate
+
+## Date
+2026-07-26
