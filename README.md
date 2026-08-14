@@ -5,11 +5,11 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 45
+**Total Problems Solved:** 46
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (55.6%): `███████████░░░░░░░░░` (25)
-- 🟡 **Medium** (42.2%): `████████░░░░░░░░░░░░` (19)
+- 🟢 **Easy** (54.3%): `███████████░░░░░░░░░` (25)
+- 🟡 **Medium** (43.5%): `█████████░░░░░░░░░░░` (20)
 - 🔴 **Hard** (2.2%): `░░░░░░░░░░░░░░░░░░░░` (1)
 
 ### Topic Breakdown
@@ -17,7 +17,7 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
 | **HashMaps** | 22 | 9 | 12 | 1 |
-| **Arrays** | 16 | 11 | 5 | 0 |
+| **Arrays** | 17 | 11 | 6 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 
 <!-- STATS:END -->
@@ -69,6 +69,7 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 | 1207 | Unique Number of Occurances | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/1207_unique_number_of_occurances) |
 | 1752 | Check If Array is Sorted and Rotated | 🟢 Easy | Arrays | [Code & Doc](./Arrays/1752_check_if_array_is_sorted_and_rotated) |
 | 2124 | Check if All A's appears before all B's | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2124_check_if_all_A's_appears_before_all_B's) |
+| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/2149_rearrange_array_elements_by_sign) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/3838_weighted_word_mapping) |
 | 3894 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | 🟢 Easy | Other | [Code & Doc](./Other/3894_traffic_signal_color) |
 | 3895 | [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/3895_count_digit_appearances) |

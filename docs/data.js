@@ -1,16 +1,16 @@
 const dsaData = {
-  "total": 45,
+  "total": 46,
   "difficulty": {
     "Easy": 25,
-    "Medium": 19,
+    "Medium": 20,
     "Hard": 1,
     "Unknown": 0
   },
   "categories": {
     "Arrays": {
-      "Total": 16,
+      "Total": 17,
       "Easy": 11,
-      "Medium": 5,
+      "Medium": 6,
       "Hard": 0,
       "Unknown": 0
     },
@@ -37,8 +37,8 @@ const dsaData = {
     "Hash Table": 12,
     "String": 13,
     "Sliding Window": 2,
-    "Array": 8,
-    "Two Pointers": 3,
+    "Array": 9,
+    "Two Pointers": 4,
     "String Matching": 1,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
@@ -55,7 +55,7 @@ const dsaData = {
     "Greedy": 1,
     "Stack": 1,
     "Monotonic Stack": 1,
-    "Simulation": 2,
+    "Simulation": 3,
     "Other": 2
   },
   "problems": [
@@ -69,7 +69,7 @@ const dsaData = {
         "Arrays"
       ],
       "date": "2026-08-06",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\1_two_sum"
+      "folder_path": "d:\\projects\\dsa\\Arrays\\1_two_sum"
     },
     {
       "num": 2,
@@ -83,7 +83,7 @@ const dsaData = {
         "Recursion"
       ],
       "date": "2026-06-05",
-      "folder_path": "D:\\projects\\dsa\\Other\\2_add_two_numbers"
+      "folder_path": "d:\\projects\\dsa\\Other\\2_add_two_numbers"
     },
     {
       "num": 3,
@@ -97,7 +97,7 @@ const dsaData = {
         "Sliding Window"
       ],
       "date": "2026-07-13",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\3_longest_substring_without_repeating_characters"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\3_longest_substring_without_repeating_characters"
     },
     {
       "num": 9,
@@ -109,7 +109,7 @@ const dsaData = {
         "Math"
       ],
       "date": "2025-07-25",
-      "folder_path": "D:\\projects\\dsa\\Other\\9_palindrome_number"
+      "folder_path": "d:\\projects\\dsa\\Other\\9_palindrome_number"
     },
     {
       "num": 12,
@@ -123,7 +123,7 @@ const dsaData = {
         "String"
       ],
       "date": "2026-07-13",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\12_integer_to_roman"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\12_integer_to_roman"
     },
     {
       "num": 13,
@@ -137,7 +137,7 @@ const dsaData = {
         "String"
       ],
       "date": "2026-07-14",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\13_roman_to_integer"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\13_roman_to_integer"
     },
     {
       "num": 27,
@@ -150,7 +150,7 @@ const dsaData = {
         "Two Pointers"
       ],
       "date": "2026-05-19",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\27_remove_element"
+      "folder_path": "d:\\projects\\dsa\\Arrays\\27_remove_element"
     },
     {
       "num": 28,
@@ -167,7 +167,7 @@ const dsaData = {
         "Boyer\u2013Moore String-Search Algorithm"
       ],
       "date": "2026-05-19",
-      "folder_path": "D:\\projects\\dsa\\Other\\28_find_the_index_of_the_first_occurrence_in_a_string"
+      "folder_path": "d:\\projects\\dsa\\Other\\28_find_the_index_of_the_first_occurrence_in_a_string"
     },
     {
       "num": 30,
@@ -181,7 +181,7 @@ const dsaData = {
         "Sliding Window"
       ],
       "date": "2026-05-20",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\30_substring_with_concatenation_of_all_words"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\30_substring_with_concatenation_of_all_words"
     },
     {
       "num": 49,
@@ -193,7 +193,7 @@ const dsaData = {
         "HashMaps"
       ],
       "date": "2026-07-18",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\49_Group_anagrams"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\49_Group_anagrams"
     },
     {
       "num": 53,
@@ -205,7 +205,7 @@ const dsaData = {
         "Arrays"
       ],
       "date": "2026-08-11",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\53_maximum_subarray"
+      "folder_path": "d:\\projects\\dsa\\Arrays\\53_maximum_subarray"
     },
     {
       "num": 75,
@@ -217,7 +217,7 @@ const dsaData = {
         "Arrays"
       ],
       "date": "2026-08-07",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\75_sort_colors"
+      "folder_path": "d:\\projects\\dsa\\Arrays\\75_sort_colors"
     },
     {
       "num": 118,
@@ -230,7 +230,7 @@ const dsaData = {
         "Dynamic Programming"
       ],
       "date": "2025-08-01",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\118_pascals_triangle"
+      "folder_path": "d:\\projects\\dsa\\Arrays\\118_pascals_triangle"
     },
     {
       "num": 121,
@@ -243,7 +243,7 @@ const dsaData = {
         "Dynamic Programming"
       ],
       "date": "2025-07-31",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\121_best_time_to_buy_and_sell_stock"
+      "folder_path": "d:\\projects\\dsa\\Arrays\\121_best_time_to_buy_and_sell_stock"
     },
     {
       "num": 125,
@@ -256,7 +256,7 @@ const dsaData = {
         "String"
       ],
       "date": "2025-07-29",
-      "folder_path": "D:\\projects\\dsa\\Other\\125_valid_palindrome"
+      "folder_path": "d:\\projects\\dsa\\Other\\125_valid_palindrome"
     },
     {
       "num": 128,
@@ -268,7 +268,7 @@ const dsaData = {
         "HashMaps"
       ],
       "date": "2026-07-20",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\128_longest_consecutive_sequence"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\128_longest_consecutive_sequence"
     },
     {
       "num": 136,
@@ -280,7 +280,7 @@ const dsaData = {
         "Arrays"
       ],
       "date": "2026-08-06",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\136_single_number"
+      "folder_path": "d:\\projects\\dsa\\Arrays\\136_single_number"
     },
     {
       "num": 169,
@@ -292,7 +292,7 @@ const dsaData = {
         "Arrays"
       ],
       "date": "2026-08-07",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\169_majority_element"
+      "folder_path": "d:\\projects\\dsa\\Arrays\\169_majority_element"
     },
     {
       "num": 189,
@@ -304,7 +304,7 @@ const dsaData = {
         "Arrays"
       ],
       "date": "2026-08-05",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\189_rotate_array"
+      "folder_path": "d:\\projects\\dsa\\Arrays\\189_rotate_array"
     },
     {
       "num": 202,
@@ -316,7 +316,7 @@ const dsaData = {
         "HashMaps"
       ],
       "date": "2026-07-19",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\202_happy_number"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\202_happy_number"
     },
     {
       "num": 205,
@@ -329,7 +329,7 @@ const dsaData = {
         "String"
       ],
       "date": "2026-07-16",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\205_isomorphic_strings"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\205_isomorphic_strings"
     },
     {
       "num": 283,
@@ -341,7 +341,7 @@ const dsaData = {
         "Arrays"
       ],
       "date": "2026-08-05",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\283_move_zeroes"
+      "folder_path": "d:\\projects\\dsa\\Arrays\\283_move_zeroes"
     },
     {
       "num": 290,
@@ -354,7 +354,7 @@ const dsaData = {
         "String"
       ],
       "date": "2026-07-17",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\290_word_pattern"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\290_word_pattern"
     },
     {
       "num": 349,
@@ -366,7 +366,7 @@ const dsaData = {
         "HashMaps"
       ],
       "date": "2026-07-19",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\349_intersection_of_two_arrays"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\349_intersection_of_two_arrays"
     },
     {
       "num": 383,
@@ -380,7 +380,7 @@ const dsaData = {
         "Counting"
       ],
       "date": "2026-07-16",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\383_ransom_note"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\383_ransom_note"
     },
     {
       "num": 387,
@@ -395,7 +395,7 @@ const dsaData = {
         "Counting"
       ],
       "date": "2026-07-16",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\387_first_unique_character_in_a_string"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\387_first_unique_character_in_a_string"
     },
     {
       "num": 451,
@@ -412,7 +412,7 @@ const dsaData = {
         "Counting"
       ],
       "date": "2026-07-17",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\451_sort_characters_by_frequency"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\451_sort_characters_by_frequency"
     },
     {
       "num": 485,
@@ -424,7 +424,7 @@ const dsaData = {
         "Arrays"
       ],
       "date": "2026-08-05",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\485_max_consecutive_ones"
+      "folder_path": "d:\\projects\\dsa\\Arrays\\485_max_consecutive_ones"
     },
     {
       "num": 523,
@@ -440,7 +440,7 @@ const dsaData = {
         "Prefix Sum"
       ],
       "date": "2026-07-22",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\523_continuous_subarray_sum"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\523_continuous_subarray_sum"
     },
     {
       "num": 525,
@@ -452,7 +452,7 @@ const dsaData = {
         "HashMaps"
       ],
       "date": "2026-07-25",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\525_contiguous_array"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\525_contiguous_array"
     },
     {
       "num": 560,
@@ -464,7 +464,7 @@ const dsaData = {
         "HashMaps"
       ],
       "date": "2026-07-24",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\560_subarray_sum_equals_k"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\560_subarray_sum_equals_k"
     },
     {
       "num": 659,
@@ -478,7 +478,7 @@ const dsaData = {
         "Array"
       ],
       "date": "2026-07-20",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\659_split_array_into_consecutive_subsequences"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\659_split_array_into_consecutive_subsequences"
     },
     {
       "num": 930,
@@ -490,7 +490,7 @@ const dsaData = {
         "HashMaps"
       ],
       "date": "2026-07-27",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\930_binary_subarrays_with_sum"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\930_binary_subarrays_with_sum"
     },
     {
       "num": 974,
@@ -502,7 +502,7 @@ const dsaData = {
         "HashMaps"
       ],
       "date": "2026-07-26",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\974_subarray_sums_divisible_by_k"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\974_subarray_sums_divisible_by_k"
     },
     {
       "num": 981,
@@ -514,7 +514,7 @@ const dsaData = {
         "HashMaps"
       ],
       "date": "2026-07-29",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\981_time_based_key_value_store"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\981_time_based_key_value_store"
     },
     {
       "num": 1002,
@@ -526,7 +526,7 @@ const dsaData = {
         "HashMaps"
       ],
       "date": "2026-07-19",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\1002_find_common_characters"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\1002_find_common_characters"
     },
     {
       "num": 1124,
@@ -542,7 +542,7 @@ const dsaData = {
         "Prefix Sum"
       ],
       "date": "2026-07-27",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\1124_longest_well_performing_interval"
+      "folder_path": "d:\\projects\\dsa\\Arrays\\1124_longest_well_performing_interval"
     },
     {
       "num": 1207,
@@ -554,7 +554,7 @@ const dsaData = {
         "HashMaps"
       ],
       "date": "2026-07-19",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\1207_unique_number_of_occurances"
+      "folder_path": "d:\\projects\\dsa\\HashMaps\\1207_unique_number_of_occurances"
     },
     {
       "num": 1752,
@@ -566,7 +566,7 @@ const dsaData = {
         "Arrays"
       ],
       "date": "2026-08-03",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\1752_check_if_array_is_sorted_and_rotated"
+      "folder_path": "d:\\projects\\dsa\\Arrays\\1752_check_if_array_is_sorted_and_rotated"
     },
     {
       "num": 2124,
@@ -578,7 +578,21 @@ const dsaData = {
         "Arrays"
       ],
       "date": "2026-08-03",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\2124_check_if_all_A's_appears_before_all_B's"
+      "folder_path": "d:\\projects\\dsa\\Arrays\\2124_check_if_all_A's_appears_before_all_B's"
+    },
+    {
+      "num": 2149,
+      "title": "Rearrange Array Elements by Sign",
+      "link": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "difficulty": "Medium",
+      "category": "Arrays",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Simulation"
+      ],
+      "date": "2026-08-14",
+      "folder_path": "d:\\projects\\dsa\\Arrays\\2149_rearrange_array_elements_by_sign"
     },
     {
       "num": 3838,
@@ -592,7 +606,7 @@ const dsaData = {
         "Simulation"
       ],
       "date": "2026-06-13",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\3838_weighted_word_mapping"
+      "folder_path": "d:\\projects\\dsa\\Arrays\\3838_weighted_word_mapping"
     },
     {
       "num": 3894,
@@ -606,7 +620,7 @@ const dsaData = {
         "Simulation"
       ],
       "date": "2026-04-11",
-      "folder_path": "D:\\projects\\dsa\\Other\\3894_traffic_signal_color"
+      "folder_path": "d:\\projects\\dsa\\Other\\3894_traffic_signal_color"
     },
     {
       "num": 3895,
@@ -619,7 +633,7 @@ const dsaData = {
         "Math"
       ],
       "date": "2026-04-11",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\3895_count_digit_appearances"
+      "folder_path": "d:\\projects\\dsa\\Arrays\\3895_count_digit_appearances"
     },
     {
       "num": 4010,
@@ -631,7 +645,7 @@ const dsaData = {
         "Other"
       ],
       "date": "2026-08-02",
-      "folder_path": "D:\\projects\\dsa\\Other\\4010_maximize_pair_strength_using_gcd"
+      "folder_path": "d:\\projects\\dsa\\Other\\4010_maximize_pair_strength_using_gcd"
     },
     {
       "num": 4011,
@@ -643,7 +657,7 @@ const dsaData = {
         "Other"
       ],
       "date": "2026-08-02",
-      "folder_path": "D:\\projects\\dsa\\Other\\4011_count_subarrays_with_even_odd_ratio_i"
+      "folder_path": "d:\\projects\\dsa\\Other\\4011_count_subarrays_with_even_odd_ratio_i"
     }
   ]
 };
