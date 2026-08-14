@@ -67,6 +67,15 @@
                     <div class="legend-item"><span class="dot hard"></span> Hard (<span id="stat-hard">0</span>)</div>
                 </div>
             </div>
+
+            <div class="topics-container glass">
+                <div class="stats-header" style="margin-bottom: 1rem;">
+                    <h3>Topic Breakdown</h3>
+                </div>
+                <div class="topic-pills-wrapper" id="topic-pills-wrapper">
+                    <!-- Topic pills will be injected here via JavaScript -->
+                </div>
+            </div>
         </header>
 
         <!-- Controls Section -->
@@ -99,6 +108,16 @@
                         <option value="date-asc">Sort: Date (Oldest First)</option>
                     </select>
                 </div>
+            </div>
+        </section>
+
+        <!-- Revision Section -->
+        <section class="revision-section glass" id="revision-section" style="display: none; padding: 2rem; margin-bottom: 3rem;">
+            <div class="stats-header" style="margin-bottom: 1.5rem; color: var(--accent-cyan);">
+                <h2><i class="fa-solid fa-clock-rotate-left"></i> To Be Revised Today</h2>
+            </div>
+            <div class="problems-grid" id="revision-grid">
+                <!-- Revision cards injected here -->
             </div>
         </section>
 

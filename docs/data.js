@@ -29,6 +29,35 @@ const dsaData = {
       "Unknown": 0
     }
   },
+  "topic_stats": {
+    "Arrays": 10,
+    "Linked List": 1,
+    "Math": 7,
+    "Recursion": 1,
+    "Hash Table": 12,
+    "String": 13,
+    "Sliding Window": 2,
+    "Array": 8,
+    "Two Pointers": 3,
+    "String Matching": 1,
+    "Z Algorithm": 1,
+    "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
+    "Boyer\u2013Moore String-Search Algorithm": 1,
+    "HashMaps": 11,
+    "Dynamic Programming": 2,
+    "Counting": 3,
+    "Queue": 1,
+    "Sorting": 1,
+    "Heap (Priority Queue)": 1,
+    "Bucket Sort": 1,
+    "Senior Staff": 1,
+    "Prefix Sum": 2,
+    "Greedy": 1,
+    "Stack": 1,
+    "Monotonic Stack": 1,
+    "Simulation": 2,
+    "Other": 2
+  },
   "problems": [
     {
       "num": 1,
@@ -36,8 +65,11 @@ const dsaData = {
       "link": "",
       "difficulty": "Easy",
       "category": "Arrays",
+      "topics": [
+        "Arrays"
+      ],
       "date": "2026-08-06",
-      "folder_path": "d:\\projects\\dsa\\Arrays\\1_two_sum"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\1_two_sum"
     },
     {
       "num": 2,
@@ -45,8 +77,13 @@ const dsaData = {
       "link": "https://leetcode.com/problems/add-two-numbers/",
       "difficulty": "Medium",
       "category": "Other",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ],
       "date": "2026-06-05",
-      "folder_path": "d:\\projects\\dsa\\Other\\2_add_two_numbers"
+      "folder_path": "D:\\projects\\dsa\\Other\\2_add_two_numbers"
     },
     {
       "num": 3,
@@ -54,8 +91,13 @@ const dsaData = {
       "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
       "difficulty": "Medium",
       "category": "HashMaps",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
       "date": "2026-07-13",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\3_longest_substring_without_repeating_characters"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\3_longest_substring_without_repeating_characters"
     },
     {
       "num": 9,
@@ -63,8 +105,11 @@ const dsaData = {
       "link": "https://leetcode.com/problems/palindrome-number/",
       "difficulty": "Easy",
       "category": "Other",
+      "topics": [
+        "Math"
+      ],
       "date": "2025-07-25",
-      "folder_path": "d:\\projects\\dsa\\Other\\9_palindrome_number"
+      "folder_path": "D:\\projects\\dsa\\Other\\9_palindrome_number"
     },
     {
       "num": 12,
@@ -72,8 +117,13 @@ const dsaData = {
       "link": "https://leetcode.com/problems/integer-to-roman/",
       "difficulty": "Medium",
       "category": "HashMaps",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ],
       "date": "2026-07-13",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\12_integer_to_roman"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\12_integer_to_roman"
     },
     {
       "num": 13,
@@ -81,8 +131,13 @@ const dsaData = {
       "link": "https://leetcode.com/problems/roman-to-integer/",
       "difficulty": "Easy",
       "category": "HashMaps",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ],
       "date": "2026-07-14",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\13_roman_to_integer"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\13_roman_to_integer"
     },
     {
       "num": 27,
@@ -90,8 +145,12 @@ const dsaData = {
       "link": "https://leetcode.com/problems/remove-element/",
       "difficulty": "Easy",
       "category": "Arrays",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
       "date": "2026-05-19",
-      "folder_path": "d:\\projects\\dsa\\Arrays\\27_remove_element"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\27_remove_element"
     },
     {
       "num": 28,
@@ -99,8 +158,16 @@ const dsaData = {
       "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
       "difficulty": "Easy",
       "category": "Other",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "String Matching",
+        "Z Algorithm",
+        "Knuth\u2013Morris\u2013Pratt Algorithm",
+        "Boyer\u2013Moore String-Search Algorithm"
+      ],
       "date": "2026-05-19",
-      "folder_path": "d:\\projects\\dsa\\Other\\28_find_the_index_of_the_first_occurrence_in_a_string"
+      "folder_path": "D:\\projects\\dsa\\Other\\28_find_the_index_of_the_first_occurrence_in_a_string"
     },
     {
       "num": 30,
@@ -108,8 +175,13 @@ const dsaData = {
       "link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
       "difficulty": "Hard",
       "category": "HashMaps",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
       "date": "2026-05-20",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\30_substring_with_concatenation_of_all_words"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\30_substring_with_concatenation_of_all_words"
     },
     {
       "num": 49,
@@ -117,8 +189,11 @@ const dsaData = {
       "link": "",
       "difficulty": "Medium",
       "category": "HashMaps",
+      "topics": [
+        "HashMaps"
+      ],
       "date": "2026-07-18",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\49_Group_anagrams"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\49_Group_anagrams"
     },
     {
       "num": 53,
@@ -126,8 +201,11 @@ const dsaData = {
       "link": "https://leetcode.com/problems/maximum-subarray/",
       "difficulty": "Medium",
       "category": "Arrays",
+      "topics": [
+        "Arrays"
+      ],
       "date": "2026-08-11",
-      "folder_path": "d:\\projects\\dsa\\Arrays\\53_maximum_subarray"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\53_maximum_subarray"
     },
     {
       "num": 75,
@@ -135,8 +213,11 @@ const dsaData = {
       "link": "https://leetcode.com/problems/sort-colors/",
       "difficulty": "Medium",
       "category": "Arrays",
+      "topics": [
+        "Arrays"
+      ],
       "date": "2026-08-07",
-      "folder_path": "d:\\projects\\dsa\\Arrays\\75_sort_colors"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\75_sort_colors"
     },
     {
       "num": 118,
@@ -144,8 +225,12 @@ const dsaData = {
       "link": "https://leetcode.com/problems/pascals-triangle/",
       "difficulty": "Easy",
       "category": "Arrays",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
       "date": "2025-08-01",
-      "folder_path": "d:\\projects\\dsa\\Arrays\\118_pascals_triangle"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\118_pascals_triangle"
     },
     {
       "num": 121,
@@ -153,8 +238,12 @@ const dsaData = {
       "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
       "difficulty": "Easy",
       "category": "Arrays",
-      "date": "2026-08-13",
-      "folder_path": "d:\\projects\\dsa\\Arrays\\121_best_time_to_buy_and_sell_stock"
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "date": "2025-07-31",
+      "folder_path": "D:\\projects\\dsa\\Arrays\\121_best_time_to_buy_and_sell_stock"
     },
     {
       "num": 125,
@@ -162,8 +251,12 @@ const dsaData = {
       "link": "https://leetcode.com/problems/valid-palindrome/",
       "difficulty": "Easy",
       "category": "Other",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
       "date": "2025-07-29",
-      "folder_path": "d:\\projects\\dsa\\Other\\125_valid_palindrome"
+      "folder_path": "D:\\projects\\dsa\\Other\\125_valid_palindrome"
     },
     {
       "num": 128,
@@ -171,8 +264,11 @@ const dsaData = {
       "link": "",
       "difficulty": "Medium",
       "category": "HashMaps",
+      "topics": [
+        "HashMaps"
+      ],
       "date": "2026-07-20",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\128_longest_consecutive_sequence"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\128_longest_consecutive_sequence"
     },
     {
       "num": 136,
@@ -180,8 +276,11 @@ const dsaData = {
       "link": "",
       "difficulty": "Easy",
       "category": "Arrays",
+      "topics": [
+        "Arrays"
+      ],
       "date": "2026-08-06",
-      "folder_path": "d:\\projects\\dsa\\Arrays\\136_single_number"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\136_single_number"
     },
     {
       "num": 169,
@@ -189,8 +288,11 @@ const dsaData = {
       "link": "https://leetcode.com/problems/majority-element/",
       "difficulty": "Easy",
       "category": "Arrays",
+      "topics": [
+        "Arrays"
+      ],
       "date": "2026-08-07",
-      "folder_path": "d:\\projects\\dsa\\Arrays\\169_majority_element"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\169_majority_element"
     },
     {
       "num": 189,
@@ -198,8 +300,11 @@ const dsaData = {
       "link": "",
       "difficulty": "Medium",
       "category": "Arrays",
+      "topics": [
+        "Arrays"
+      ],
       "date": "2026-08-05",
-      "folder_path": "d:\\projects\\dsa\\Arrays\\189_rotate_array"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\189_rotate_array"
     },
     {
       "num": 202,
@@ -207,8 +312,11 @@ const dsaData = {
       "link": "",
       "difficulty": "Easy",
       "category": "HashMaps",
+      "topics": [
+        "HashMaps"
+      ],
       "date": "2026-07-19",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\202_happy_number"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\202_happy_number"
     },
     {
       "num": 205,
@@ -216,8 +324,12 @@ const dsaData = {
       "link": "https://leetcode.com/problems/isomorphic-strings/",
       "difficulty": "Easy",
       "category": "HashMaps",
+      "topics": [
+        "Hash Table",
+        "String"
+      ],
       "date": "2026-07-16",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\205_isomorphic_strings"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\205_isomorphic_strings"
     },
     {
       "num": 283,
@@ -225,8 +337,11 @@ const dsaData = {
       "link": "",
       "difficulty": "Easy",
       "category": "Arrays",
+      "topics": [
+        "Arrays"
+      ],
       "date": "2026-08-05",
-      "folder_path": "d:\\projects\\dsa\\Arrays\\283_move_zeroes"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\283_move_zeroes"
     },
     {
       "num": 290,
@@ -234,8 +349,12 @@ const dsaData = {
       "link": "https://leetcode.com/problems/word-pattern/",
       "difficulty": "Easy",
       "category": "HashMaps",
+      "topics": [
+        "Hash Table",
+        "String"
+      ],
       "date": "2026-07-17",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\290_word_pattern"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\290_word_pattern"
     },
     {
       "num": 349,
@@ -243,8 +362,11 @@ const dsaData = {
       "link": "",
       "difficulty": "Easy",
       "category": "HashMaps",
+      "topics": [
+        "HashMaps"
+      ],
       "date": "2026-07-19",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\349_intersection_of_two_arrays"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\349_intersection_of_two_arrays"
     },
     {
       "num": 383,
@@ -252,8 +374,13 @@ const dsaData = {
       "link": "https://leetcode.com/problems/ransom-note/",
       "difficulty": "Easy",
       "category": "HashMaps",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
       "date": "2026-07-16",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\383_ransom_note"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\383_ransom_note"
     },
     {
       "num": 387,
@@ -261,8 +388,14 @@ const dsaData = {
       "link": "https://leetcode.com/problems/first-unique-character-in-a-string/",
       "difficulty": "Easy",
       "category": "HashMaps",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Queue",
+        "Counting"
+      ],
       "date": "2026-07-16",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\387_first_unique_character_in_a_string"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\387_first_unique_character_in_a_string"
     },
     {
       "num": 451,
@@ -270,8 +403,16 @@ const dsaData = {
       "link": "https://leetcode.com/problems/sort-characters-by-frequency/",
       "difficulty": "Medium",
       "category": "HashMaps",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting"
+      ],
       "date": "2026-07-17",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\451_sort_characters_by_frequency"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\451_sort_characters_by_frequency"
     },
     {
       "num": 485,
@@ -279,8 +420,11 @@ const dsaData = {
       "link": "",
       "difficulty": "Easy",
       "category": "Arrays",
+      "topics": [
+        "Arrays"
+      ],
       "date": "2026-08-05",
-      "folder_path": "d:\\projects\\dsa\\Arrays\\485_max_consecutive_ones"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\485_max_consecutive_ones"
     },
     {
       "num": 523,
@@ -288,8 +432,15 @@ const dsaData = {
       "link": "",
       "difficulty": "Medium",
       "category": "HashMaps",
+      "topics": [
+        "Senior Staff",
+        "Array",
+        "Hash Table",
+        "Math",
+        "Prefix Sum"
+      ],
       "date": "2026-07-22",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\523_continuous_subarray_sum"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\523_continuous_subarray_sum"
     },
     {
       "num": 525,
@@ -297,8 +448,11 @@ const dsaData = {
       "link": "",
       "difficulty": "Medium",
       "category": "HashMaps",
+      "topics": [
+        "HashMaps"
+      ],
       "date": "2026-07-25",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\525_contiguous_array"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\525_contiguous_array"
     },
     {
       "num": 560,
@@ -306,8 +460,11 @@ const dsaData = {
       "link": "",
       "difficulty": "Medium",
       "category": "HashMaps",
+      "topics": [
+        "HashMaps"
+      ],
       "date": "2026-07-24",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\560_subarray_sum_equals_k"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\560_subarray_sum_equals_k"
     },
     {
       "num": 659,
@@ -315,8 +472,13 @@ const dsaData = {
       "link": "",
       "difficulty": "Medium",
       "category": "HashMaps",
+      "topics": [
+        "Greedy",
+        "Hash Table",
+        "Array"
+      ],
       "date": "2026-07-20",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\659_split_array_into_consecutive_subsequences"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\659_split_array_into_consecutive_subsequences"
     },
     {
       "num": 930,
@@ -324,8 +486,11 @@ const dsaData = {
       "link": "",
       "difficulty": "Medium",
       "category": "HashMaps",
+      "topics": [
+        "HashMaps"
+      ],
       "date": "2026-07-27",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\930_binary_subarrays_with_sum"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\930_binary_subarrays_with_sum"
     },
     {
       "num": 974,
@@ -333,8 +498,11 @@ const dsaData = {
       "link": "",
       "difficulty": "Medium",
       "category": "HashMaps",
+      "topics": [
+        "HashMaps"
+      ],
       "date": "2026-07-26",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\974_subarray_sums_divisible_by_k"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\974_subarray_sums_divisible_by_k"
     },
     {
       "num": 981,
@@ -342,8 +510,11 @@ const dsaData = {
       "link": "",
       "difficulty": "Medium",
       "category": "HashMaps",
+      "topics": [
+        "HashMaps"
+      ],
       "date": "2026-07-29",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\981_time_based_key_value_store"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\981_time_based_key_value_store"
     },
     {
       "num": 1002,
@@ -351,8 +522,11 @@ const dsaData = {
       "link": "",
       "difficulty": "Easy",
       "category": "HashMaps",
+      "topics": [
+        "HashMaps"
+      ],
       "date": "2026-07-19",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\1002_find_common_characters"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\1002_find_common_characters"
     },
     {
       "num": 1124,
@@ -360,8 +534,15 @@ const dsaData = {
       "link": "https://leetcode.com/problems/longest-well-performing-interval/",
       "difficulty": "Medium",
       "category": "Arrays",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Stack",
+        "Monotonic Stack",
+        "Prefix Sum"
+      ],
       "date": "2026-07-27",
-      "folder_path": "d:\\projects\\dsa\\Arrays\\1124_longest_well_performing_interval"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\1124_longest_well_performing_interval"
     },
     {
       "num": 1207,
@@ -369,8 +550,11 @@ const dsaData = {
       "link": "",
       "difficulty": "Easy",
       "category": "HashMaps",
+      "topics": [
+        "HashMaps"
+      ],
       "date": "2026-07-19",
-      "folder_path": "d:\\projects\\dsa\\HashMaps\\1207_unique_number_of_occurances"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\1207_unique_number_of_occurances"
     },
     {
       "num": 1752,
@@ -378,8 +562,11 @@ const dsaData = {
       "link": "",
       "difficulty": "Easy",
       "category": "Arrays",
+      "topics": [
+        "Arrays"
+      ],
       "date": "2026-08-03",
-      "folder_path": "d:\\projects\\dsa\\Arrays\\1752_check_if_array_is_sorted_and_rotated"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\1752_check_if_array_is_sorted_and_rotated"
     },
     {
       "num": 2124,
@@ -387,8 +574,11 @@ const dsaData = {
       "link": "",
       "difficulty": "Easy",
       "category": "Arrays",
+      "topics": [
+        "Arrays"
+      ],
       "date": "2026-08-03",
-      "folder_path": "d:\\projects\\dsa\\Arrays\\2124_check_if_all_A's_appears_before_all_B's"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\2124_check_if_all_A's_appears_before_all_B's"
     },
     {
       "num": 3838,
@@ -396,8 +586,13 @@ const dsaData = {
       "link": "https://leetcode.com/problems/weighted-word-mapping/",
       "difficulty": "Easy",
       "category": "Arrays",
+      "topics": [
+        "Array",
+        "String",
+        "Simulation"
+      ],
       "date": "2026-06-13",
-      "folder_path": "d:\\projects\\dsa\\Arrays\\3838_weighted_word_mapping"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\3838_weighted_word_mapping"
     },
     {
       "num": 3894,
@@ -405,8 +600,13 @@ const dsaData = {
       "link": "https://leetcode.com/problems/traffic-signal-color/",
       "difficulty": "Easy",
       "category": "Other",
+      "topics": [
+        "Math",
+        "String",
+        "Simulation"
+      ],
       "date": "2026-04-11",
-      "folder_path": "d:\\projects\\dsa\\Other\\3894_traffic_signal_color"
+      "folder_path": "D:\\projects\\dsa\\Other\\3894_traffic_signal_color"
     },
     {
       "num": 3895,
@@ -414,8 +614,12 @@ const dsaData = {
       "link": "https://leetcode.com/problems/count-digit-appearances/",
       "difficulty": "Medium",
       "category": "Arrays",
+      "topics": [
+        "Array",
+        "Math"
+      ],
       "date": "2026-04-11",
-      "folder_path": "d:\\projects\\dsa\\Arrays\\3895_count_digit_appearances"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\3895_count_digit_appearances"
     },
     {
       "num": 4010,
@@ -423,8 +627,11 @@ const dsaData = {
       "link": "https://leetcode.com/problems/maximize-pair-strength-using-gcd/",
       "difficulty": "Easy",
       "category": "Other",
+      "topics": [
+        "Other"
+      ],
       "date": "2026-08-02",
-      "folder_path": "d:\\projects\\dsa\\Other\\4010_maximize_pair_strength_using_gcd"
+      "folder_path": "D:\\projects\\dsa\\Other\\4010_maximize_pair_strength_using_gcd"
     },
     {
       "num": 4011,
@@ -432,8 +639,11 @@ const dsaData = {
       "link": "https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-i/",
       "difficulty": "Medium",
       "category": "Other",
+      "topics": [
+        "Other"
+      ],
       "date": "2026-08-02",
-      "folder_path": "d:\\projects\\dsa\\Other\\4011_count_subarrays_with_even_odd_ratio_i"
+      "folder_path": "D:\\projects\\dsa\\Other\\4011_count_subarrays_with_even_odd_ratio_i"
     }
   ]
 };

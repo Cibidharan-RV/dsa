@@ -5,6 +5,8 @@ create_problem.py
 utils.py
 sync_leetcode.py
 generate_readme.py
+scratch.py
+scratch2.py
 
 template.md
 

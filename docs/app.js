@@ -21,6 +21,84 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }, 100);
 
+    // Render Topic Pills
+    const topicPillsWrapper = document.getElementById('topic-pills-wrapper');
+    if (topicPillsWrapper && data.topic_stats) {
+        const sortedTopics = Object.entries(data.topic_stats).sort((a, b) => b[1] - a[1]);
+        
+        let mainTopics = sortedTopics.filter(t => t[1] > 1);
+        let hiddenTopics = sortedTopics.filter(t => t[1] <= 1);
+        
+        // If we don't have enough main topics, just show the top 8
+        if (mainTopics.length < 5 && sortedTopics.length > 5) {
+            mainTopics = sortedTopics.slice(0, 8);
+            hiddenTopics = sortedTopics.slice(8);
+        }
+
+        const renderPill = (topic, count) => {
+            const pill = document.createElement('div');
+            pill.className = 'topic-pill';
+            pill.style.cursor = 'pointer';
+            pill.innerHTML = `<span>${topic}</span><span class="count">${count}</span>`;
+            
+            pill.addEventListener('click', () => {
+                const searchInput = document.getElementById('search-input');
+                if (searchInput) {
+                    searchInput.value = topic;
+                    searchInput.dispatchEvent(new Event('input'));
+                    
+                    const controlsSection = document.querySelector('.controls');
+                    if (controlsSection) {
+                        controlsSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    }
+                }
+            });
+            
+            return pill;
+        };
+
+        mainTopics.forEach(([topic, count]) => {
+            topicPillsWrapper.appendChild(renderPill(topic, count));
+        });
+
+        if (hiddenTopics.length > 0) {
+            const hiddenContainer = document.createElement('div');
+            hiddenContainer.style.display = 'none';
+            hiddenContainer.style.flexWrap = 'wrap';
+            hiddenContainer.style.gap = '0.8rem';
+            hiddenContainer.style.width = '100%';
+
+            hiddenTopics.forEach(([topic, count]) => {
+                hiddenContainer.appendChild(renderPill(topic, count));
+            });
+
+            const toggleBtn = document.createElement('div');
+            toggleBtn.className = 'topic-pill toggle-btn';
+            toggleBtn.style.cursor = 'pointer';
+            toggleBtn.style.background = 'var(--accent-blue)';
+            toggleBtn.style.color = 'var(--bg-color)';
+            toggleBtn.style.border = 'none';
+            toggleBtn.innerHTML = `<span>+ ${hiddenTopics.length} More</span>`;
+            
+            toggleBtn.addEventListener('click', () => {
+                if (hiddenContainer.style.display === 'none') {
+                    hiddenContainer.style.display = 'flex';
+                    toggleBtn.innerHTML = `<span>- Show Less</span>`;
+                    toggleBtn.style.background = 'var(--input-bg)';
+                    toggleBtn.style.color = 'var(--text-primary)';
+                } else {
+                    hiddenContainer.style.display = 'none';
+                    toggleBtn.innerHTML = `<span>+ ${hiddenTopics.length} More</span>`;
+                    toggleBtn.style.background = 'var(--accent-blue)';
+                    toggleBtn.style.color = 'var(--bg-color)';
+                }
+            });
+
+            topicPillsWrapper.appendChild(toggleBtn);
+            topicPillsWrapper.appendChild(hiddenContainer);
+        }
+    }
+
     // Generate Heatmap
     const heatmapData = {};
     let totalHeatmapProblems = 0;
@@ -96,52 +174,49 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // 2. Render Cards
+    function createProblemCard(p) {
+        const folderName = p.folder_path.split('\\').pop().split('/').pop();
+        const link = `https://github.com/cibidharan-rv/dsa/tree/main/${p.category}/${folderName}`;
+        
+        const card = document.createElement('a');
+        card.href = link;
+        card.target = "_blank";
+        const diffClass = p.difficulty ? p.difficulty.toLowerCase() : 'neutral';
+        card.className = `problem-card glass glow-${diffClass}`;
+        
+        card.addEventListener('mouseenter', () => {
+            gsap.to(card, { scale: 1.05, duration: 0.8, ease: "elastic.out(1, 0.3)" });
+        });
+        card.addEventListener('mouseleave', () => {
+            gsap.to(card, { scale: 1, duration: 0.8, ease: "elastic.out(1, 0.3)" });
+        });
+
+        card.innerHTML = `
+            <div class="card-header">
+                <span class="problem-num">#${p.num}</span>
+                <span class="difficulty-text ${diffClass}">${p.difficulty}</span>
+            </div>
+            <h3 class="problem-title">${p.title}</h3>
+            <div class="problem-meta" style="flex-direction: column; align-items: flex-start; gap: 0.5rem;">
+                <div style="display: flex; flex-wrap: wrap; gap: 0.3rem;">
+                    ${(p.topics && p.topics.length > 0 ? p.topics : [p.category]).map(t => `<span class="problem-topic">${t}</span>`).join('')}
+                </div>
+                <div style="display: flex; justify-content: flex-end; width: 100%; margin-top: 0.2rem;">
+                    <span class="problem-date">${p.date || 'Unknown Date'}</span>
+                </div>
+            </div>
+        `;
+        return card;
+    }
+
     function renderProblems(problemsToRender) {
         grid.innerHTML = '';
         resultsCount.innerText = `Found: ${problemsToRender.length}`;
 
         problemsToRender.forEach((p) => {
-            const folderName = p.folder_path.split('\\').pop().split('/').pop();
-            const link = `https://github.com/cibidharan-rv/dsa/tree/main/${p.category}/${folderName}`;
-            
-            const card = document.createElement('a');
-            card.href = link;
-            card.target = "_blank";
-            // Add underglow class based on difficulty
-            const diffClass = p.difficulty ? p.difficulty.toLowerCase() : 'neutral';
-            card.className = `problem-card glass glow-${diffClass}`;
-            
-            // GSAP hover effect (Elastic iOS Style)
-            card.addEventListener('mouseenter', () => {
-                gsap.to(card, {
-                    scale: 1.05,
-                    duration: 0.8,
-                    ease: "elastic.out(1, 0.3)"
-                });
-            });
-            card.addEventListener('mouseleave', () => {
-                gsap.to(card, {
-                    scale: 1,
-                    duration: 0.8,
-                    ease: "elastic.out(1, 0.3)"
-                });
-            });
-
-            card.innerHTML = `
-                <div class="card-header">
-                    <span class="problem-num">#${p.num}</span>
-                    <span class="difficulty-text ${diffClass}">${p.difficulty}</span>
-                </div>
-                <h3 class="problem-title">${p.title}</h3>
-                <div class="problem-meta">
-                    <span class="problem-topic">${p.category}</span>
-                    <span class="problem-date">${p.date || 'Unknown Date'}</span>
-                </div>
-            `;
-            grid.appendChild(card);
+            grid.appendChild(createProblemCard(p));
         });
 
-        // Re-initialize GSAP ScrollTrigger for new cards
         ScrollTrigger.refresh();
         animateCardsIn();
     }
@@ -158,7 +233,8 @@ document.addEventListener('DOMContentLoaded', () => {
         filteredData = data.problems.filter(p => {
             const matchesSearch = p.title.toLowerCase().includes(currentSearch) || 
                                   p.category.toLowerCase().includes(currentSearch) || 
-                                  p.num.toString().includes(currentSearch);
+                                  p.num.toString().includes(currentSearch) ||
+                                  (p.topics && p.topics.some(t => t.toLowerCase().includes(currentSearch)));
             const matchesDiff = currentDifficulty === 'All' || p.difficulty === currentDifficulty;
             const matchesCat = currentCategory === 'All' || p.category === currentCategory;
             
@@ -179,6 +255,38 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         renderProblems(filteredData);
+    }
+
+    // Forgetting Curve Logic
+    const revisionSection = document.getElementById('revision-section');
+    const revisionGrid = document.getElementById('revision-grid');
+    
+    if (revisionSection && revisionGrid) {
+        const todayDateObj = new Date();
+        todayDateObj.setHours(0,0,0,0);
+        
+        const revisionIntervals = [1, 3, 7, 14, 21, 30, 60, 90];
+        const dueProblems = [];
+        
+        data.problems.forEach(p => {
+            if (p.date) {
+                const pDate = new Date(p.date);
+                pDate.setHours(0,0,0,0);
+                const diffTime = todayDateObj.getTime() - pDate.getTime();
+                const diffDays = Math.round(diffTime / (1000 * 60 * 60 * 24));
+                
+                if (revisionIntervals.includes(diffDays)) {
+                    dueProblems.push(p);
+                }
+            }
+        });
+        
+        if (dueProblems.length > 0) {
+            revisionSection.style.display = 'block';
+            dueProblems.forEach(p => {
+                revisionGrid.appendChild(createProblemCard(p));
+            });
+        }
     }
 
     // Event Listeners for Filters/Sort

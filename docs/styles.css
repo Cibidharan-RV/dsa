@@ -311,6 +311,54 @@ body.light-mode .stats-container {
 .legend-item .dot.medium { background: var(--color-medium); box-shadow: 0 0 10px var(--glow-medium); }
 .legend-item .dot.hard { background: var(--color-hard); box-shadow: 0 0 10px var(--glow-hard); }
 
+/* Topics Container */
+.topics-container {
+    padding: 1.5rem 2rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 10px 40px var(--glow-neutral);
+    text-align: left;
+}
+
+body.light-mode .topics-container {
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
+.topic-pills-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+}
+
+.topic-pill {
+    background: var(--input-bg);
+    color: var(--text-primary);
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    box-shadow: 0 0 10px var(--glow-neutral);
+    border: 1px solid rgba(255,255,255,0.05);
+    transition: all 0.3s ease;
+    cursor: default;
+}
+
+.topic-pill:hover {
+    box-shadow: 0 0 20px var(--accent-cyan);
+    transform: translateY(-2px);
+}
+
+.topic-pill .count {
+    background: var(--text-primary);
+    color: var(--bg-color);
+    padding: 0.1rem 0.6rem;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    font-weight: 800;
+}
+
 /* Controls Section */
 .controls {
     padding: 1.5rem 2rem;
