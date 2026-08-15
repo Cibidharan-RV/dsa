@@ -5,19 +5,19 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 46
+**Total Problems Solved:** 47
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (54.3%): `███████████░░░░░░░░░` (25)
-- 🟡 **Medium** (43.5%): `█████████░░░░░░░░░░░` (20)
-- 🔴 **Hard** (2.2%): `░░░░░░░░░░░░░░░░░░░░` (1)
+- 🟢 **Easy** (53.2%): `███████████░░░░░░░░░` (25)
+- 🟡 **Medium** (44.7%): `█████████░░░░░░░░░░░` (21)
+- 🔴 **Hard** (2.1%): `░░░░░░░░░░░░░░░░░░░░` (1)
 
 ### Topic Breakdown
 
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
 | **HashMaps** | 22 | 9 | 12 | 1 |
-| **Arrays** | 17 | 11 | 6 | 0 |
+| **Arrays** | 18 | 11 | 7 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 
 <!-- STATS:END -->
@@ -38,6 +38,7 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/27_remove_element) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | Other | [Code & Doc](./Other/28_find_the_index_of_the_first_occurrence_in_a_string) |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | 🔴 Hard | HashMaps | [Code & Doc](./HashMaps/30_substring_with_concatenation_of_all_words) |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/31_next_permutation) |
 | 49 | Group Anagrams | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/49_Group_anagrams) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/53_maximum_subarray) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/75_sort_colors) |
