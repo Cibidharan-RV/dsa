@@ -1,16 +1,16 @@
 const dsaData = {
-  "total": 47,
+  "total": 48,
   "difficulty": {
     "Easy": 25,
-    "Medium": 21,
+    "Medium": 22,
     "Hard": 1,
     "Unknown": 0
   },
   "categories": {
     "Arrays": {
-      "Total": 18,
+      "Total": 19,
       "Easy": 11,
-      "Medium": 7,
+      "Medium": 8,
       "Hard": 0,
       "Unknown": 0
     },
@@ -34,16 +34,17 @@ const dsaData = {
     "Linked List": 1,
     "Math": 7,
     "Recursion": 1,
-    "Hash Table": 12,
+    "Hash Table": 13,
     "String": 13,
     "Sliding Window": 2,
-    "Array": 10,
+    "Array": 11,
     "Two Pointers": 5,
     "String Matching": 1,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
     "HashMaps": 11,
+    "Matrix": 1,
     "Dynamic Programming": 2,
     "Counting": 3,
     "Queue": 1,
@@ -219,6 +220,20 @@ const dsaData = {
       ],
       "date": "2026-08-11",
       "folder_path": "D:\\projects\\dsa\\Arrays\\53_maximum_subarray"
+    },
+    {
+      "num": 73,
+      "title": "Set Matrix Zeroes",
+      "link": "https://leetcode.com/problems/set-matrix-zeroes/",
+      "difficulty": "Medium",
+      "category": "Arrays",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ],
+      "date": "2026-08-15",
+      "folder_path": "D:\\projects\\dsa\\Arrays\\73_set_matrix_zeroes"
     },
     {
       "num": 75,

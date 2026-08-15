@@ -5,11 +5,11 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 47
+**Total Problems Solved:** 48
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (53.2%): `███████████░░░░░░░░░` (25)
-- 🟡 **Medium** (44.7%): `█████████░░░░░░░░░░░` (21)
+- 🟢 **Easy** (52.1%): `██████████░░░░░░░░░░` (25)
+- 🟡 **Medium** (45.8%): `█████████░░░░░░░░░░░` (22)
 - 🔴 **Hard** (2.1%): `░░░░░░░░░░░░░░░░░░░░` (1)
 
 ### Topic Breakdown
@@ -17,7 +17,7 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
 | **HashMaps** | 22 | 9 | 12 | 1 |
-| **Arrays** | 18 | 11 | 7 | 0 |
+| **Arrays** | 19 | 11 | 8 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 
 <!-- STATS:END -->
@@ -41,6 +41,7 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/31_next_permutation) |
 | 49 | Group Anagrams | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/49_Group_anagrams) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/53_maximum_subarray) |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/73_set_matrix_zeroes) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/75_sort_colors) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/118_pascals_triangle) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/121_best_time_to_buy_and_sell_stock) |
