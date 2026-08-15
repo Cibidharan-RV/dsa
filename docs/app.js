@@ -305,10 +305,24 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Event Listeners for Filters/Sort
+    const clearSearchBtn = document.getElementById('clear-search-btn');
+
     searchInput.addEventListener('input', (e) => {
         currentSearch = e.target.value.toLowerCase();
+        if (clearSearchBtn) {
+            clearSearchBtn.style.display = currentSearch.length > 0 ? 'block' : 'none';
+        }
         applyFiltersAndSort();
     });
+
+    if (clearSearchBtn) {
+        clearSearchBtn.addEventListener('click', () => {
+            searchInput.value = '';
+            currentSearch = '';
+            clearSearchBtn.style.display = 'none';
+            applyFiltersAndSort();
+        });
+    }
 
     filterBtns.forEach(btn => {
         btn.addEventListener('click', () => {

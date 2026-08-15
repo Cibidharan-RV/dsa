@@ -81,7 +81,10 @@
         <!-- Controls Section -->
         <section class="controls glass">
             <div class="controls-top">
-                <input type="text" id="search-input" placeholder="Search by name, number, or topic...">
+                <div class="search-wrapper">
+                    <input type="text" id="search-input" placeholder="Search by name, number, or topic...">
+                    <button id="clear-search-btn" class="clear-search-btn" style="display: none;" title="Clear search"><i class="fa-solid fa-times"></i></button>
+                </div>
                 <div class="controls-actions">
                     <span id="results-count" class="results-counter">Found: 0</span>
                     <button id="random-btn" class="action-btn">🎲 Random Problem</button>
@@ -134,6 +137,7 @@
                 <a href="https://x.com/CibidharanRV" target="_blank" title="X (Twitter)"><i class="fa-brands fa-x-twitter"></i></a>
                 <a href="https://www.threads.net/@cibidharan" target="_blank" title="Threads"><i class="fa-brands fa-threads"></i></a>
                 <a href="https://www.instagram.com/cibidharan/" target="_blank" title="Instagram"><i class="fa-brands fa-instagram"></i></a>
+                <a href="mailto:rvcibidharan@gmail.com" title="Email"><i class="fa-solid fa-envelope"></i></a>
             </div>
             <p>Generated automatically with 💙 from LeetCode sync scripts.</p>
         </footer>
