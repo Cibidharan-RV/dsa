@@ -31,7 +31,7 @@ The main idea is:
 
 ## Time Complexity
 
-O(nrow \times ncol)
+O(nrow × ncol)
 
 ## Space Complexity
 
@@ -44,11 +44,6 @@ O(1)
 - Use the matrix itself as extra storage.
 - matrix[0][0] cannot represent both first row and first column.
 - Mark first, modify later.
-
-$m
-- Initially used unordered_set for rows and columns.
-- Changed to in-place marking to reduce space from O(nrow + ncol) to O(1).
-
 ---
 
 ## Mistakes Made
