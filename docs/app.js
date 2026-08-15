@@ -47,9 +47,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     searchInput.value = topic;
                     searchInput.dispatchEvent(new Event('input'));
                     
-                    const controlsSection = document.querySelector('.controls');
-                    if (controlsSection) {
-                        controlsSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                    const gridSection = document.getElementById('problems-grid');
+                    if (gridSection) {
+                        gridSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
                     }
                 }
             });
@@ -245,17 +245,32 @@ document.addEventListener('DOMContentLoaded', () => {
         filteredData.sort((a, b) => {
             if (currentSort === 'num-asc') return a.num - b.num;
             
-            // Date parsing for sorting
-            const dateA = a.date ? new Date(a.date).getTime() : 0;
-            const dateB = b.date ? new Date(b.date).getTime() : 0;
-            
-            if (currentSort === 'date-desc') return dateB - dateA; // Newest first
-            if (currentSort === 'date-asc') return dateA - dateB;  // Oldest first
-            return 0;
-        });
+        // Date parsing for sorting
+        const dateA = a.date ? new Date(a.date).getTime() : 0;
+        const dateB = b.date ? new Date(b.date).getTime() : 0;
+        
+        if (currentSort === 'date-desc') return dateB - dateA; // Newest first
+        if (currentSort === 'date-asc') return dateA - dateB;  // Oldest first
+        return 0;
+    });
 
-        renderProblems(filteredData);
+    // Hide/Show Revision section BEFORE rendering problems to ensure GSAP ScrollTrigger 
+    // calculates the correct Y-axis positions for animations without jumping.
+    const revisionSection = document.getElementById('revision-section');
+    const revisionGrid = document.getElementById('revision-grid');
+    if (revisionSection && revisionGrid) {
+        const hasActiveFilters = currentSearch !== '' || currentDifficulty !== 'All' || currentCategory !== 'All';
+        const hasDueProblems = revisionGrid.children.length > 0;
+        
+        if (hasActiveFilters) {
+            revisionSection.style.display = 'none';
+        } else if (hasDueProblems) {
+            revisionSection.style.display = 'block';
+        }
     }
+
+    renderProblems(filteredData);
+}
 
     // Forgetting Curve Logic
     const revisionSection = document.getElementById('revision-section');
