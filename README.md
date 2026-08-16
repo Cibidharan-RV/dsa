@@ -5,19 +5,19 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 48
+**Total Problems Solved:** 49
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (52.1%): `██████████░░░░░░░░░░` (25)
-- 🟡 **Medium** (45.8%): `█████████░░░░░░░░░░░` (22)
-- 🔴 **Hard** (2.1%): `░░░░░░░░░░░░░░░░░░░░` (1)
+- 🟢 **Easy** (51.0%): `██████████░░░░░░░░░░` (25)
+- 🟡 **Medium** (46.9%): `█████████░░░░░░░░░░░` (23)
+- 🔴 **Hard** (2.0%): `░░░░░░░░░░░░░░░░░░░░` (1)
 
 ### Topic Breakdown
 
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
 | **HashMaps** | 22 | 9 | 12 | 1 |
-| **Arrays** | 19 | 11 | 8 | 0 |
+| **Arrays** | 20 | 11 | 9 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 
 <!-- STATS:END -->
@@ -39,6 +39,7 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | Other | [Code & Doc](./Other/28_find_the_index_of_the_first_occurrence_in_a_string) |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | 🔴 Hard | HashMaps | [Code & Doc](./HashMaps/30_substring_with_concatenation_of_all_words) |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/31_next_permutation) |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/48_rotate_image) |
 | 49 | Group Anagrams | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/49_Group_anagrams) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/53_maximum_subarray) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/73_set_matrix_zeroes) |

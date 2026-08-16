@@ -1,16 +1,16 @@
 const dsaData = {
-  "total": 48,
+  "total": 49,
   "difficulty": {
     "Easy": 25,
-    "Medium": 22,
+    "Medium": 23,
     "Hard": 1,
     "Unknown": 0
   },
   "categories": {
     "Arrays": {
-      "Total": 19,
+      "Total": 20,
       "Easy": 11,
-      "Medium": 8,
+      "Medium": 9,
       "Hard": 0,
       "Unknown": 0
     },
@@ -32,19 +32,19 @@ const dsaData = {
   "topic_stats": {
     "Arrays": 10,
     "Linked List": 1,
-    "Math": 7,
+    "Math": 8,
     "Recursion": 1,
     "Hash Table": 13,
     "String": 13,
     "Sliding Window": 2,
-    "Array": 11,
+    "Array": 12,
     "Two Pointers": 5,
     "String Matching": 1,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
+    "Matrix": 2,
     "HashMaps": 11,
-    "Matrix": 1,
     "Dynamic Programming": 2,
     "Counting": 3,
     "Queue": 1,
@@ -196,6 +196,20 @@ const dsaData = {
       ],
       "date": "2026-08-15",
       "folder_path": "D:\\projects\\dsa\\Arrays\\31_next_permutation"
+    },
+    {
+      "num": 48,
+      "title": "Rotate Image",
+      "link": "https://leetcode.com/problems/rotate-image/",
+      "difficulty": "Medium",
+      "category": "Arrays",
+      "topics": [
+        "Array",
+        "Math",
+        "Matrix"
+      ],
+      "date": "2026-08-16",
+      "folder_path": "D:\\projects\\dsa\\Arrays\\48_rotate_image"
     },
     {
       "num": 49,
