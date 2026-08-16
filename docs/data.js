@@ -1,16 +1,16 @@
 const dsaData = {
-  "total": 49,
+  "total": 50,
   "difficulty": {
     "Easy": 25,
-    "Medium": 23,
+    "Medium": 24,
     "Hard": 1,
     "Unknown": 0
   },
   "categories": {
     "Arrays": {
-      "Total": 20,
+      "Total": 21,
       "Easy": 11,
-      "Medium": 9,
+      "Medium": 10,
       "Hard": 0,
       "Unknown": 0
     },
@@ -37,14 +37,15 @@ const dsaData = {
     "Hash Table": 13,
     "String": 13,
     "Sliding Window": 2,
-    "Array": 12,
+    "Array": 13,
     "Two Pointers": 5,
     "String Matching": 1,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Matrix": 2,
+    "Matrix": 3,
     "HashMaps": 11,
+    "Simulation": 4,
     "Dynamic Programming": 2,
     "Counting": 3,
     "Queue": 1,
@@ -56,7 +57,6 @@ const dsaData = {
     "Greedy": 1,
     "Stack": 1,
     "Monotonic Stack": 1,
-    "Simulation": 3,
     "Other": 2
   },
   "problems": [
@@ -234,6 +234,20 @@ const dsaData = {
       ],
       "date": "2026-08-11",
       "folder_path": "D:\\projects\\dsa\\Arrays\\53_maximum_subarray"
+    },
+    {
+      "num": 54,
+      "title": "Spiral Matrix",
+      "link": "https://leetcode.com/problems/spiral-matrix/",
+      "difficulty": "Medium",
+      "category": "Arrays",
+      "topics": [
+        "Array",
+        "Matrix",
+        "Simulation"
+      ],
+      "date": "2026-08-16",
+      "folder_path": "D:\\projects\\dsa\\Arrays\\54_spiral_matrix"
     },
     {
       "num": 73,

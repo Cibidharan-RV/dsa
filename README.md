@@ -5,11 +5,11 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 49
+**Total Problems Solved:** 50
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (51.0%): `██████████░░░░░░░░░░` (25)
-- 🟡 **Medium** (46.9%): `█████████░░░░░░░░░░░` (23)
+- 🟢 **Easy** (50.0%): `██████████░░░░░░░░░░` (25)
+- 🟡 **Medium** (48.0%): `██████████░░░░░░░░░░` (24)
 - 🔴 **Hard** (2.0%): `░░░░░░░░░░░░░░░░░░░░` (1)
 
 ### Topic Breakdown
@@ -17,7 +17,7 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
 | **HashMaps** | 22 | 9 | 12 | 1 |
-| **Arrays** | 20 | 11 | 9 | 0 |
+| **Arrays** | 21 | 11 | 10 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 
 <!-- STATS:END -->
@@ -42,6 +42,7 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/48_rotate_image) |
 | 49 | Group Anagrams | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/49_Group_anagrams) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/53_maximum_subarray) |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/54_spiral_matrix) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/73_set_matrix_zeroes) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/75_sort_colors) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/118_pascals_triangle) |
