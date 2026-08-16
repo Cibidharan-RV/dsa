@@ -1,16 +1,16 @@
 const dsaData = {
-  "total": 50,
+  "total": 51,
   "difficulty": {
     "Easy": 25,
-    "Medium": 24,
+    "Medium": 25,
     "Hard": 1,
     "Unknown": 0
   },
   "categories": {
     "Arrays": {
-      "Total": 21,
+      "Total": 22,
       "Easy": 11,
-      "Medium": 10,
+      "Medium": 11,
       "Hard": 0,
       "Unknown": 0
     },
@@ -34,10 +34,10 @@ const dsaData = {
     "Linked List": 1,
     "Math": 8,
     "Recursion": 1,
-    "Hash Table": 13,
+    "Hash Table": 14,
     "String": 13,
     "Sliding Window": 2,
-    "Array": 13,
+    "Array": 14,
     "Two Pointers": 5,
     "String Matching": 1,
     "Z Algorithm": 1,
@@ -47,9 +47,10 @@ const dsaData = {
     "HashMaps": 11,
     "Simulation": 4,
     "Dynamic Programming": 2,
-    "Counting": 3,
+    "Sorting": 2,
+    "Counting": 4,
+    "Boyer\u2013Moore Majority Vote Algorithm": 1,
     "Queue": 1,
-    "Sorting": 1,
     "Heap (Priority Queue)": 1,
     "Bucket Sort": 1,
     "Senior Staff": 1,
@@ -386,6 +387,22 @@ const dsaData = {
       ],
       "date": "2026-07-16",
       "folder_path": "D:\\projects\\dsa\\HashMaps\\205_isomorphic_strings"
+    },
+    {
+      "num": 229,
+      "title": "Majority Element II",
+      "link": "https://leetcode.com/problems/majority-element-ii/",
+      "difficulty": "Medium",
+      "category": "Arrays",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting",
+        "Counting",
+        "Boyer\u2013Moore Majority Vote Algorithm"
+      ],
+      "date": "2026-08-16",
+      "folder_path": "D:\\projects\\dsa\\Arrays\\229_majority_element_ii"
     },
     {
       "num": 283,

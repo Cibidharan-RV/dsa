@@ -5,19 +5,19 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 50
+**Total Problems Solved:** 51
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (50.0%): `██████████░░░░░░░░░░` (25)
-- 🟡 **Medium** (48.0%): `██████████░░░░░░░░░░` (24)
+- 🟢 **Easy** (49.0%): `██████████░░░░░░░░░░` (25)
+- 🟡 **Medium** (49.0%): `██████████░░░░░░░░░░` (25)
 - 🔴 **Hard** (2.0%): `░░░░░░░░░░░░░░░░░░░░` (1)
 
 ### Topic Breakdown
 
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
+| **Arrays** | 22 | 11 | 11 | 0 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
-| **Arrays** | 21 | 11 | 10 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 
 <!-- STATS:END -->
@@ -54,6 +54,7 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 | 189 | Rotate  Array | 🟡 Medium | Arrays | [Code & Doc](./Arrays/189_rotate_array) |
 | 202 | Happy Number | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/202_happy_number) |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/205_isomorphic_strings) |
+| 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/229_majority_element_ii) |
 | 283 | Move Zeroes | 🟢 Easy | Arrays | [Code & Doc](./Arrays/283_move_zeroes) |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/290_word_pattern) |
 | 349 | Intersection of Two Arrays | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/349_intersection_of_two_arrays) |
