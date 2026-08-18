@@ -1,16 +1,16 @@
 const dsaData = {
-  "total": 52,
+  "total": 53,
   "difficulty": {
     "Easy": 25,
-    "Medium": 26,
+    "Medium": 27,
     "Hard": 1,
     "Unknown": 0
   },
   "categories": {
     "Arrays": {
-      "Total": 23,
+      "Total": 24,
       "Easy": 11,
-      "Medium": 12,
+      "Medium": 13,
       "Hard": 0,
       "Unknown": 0
     },
@@ -37,9 +37,9 @@ const dsaData = {
     "Hash Table": 14,
     "String": 13,
     "Sliding Window": 2,
-    "Array": 15,
-    "Two Pointers": 6,
-    "Sorting": 3,
+    "Array": 16,
+    "Two Pointers": 7,
+    "Sorting": 4,
     "String Matching": 1,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
@@ -154,6 +154,20 @@ const dsaData = {
       ],
       "date": "2026-08-18",
       "folder_path": "D:\\projects\\dsa\\Arrays\\15_3sum"
+    },
+    {
+      "num": 18,
+      "title": "4Sum",
+      "link": "https://leetcode.com/problems/4sum/",
+      "difficulty": "Medium",
+      "category": "Arrays",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "date": "2026-08-18",
+      "folder_path": "D:\\projects\\dsa\\Arrays\\18_4sum"
     },
     {
       "num": 27,
