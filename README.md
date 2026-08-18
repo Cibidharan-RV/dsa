@@ -5,18 +5,18 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 51
+**Total Problems Solved:** 52
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (49.0%): `██████████░░░░░░░░░░` (25)
-- 🟡 **Medium** (49.0%): `██████████░░░░░░░░░░` (25)
-- 🔴 **Hard** (2.0%): `░░░░░░░░░░░░░░░░░░░░` (1)
+- 🟢 **Easy** (48.1%): `██████████░░░░░░░░░░` (25)
+- 🟡 **Medium** (50.0%): `██████████░░░░░░░░░░` (26)
+- 🔴 **Hard** (1.9%): `░░░░░░░░░░░░░░░░░░░░` (1)
 
 ### Topic Breakdown
 
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
-| **Arrays** | 22 | 11 | 11 | 0 |
+| **Arrays** | 23 | 11 | 12 | 0 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Other** | 7 | 5 | 2 | 0 |
 
@@ -35,6 +35,7 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | Other | [Code & Doc](./Other/9_palindrome_number) |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/12_integer_to_roman) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/13_roman_to_integer) |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/15_3sum) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/27_remove_element) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | Other | [Code & Doc](./Other/28_find_the_index_of_the_first_occurrence_in_a_string) |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | 🔴 Hard | HashMaps | [Code & Doc](./HashMaps/30_substring_with_concatenation_of_all_words) |

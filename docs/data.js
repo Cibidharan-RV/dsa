@@ -1,16 +1,16 @@
 const dsaData = {
-  "total": 51,
+  "total": 52,
   "difficulty": {
     "Easy": 25,
-    "Medium": 25,
+    "Medium": 26,
     "Hard": 1,
     "Unknown": 0
   },
   "categories": {
     "Arrays": {
-      "Total": 22,
+      "Total": 23,
       "Easy": 11,
-      "Medium": 11,
+      "Medium": 12,
       "Hard": 0,
       "Unknown": 0
     },
@@ -37,8 +37,9 @@ const dsaData = {
     "Hash Table": 14,
     "String": 13,
     "Sliding Window": 2,
-    "Array": 14,
-    "Two Pointers": 5,
+    "Array": 15,
+    "Two Pointers": 6,
+    "Sorting": 3,
     "String Matching": 1,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
@@ -47,7 +48,6 @@ const dsaData = {
     "HashMaps": 11,
     "Simulation": 4,
     "Dynamic Programming": 2,
-    "Sorting": 2,
     "Counting": 4,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
     "Queue": 1,
@@ -140,6 +140,20 @@ const dsaData = {
       ],
       "date": "2026-07-14",
       "folder_path": "D:\\projects\\dsa\\HashMaps\\13_roman_to_integer"
+    },
+    {
+      "num": 15,
+      "title": "3Sum",
+      "link": "https://leetcode.com/problems/3sum/",
+      "difficulty": "Medium",
+      "category": "Arrays",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "date": "2026-08-18",
+      "folder_path": "D:\\projects\\dsa\\Arrays\\15_3sum"
     },
     {
       "num": 27,
