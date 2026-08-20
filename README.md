@@ -5,18 +5,18 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 53
+**Total Problems Solved:** 54
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (47.2%): `█████████░░░░░░░░░░░` (25)
-- 🟡 **Medium** (50.9%): `██████████░░░░░░░░░░` (27)
+- 🟢 **Easy** (46.3%): `█████████░░░░░░░░░░░` (25)
+- 🟡 **Medium** (51.9%): `██████████░░░░░░░░░░` (28)
 - 🔴 **Hard** (1.9%): `░░░░░░░░░░░░░░░░░░░░` (1)
 
 ### Topic Breakdown
 
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
-| **Arrays** | 24 | 11 | 13 | 0 |
+| **Arrays** | 25 | 11 | 14 | 0 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Other** | 7 | 5 | 2 | 0 |
 
@@ -45,6 +45,7 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 | 49 | Group Anagrams | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/49_Group_anagrams) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/53_maximum_subarray) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/54_spiral_matrix) |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/56_merge_intervals) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/73_set_matrix_zeroes) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/75_sort_colors) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/118_pascals_triangle) |

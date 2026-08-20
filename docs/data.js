@@ -1,16 +1,16 @@
 const dsaData = {
-  "total": 53,
+  "total": 54,
   "difficulty": {
     "Easy": 25,
-    "Medium": 27,
+    "Medium": 28,
     "Hard": 1,
     "Unknown": 0
   },
   "categories": {
     "Arrays": {
-      "Total": 24,
+      "Total": 25,
       "Easy": 11,
-      "Medium": 13,
+      "Medium": 14,
       "Hard": 0,
       "Unknown": 0
     },
@@ -37,9 +37,9 @@ const dsaData = {
     "Hash Table": 14,
     "String": 13,
     "Sliding Window": 2,
-    "Array": 16,
+    "Array": 17,
     "Two Pointers": 7,
-    "Sorting": 4,
+    "Sorting": 5,
     "String Matching": 1,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
@@ -47,6 +47,7 @@ const dsaData = {
     "Matrix": 3,
     "HashMaps": 11,
     "Simulation": 4,
+    "Quicksort": 1,
     "Dynamic Programming": 2,
     "Counting": 4,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
@@ -277,6 +278,20 @@ const dsaData = {
       ],
       "date": "2026-08-16",
       "folder_path": "D:\\projects\\dsa\\Arrays\\54_spiral_matrix"
+    },
+    {
+      "num": 56,
+      "title": "Merge Intervals",
+      "link": "https://leetcode.com/problems/merge-intervals/",
+      "difficulty": "Medium",
+      "category": "Arrays",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Quicksort"
+      ],
+      "date": "2026-08-20",
+      "folder_path": "D:\\projects\\dsa\\Arrays\\56_merge_intervals"
     },
     {
       "num": 73,
