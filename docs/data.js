@@ -1,15 +1,15 @@
 const dsaData = {
-  "total": 55,
+  "total": 56,
   "difficulty": {
-    "Easy": 26,
+    "Easy": 27,
     "Medium": 28,
     "Hard": 1,
     "Unknown": 0
   },
   "categories": {
     "Arrays": {
-      "Total": 26,
-      "Easy": 12,
+      "Total": 27,
+      "Easy": 13,
       "Medium": 14,
       "Hard": 0,
       "Unknown": 0
@@ -32,19 +32,19 @@ const dsaData = {
   "topic_stats": {
     "Arrays": 10,
     "Linked List": 1,
-    "Math": 8,
+    "Math": 9,
     "Recursion": 1,
-    "Hash Table": 14,
+    "Hash Table": 15,
     "String": 13,
     "Sliding Window": 2,
-    "Array": 18,
+    "Array": 19,
     "Two Pointers": 8,
     "Sorting": 6,
     "String Matching": 1,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Matrix": 3,
+    "Matrix": 4,
     "HashMaps": 11,
     "Simulation": 4,
     "Quicksort": 1,
@@ -723,6 +723,21 @@ const dsaData = {
       ],
       "date": "2026-08-14",
       "folder_path": "D:\\projects\\dsa\\Arrays\\2149_rearrange_array_elements_by_sign"
+    },
+    {
+      "num": 2965,
+      "title": "Find Missing and Repeated Values",
+      "link": "https://leetcode.com/problems/find-missing-and-repeated-values/",
+      "difficulty": "Easy",
+      "category": "Arrays",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Matrix"
+      ],
+      "date": "2026-08-21",
+      "folder_path": "D:\\projects\\dsa\\Arrays\\2965_find_missing_and_repeated_values"
     },
     {
       "num": 3838,
