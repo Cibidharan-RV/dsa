@@ -5,18 +5,18 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 54
+**Total Problems Solved:** 55
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (46.3%): `█████████░░░░░░░░░░░` (25)
-- 🟡 **Medium** (51.9%): `██████████░░░░░░░░░░` (28)
-- 🔴 **Hard** (1.9%): `░░░░░░░░░░░░░░░░░░░░` (1)
+- 🟢 **Easy** (47.3%): `█████████░░░░░░░░░░░` (26)
+- 🟡 **Medium** (50.9%): `██████████░░░░░░░░░░` (28)
+- 🔴 **Hard** (1.8%): `░░░░░░░░░░░░░░░░░░░░` (1)
 
 ### Topic Breakdown
 
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
-| **Arrays** | 25 | 11 | 14 | 0 |
+| **Arrays** | 26 | 12 | 14 | 0 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Other** | 7 | 5 | 2 | 0 |
 
@@ -48,6 +48,7 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/56_merge_intervals) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/73_set_matrix_zeroes) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/75_sort_colors) |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/88_merge_sorted_array) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/118_pascals_triangle) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/121_best_time_to_buy_and_sell_stock) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | Other | [Code & Doc](./Other/125_valid_palindrome) |

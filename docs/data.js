@@ -1,15 +1,15 @@
 const dsaData = {
-  "total": 54,
+  "total": 55,
   "difficulty": {
-    "Easy": 25,
+    "Easy": 26,
     "Medium": 28,
     "Hard": 1,
     "Unknown": 0
   },
   "categories": {
     "Arrays": {
-      "Total": 25,
-      "Easy": 11,
+      "Total": 26,
+      "Easy": 12,
       "Medium": 14,
       "Hard": 0,
       "Unknown": 0
@@ -37,9 +37,9 @@ const dsaData = {
     "Hash Table": 14,
     "String": 13,
     "Sliding Window": 2,
-    "Array": 17,
-    "Two Pointers": 7,
-    "Sorting": 5,
+    "Array": 18,
+    "Two Pointers": 8,
+    "Sorting": 6,
     "String Matching": 1,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
@@ -318,6 +318,20 @@ const dsaData = {
       ],
       "date": "2026-08-07",
       "folder_path": "D:\\projects\\dsa\\Arrays\\75_sort_colors"
+    },
+    {
+      "num": 88,
+      "title": "Merge Sorted Array",
+      "link": "https://leetcode.com/problems/merge-sorted-array/",
+      "difficulty": "Easy",
+      "category": "Arrays",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "date": "2026-08-21",
+      "folder_path": "D:\\projects\\dsa\\Arrays\\88_merge_sorted_array"
     },
     {
       "num": 118,
