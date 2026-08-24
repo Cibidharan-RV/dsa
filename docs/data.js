@@ -1,16 +1,16 @@
 const dsaData = {
-  "total": 56,
+  "total": 57,
   "difficulty": {
     "Easy": 27,
-    "Medium": 28,
+    "Medium": 29,
     "Hard": 1,
     "Unknown": 0
   },
   "categories": {
     "Arrays": {
-      "Total": 27,
+      "Total": 28,
       "Easy": 13,
-      "Medium": 14,
+      "Medium": 15,
       "Hard": 0,
       "Unknown": 0
     },
@@ -37,7 +37,7 @@ const dsaData = {
     "Hash Table": 15,
     "String": 13,
     "Sliding Window": 2,
-    "Array": 19,
+    "Array": 20,
     "Two Pointers": 8,
     "Sorting": 6,
     "String Matching": 1,
@@ -48,7 +48,7 @@ const dsaData = {
     "HashMaps": 11,
     "Simulation": 4,
     "Quicksort": 1,
-    "Dynamic Programming": 2,
+    "Dynamic Programming": 3,
     "Counting": 4,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
     "Queue": 1,
@@ -395,6 +395,19 @@ const dsaData = {
       ],
       "date": "2026-08-06",
       "folder_path": "D:\\projects\\dsa\\Arrays\\136_single_number"
+    },
+    {
+      "num": 152,
+      "title": "Maximum Product Subarray",
+      "link": "https://leetcode.com/problems/maximum-product-subarray/",
+      "difficulty": "Medium",
+      "category": "Arrays",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "date": "2026-08-24",
+      "folder_path": "D:\\projects\\dsa\\Arrays\\152_maximum_product_subarray"
     },
     {
       "num": 169,

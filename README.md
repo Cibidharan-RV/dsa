@@ -1,22 +1,20 @@
-# DSA Practice Repository
-
-Welcome to my Data Structures and Algorithms practice repository! This repo contains my solutions to various problems.
+# [DSA Practice Repository](https://cibidharan-rv.github.io/dsa/)
 
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 56
+**Total Problems Solved:** 57
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (48.2%): `██████████░░░░░░░░░░` (27)
-- 🟡 **Medium** (50.0%): `██████████░░░░░░░░░░` (28)
+- 🟢 **Easy** (47.4%): `█████████░░░░░░░░░░░` (27)
+- 🟡 **Medium** (50.9%): `██████████░░░░░░░░░░` (29)
 - 🔴 **Hard** (1.8%): `░░░░░░░░░░░░░░░░░░░░` (1)
 
 ### Topic Breakdown
 
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
-| **Arrays** | 27 | 13 | 14 | 0 |
+| **Arrays** | 28 | 13 | 15 | 0 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Other** | 7 | 5 | 2 | 0 |
 
@@ -54,6 +52,7 @@ Welcome to my Data Structures and Algorithms practice repository! This repo cont
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | Other | [Code & Doc](./Other/125_valid_palindrome) |
 | 128 | Longest Consecutive Sequence | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/128_longest_consecutive_sequence) |
 | 136 | Single Number | 🟢 Easy | Arrays | [Code & Doc](./Arrays/136_single_number) |
+| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/152_maximum_product_subarray) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/169_majority_element) |
 | 189 | Rotate  Array | 🟡 Medium | Arrays | [Code & Doc](./Arrays/189_rotate_array) |
 | 202 | Happy Number | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/202_happy_number) |
