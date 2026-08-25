@@ -1,15 +1,15 @@
 const dsaData = {
-  "total": 59,
+  "total": 60,
   "difficulty": {
-    "Easy": 28,
+    "Easy": 29,
     "Medium": 29,
     "Hard": 2,
     "Unknown": 0
   },
   "categories": {
     "Arrays": {
-      "Total": 30,
-      "Easy": 14,
+      "Total": 31,
+      "Easy": 15,
       "Medium": 15,
       "Hard": 1,
       "Unknown": 0
@@ -37,13 +37,14 @@ const dsaData = {
     "Hash Table": 15,
     "String": 13,
     "Sliding Window": 2,
-    "Array": 22,
+    "Array": 23,
     "Two Pointers": 8,
     "Sorting": 6,
     "String Matching": 1,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
+    "Binary Search": 3,
     "Matrix": 4,
     "HashMaps": 11,
     "Simulation": 4,
@@ -54,7 +55,6 @@ const dsaData = {
     "Queue": 1,
     "Heap (Priority Queue)": 1,
     "Bucket Sort": 1,
-    "Binary Search": 2,
     "Divide and Conquer": 1,
     "Binary Indexed Tree": 1,
     "Segment Tree": 1,
@@ -233,6 +233,19 @@ const dsaData = {
       ],
       "date": "2026-08-15",
       "folder_path": "D:\\projects\\dsa\\Arrays\\31_next_permutation"
+    },
+    {
+      "num": 35,
+      "title": "Search Insert Position",
+      "link": "https://leetcode.com/problems/search-insert-position/",
+      "difficulty": "Easy",
+      "category": "Arrays",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "date": "2026-08-25",
+      "folder_path": "D:\\projects\\dsa\\Arrays\\35_search_insert_position"
     },
     {
       "num": 48,
