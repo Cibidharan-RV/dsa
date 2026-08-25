@@ -1,17 +1,17 @@
 const dsaData = {
-  "total": 57,
+  "total": 58,
   "difficulty": {
     "Easy": 27,
     "Medium": 29,
-    "Hard": 1,
+    "Hard": 2,
     "Unknown": 0
   },
   "categories": {
     "Arrays": {
-      "Total": 28,
+      "Total": 29,
       "Easy": 13,
       "Medium": 15,
-      "Hard": 0,
+      "Hard": 1,
       "Unknown": 0
     },
     "Other": {
@@ -37,7 +37,7 @@ const dsaData = {
     "Hash Table": 15,
     "String": 13,
     "Sliding Window": 2,
-    "Array": 20,
+    "Array": 21,
     "Two Pointers": 8,
     "Sorting": 6,
     "String Matching": 1,
@@ -54,6 +54,13 @@ const dsaData = {
     "Queue": 1,
     "Heap (Priority Queue)": 1,
     "Bucket Sort": 1,
+    "Binary Search": 1,
+    "Divide and Conquer": 1,
+    "Binary Indexed Tree": 1,
+    "Segment Tree": 1,
+    "Merge Sort": 1,
+    "Ordered Set": 1,
+    "Treap": 1,
     "Senior Staff": 1,
     "Prefix Sum": 2,
     "Greedy": 1,
@@ -568,6 +575,25 @@ const dsaData = {
       ],
       "date": "2026-08-05",
       "folder_path": "D:\\projects\\dsa\\Arrays\\485_max_consecutive_ones"
+    },
+    {
+      "num": 493,
+      "title": "Reverse Pairs",
+      "link": "https://leetcode.com/problems/reverse-pairs/",
+      "difficulty": "Hard",
+      "category": "Arrays",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer",
+        "Binary Indexed Tree",
+        "Segment Tree",
+        "Merge Sort",
+        "Ordered Set",
+        "Treap"
+      ],
+      "date": "2026-08-25",
+      "folder_path": "D:\\projects\\dsa\\Arrays\\493_reverse_pairs"
     },
     {
       "num": 523,

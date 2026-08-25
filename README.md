@@ -3,18 +3,18 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 57
+**Total Problems Solved:** 58
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (47.4%): `█████████░░░░░░░░░░░` (27)
-- 🟡 **Medium** (50.9%): `██████████░░░░░░░░░░` (29)
-- 🔴 **Hard** (1.8%): `░░░░░░░░░░░░░░░░░░░░` (1)
+- 🟢 **Easy** (46.6%): `█████████░░░░░░░░░░░` (27)
+- 🟡 **Medium** (50.0%): `██████████░░░░░░░░░░` (29)
+- 🔴 **Hard** (3.4%): `█░░░░░░░░░░░░░░░░░░░` (2)
 
 ### Topic Breakdown
 
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
-| **Arrays** | 28 | 13 | 15 | 0 |
+| **Arrays** | 29 | 13 | 15 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Other** | 7 | 5 | 2 | 0 |
 
@@ -65,6 +65,7 @@
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/387_first_unique_character_in_a_string) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/451_sort_characters_by_frequency) |
 | 485 | Max Consecutive Ones | 🟢 Easy | Arrays | [Code & Doc](./Arrays/485_max_consecutive_ones) |
+| 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | 🔴 Hard | Arrays | [Code & Doc](./Arrays/493_reverse_pairs) |
 | 523 | Continuous Subarray Sum | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/523_continuous_subarray_sum) |
 | 525 | Contiguous Array | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/525_contiguous_array) |
 | 560 | Subarray Sum Equals K | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/560_subarray_sum_equals_k) |
