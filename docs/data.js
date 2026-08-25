@@ -1,16 +1,16 @@
 const dsaData = {
-  "total": 60,
+  "total": 61,
   "difficulty": {
     "Easy": 29,
-    "Medium": 29,
+    "Medium": 30,
     "Hard": 2,
     "Unknown": 0
   },
   "categories": {
     "Arrays": {
-      "Total": 31,
+      "Total": 32,
       "Easy": 15,
-      "Medium": 15,
+      "Medium": 16,
       "Hard": 1,
       "Unknown": 0
     },
@@ -37,14 +37,14 @@ const dsaData = {
     "Hash Table": 15,
     "String": 13,
     "Sliding Window": 2,
-    "Array": 23,
+    "Array": 24,
     "Two Pointers": 8,
     "Sorting": 6,
     "String Matching": 1,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Binary Search": 3,
+    "Binary Search": 4,
     "Matrix": 4,
     "HashMaps": 11,
     "Simulation": 4,
@@ -233,6 +233,19 @@ const dsaData = {
       ],
       "date": "2026-08-15",
       "folder_path": "D:\\projects\\dsa\\Arrays\\31_next_permutation"
+    },
+    {
+      "num": 34,
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+      "difficulty": "Medium",
+      "category": "Arrays",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "date": "2026-08-25",
+      "folder_path": "D:\\projects\\dsa\\Arrays\\34_find_first_and_last_position_of_element_in_sorted_array"
     },
     {
       "num": 35,
