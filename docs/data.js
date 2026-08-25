@@ -1,15 +1,15 @@
 const dsaData = {
-  "total": 58,
+  "total": 59,
   "difficulty": {
-    "Easy": 27,
+    "Easy": 28,
     "Medium": 29,
     "Hard": 2,
     "Unknown": 0
   },
   "categories": {
     "Arrays": {
-      "Total": 29,
-      "Easy": 13,
+      "Total": 30,
+      "Easy": 14,
       "Medium": 15,
       "Hard": 1,
       "Unknown": 0
@@ -37,7 +37,7 @@ const dsaData = {
     "Hash Table": 15,
     "String": 13,
     "Sliding Window": 2,
-    "Array": 21,
+    "Array": 22,
     "Two Pointers": 8,
     "Sorting": 6,
     "String Matching": 1,
@@ -54,7 +54,7 @@ const dsaData = {
     "Queue": 1,
     "Heap (Priority Queue)": 1,
     "Bucket Sort": 1,
-    "Binary Search": 1,
+    "Binary Search": 2,
     "Divide and Conquer": 1,
     "Binary Indexed Tree": 1,
     "Segment Tree": 1,
@@ -648,6 +648,19 @@ const dsaData = {
       ],
       "date": "2026-07-20",
       "folder_path": "D:\\projects\\dsa\\HashMaps\\659_split_array_into_consecutive_subsequences"
+    },
+    {
+      "num": 704,
+      "title": "Binary Search",
+      "link": "https://leetcode.com/problems/binary-search/",
+      "difficulty": "Easy",
+      "category": "Arrays",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "date": "2026-08-25",
+      "folder_path": "D:\\projects\\dsa\\Arrays\\704_binary_search"
     },
     {
       "num": 930,

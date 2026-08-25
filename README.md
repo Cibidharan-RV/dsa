@@ -3,18 +3,18 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 58
+**Total Problems Solved:** 59
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (46.6%): `█████████░░░░░░░░░░░` (27)
-- 🟡 **Medium** (50.0%): `██████████░░░░░░░░░░` (29)
+- 🟢 **Easy** (47.5%): `█████████░░░░░░░░░░░` (28)
+- 🟡 **Medium** (49.2%): `██████████░░░░░░░░░░` (29)
 - 🔴 **Hard** (3.4%): `█░░░░░░░░░░░░░░░░░░░` (2)
 
 ### Topic Breakdown
 
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
-| **Arrays** | 29 | 13 | 15 | 1 |
+| **Arrays** | 30 | 14 | 15 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Other** | 7 | 5 | 2 | 0 |
 
@@ -70,6 +70,7 @@
 | 525 | Contiguous Array | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/525_contiguous_array) |
 | 560 | Subarray Sum Equals K | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/560_subarray_sum_equals_k) |
 | 659 | Split Array Into Consecutive Subsequences | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/659_split_array_into_consecutive_subsequences) |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/704_binary_search) |
 | 930 | Binary Subarrays With Sum | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/930_binary_subarrays_with_sum) |
 | 974 | Subarray Sum Divisible by K | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/974_subarray_sums_divisible_by_k) |
 | 981 | Time Based Key-Value Store | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/981_time_based_key_value_store) |
