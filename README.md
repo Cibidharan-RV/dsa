@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 63
+**Total Problems Solved:** 64
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (46.0%): `█████████░░░░░░░░░░░` (29)
-- 🟡 **Medium** (50.8%): `██████████░░░░░░░░░░` (32)
-- 🔴 **Hard** (3.2%): `█░░░░░░░░░░░░░░░░░░░` (2)
+- 🟢 **Easy** (45.3%): `█████████░░░░░░░░░░░` (29)
+- 🟡 **Medium** (51.6%): `██████████░░░░░░░░░░` (33)
+- 🔴 **Hard** (3.1%): `█░░░░░░░░░░░░░░░░░░░` (2)
 
 ### Topic Breakdown
 
@@ -17,6 +17,7 @@
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Other** | 7 | 5 | 2 | 0 |
+| **BinarySearch** | 1 | 0 | 1 | 0 |
 
 <!-- STATS:END -->
 
@@ -57,6 +58,7 @@
 | 128 | Longest Consecutive Sequence | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/128_longest_consecutive_sequence) |
 | 136 | Single Number | 🟢 Easy | Arrays | [Code & Doc](./Arrays/136_single_number) |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/152_maximum_product_subarray) |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | BinarySearch | [Code & Doc](./BinarySearch/153_find_minimum_in_rotated_sorted_array) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/169_majority_element) |
 | 189 | Rotate  Array | 🟡 Medium | Arrays | [Code & Doc](./Arrays/189_rotate_array) |
 | 202 | Happy Number | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/202_happy_number) |

@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 63,
+  "total": 64,
   "difficulty": {
     "Easy": 29,
-    "Medium": 32,
+    "Medium": 33,
     "Hard": 2,
     "Unknown": 0
   },
@@ -27,6 +27,13 @@ const dsaData = {
       "Medium": 12,
       "Hard": 1,
       "Unknown": 0
+    },
+    "BinarySearch": {
+      "Total": 1,
+      "Easy": 0,
+      "Medium": 1,
+      "Hard": 0,
+      "Unknown": 0
     }
   },
   "topic_stats": {
@@ -37,14 +44,14 @@ const dsaData = {
     "Hash Table": 15,
     "String": 13,
     "Sliding Window": 2,
-    "Array": 26,
+    "Array": 27,
     "Two Pointers": 8,
     "Sorting": 6,
     "String Matching": 1,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Binary Search": 6,
+    "Binary Search": 7,
     "Matrix": 4,
     "HashMaps": 11,
     "Simulation": 4,
@@ -467,6 +474,19 @@ const dsaData = {
       ],
       "date": "2026-08-24",
       "folder_path": "D:\\projects\\dsa\\Arrays\\152_maximum_product_subarray"
+    },
+    {
+      "num": 153,
+      "title": "Find Minimum in Rotated Sorted Array",
+      "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+      "difficulty": "Medium",
+      "category": "BinarySearch",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "date": "2026-08-26",
+      "folder_path": "D:\\projects\\dsa\\BinarySearch\\153_find_minimum_in_rotated_sorted_array"
     },
     {
       "num": 169,
