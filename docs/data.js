@@ -1,16 +1,16 @@
 const dsaData = {
-  "total": 61,
+  "total": 62,
   "difficulty": {
     "Easy": 29,
-    "Medium": 30,
+    "Medium": 31,
     "Hard": 2,
     "Unknown": 0
   },
   "categories": {
     "Arrays": {
-      "Total": 32,
+      "Total": 33,
       "Easy": 15,
-      "Medium": 16,
+      "Medium": 17,
       "Hard": 1,
       "Unknown": 0
     },
@@ -37,14 +37,14 @@ const dsaData = {
     "Hash Table": 15,
     "String": 13,
     "Sliding Window": 2,
-    "Array": 24,
+    "Array": 25,
     "Two Pointers": 8,
     "Sorting": 6,
     "String Matching": 1,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Binary Search": 4,
+    "Binary Search": 5,
     "Matrix": 4,
     "HashMaps": 11,
     "Simulation": 4,
@@ -233,6 +233,19 @@ const dsaData = {
       ],
       "date": "2026-08-15",
       "folder_path": "D:\\projects\\dsa\\Arrays\\31_next_permutation"
+    },
+    {
+      "num": 33,
+      "title": "Search in Rotated Sorted Array",
+      "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "difficulty": "Medium",
+      "category": "Arrays",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "date": "2026-08-26",
+      "folder_path": "D:\\projects\\dsa\\Arrays\\33_search_in_rotated_sorted_array"
     },
     {
       "num": 34,

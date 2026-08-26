@@ -3,18 +3,18 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 61
+**Total Problems Solved:** 62
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (47.5%): `██████████░░░░░░░░░░` (29)
-- 🟡 **Medium** (49.2%): `██████████░░░░░░░░░░` (30)
-- 🔴 **Hard** (3.3%): `█░░░░░░░░░░░░░░░░░░░` (2)
+- 🟢 **Easy** (46.8%): `█████████░░░░░░░░░░░` (29)
+- 🟡 **Medium** (50.0%): `██████████░░░░░░░░░░` (31)
+- 🔴 **Hard** (3.2%): `█░░░░░░░░░░░░░░░░░░░` (2)
 
 ### Topic Breakdown
 
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
-| **Arrays** | 32 | 15 | 16 | 1 |
+| **Arrays** | 33 | 15 | 17 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Other** | 7 | 5 | 2 | 0 |
 
@@ -39,6 +39,7 @@
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | Other | [Code & Doc](./Other/28_find_the_index_of_the_first_occurrence_in_a_string) |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | 🔴 Hard | HashMaps | [Code & Doc](./HashMaps/30_substring_with_concatenation_of_all_words) |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/31_next_permutation) |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/33_search_in_rotated_sorted_array) |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/34_find_first_and_last_position_of_element_in_sorted_array) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/35_search_insert_position) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/48_rotate_image) |
