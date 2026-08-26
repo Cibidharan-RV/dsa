@@ -3,18 +3,18 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 62
+**Total Problems Solved:** 63
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (46.8%): `█████████░░░░░░░░░░░` (29)
-- 🟡 **Medium** (50.0%): `██████████░░░░░░░░░░` (31)
+- 🟢 **Easy** (46.0%): `█████████░░░░░░░░░░░` (29)
+- 🟡 **Medium** (50.8%): `██████████░░░░░░░░░░` (32)
 - 🔴 **Hard** (3.2%): `█░░░░░░░░░░░░░░░░░░░` (2)
 
 ### Topic Breakdown
 
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
-| **Arrays** | 33 | 15 | 17 | 1 |
+| **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Other** | 7 | 5 | 2 | 0 |
 
@@ -49,6 +49,7 @@
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/56_merge_intervals) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/73_set_matrix_zeroes) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/75_sort_colors) |
+| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/81_search_in_rotated_sorted_array_ii) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/88_merge_sorted_array) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/118_pascals_triangle) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/121_best_time_to_buy_and_sell_stock) |
