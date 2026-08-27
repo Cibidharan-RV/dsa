@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 64
+**Total Problems Solved:** 65
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (45.3%): `█████████░░░░░░░░░░░` (29)
-- 🟡 **Medium** (51.6%): `██████████░░░░░░░░░░` (33)
+- 🟢 **Easy** (44.6%): `█████████░░░░░░░░░░░` (29)
+- 🟡 **Medium** (52.3%): `██████████░░░░░░░░░░` (34)
 - 🔴 **Hard** (3.1%): `█░░░░░░░░░░░░░░░░░░░` (2)
 
 ### Topic Breakdown
@@ -18,6 +18,7 @@
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **BinarySearch** | 1 | 0 | 1 | 0 |
+| **Binary Search** | 1 | 0 | 1 | 0 |
 
 <!-- STATS:END -->
 
@@ -74,6 +75,7 @@
 | 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | 🔴 Hard | Arrays | [Code & Doc](./Arrays/493_reverse_pairs) |
 | 523 | Continuous Subarray Sum | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/523_continuous_subarray_sum) |
 | 525 | Contiguous Array | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/525_contiguous_array) |
+| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary Search/540_single_element_in_a_sorted_array) |
 | 560 | Subarray Sum Equals K | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/560_subarray_sum_equals_k) |
 | 659 | Split Array Into Consecutive Subsequences | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/659_split_array_into_consecutive_subsequences) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/704_binary_search) |
