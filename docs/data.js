@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 66,
+  "total": 67,
   "difficulty": {
     "Easy": 29,
-    "Medium": 35,
+    "Medium": 36,
     "Hard": 2,
     "Unknown": 0
   },
@@ -28,23 +28,16 @@ const dsaData = {
       "Hard": 1,
       "Unknown": 0
     },
-    "BinarySearch": {
-      "Total": 1,
-      "Easy": 0,
-      "Medium": 1,
-      "Hard": 0,
-      "Unknown": 0
-    },
     "Binary Search": {
-      "Total": 2,
+      "Total": 4,
       "Easy": 0,
-      "Medium": 2,
+      "Medium": 4,
       "Hard": 0,
       "Unknown": 0
     }
   },
   "topic_stats": {
-    "Array": 39,
+    "Array": 40,
     "Linked List": 1,
     "Math": 9,
     "Recursion": 1,
@@ -57,7 +50,7 @@ const dsaData = {
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Binary Search": 9,
+    "Binary Search": 10,
     "Matrix": 4,
     "Simulation": 4,
     "Quicksort": 1,
@@ -485,13 +478,13 @@ const dsaData = {
       "title": "Find Minimum in Rotated Sorted Array",
       "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
       "difficulty": "Medium",
-      "category": "BinarySearch",
+      "category": "Binary Search",
       "topics": [
         "Array",
         "Binary Search"
       ],
       "date": "2026-08-26",
-      "folder_path": "D:\\projects\\dsa\\BinarySearch\\153_find_minimum_in_rotated_sorted_array"
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\153_find_minimum_in_rotated_sorted_array"
     },
     {
       "num": 162,
@@ -764,6 +757,19 @@ const dsaData = {
       ],
       "date": "2026-08-25",
       "folder_path": "D:\\projects\\dsa\\Arrays\\704_binary_search"
+    },
+    {
+      "num": 875,
+      "title": "Koko Eating Bananas",
+      "link": "https://leetcode.com/problems/koko-eating-bananas/",
+      "difficulty": "Medium",
+      "category": "Binary Search",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "date": "2026-09-01",
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\875_koko_eating_bananas"
     },
     {
       "num": 930,
