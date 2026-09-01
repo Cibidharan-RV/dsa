@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 65,
+  "total": 66,
   "difficulty": {
     "Easy": 29,
-    "Medium": 34,
+    "Medium": 35,
     "Hard": 2,
     "Unknown": 0
   },
@@ -36,15 +36,15 @@ const dsaData = {
       "Unknown": 0
     },
     "Binary Search": {
-      "Total": 1,
+      "Total": 2,
       "Easy": 0,
-      "Medium": 1,
+      "Medium": 2,
       "Hard": 0,
       "Unknown": 0
     }
   },
   "topic_stats": {
-    "Array": 38,
+    "Array": 39,
     "Linked List": 1,
     "Math": 9,
     "Recursion": 1,
@@ -57,7 +57,7 @@ const dsaData = {
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Binary Search": 8,
+    "Binary Search": 9,
     "Matrix": 4,
     "Simulation": 4,
     "Quicksort": 1,
@@ -492,6 +492,19 @@ const dsaData = {
       ],
       "date": "2026-08-26",
       "folder_path": "D:\\projects\\dsa\\BinarySearch\\153_find_minimum_in_rotated_sorted_array"
+    },
+    {
+      "num": 162,
+      "title": "Find Peak Element",
+      "link": "https://leetcode.com/problems/find-peak-element/",
+      "difficulty": "Medium",
+      "category": "Binary Search",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "date": "2026-09-01",
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\162_find_peak_element"
     },
     {
       "num": 169,
