@@ -1,15 +1,4 @@
 __pycache__
 *.pyc
-
-create_problem.py
-utils.py
-sync_leetcode.py
-generate_readme.py
-scratch.py
-scratch2.py
-run_create_problem.bat
-run_create_problem.bat - Shortcut.lnk
-
-template.md
-
+*.bat
 .env
