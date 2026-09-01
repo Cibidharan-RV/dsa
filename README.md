@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 67
+**Total Problems Solved:** 68
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (43.3%): `█████████░░░░░░░░░░░` (29)
-- 🟡 **Medium** (53.7%): `███████████░░░░░░░░░` (36)
-- 🔴 **Hard** (3.0%): `█░░░░░░░░░░░░░░░░░░░` (2)
+- 🟢 **Easy** (42.6%): `█████████░░░░░░░░░░░` (29)
+- 🟡 **Medium** (54.4%): `███████████░░░░░░░░░` (37)
+- 🔴 **Hard** (2.9%): `█░░░░░░░░░░░░░░░░░░░` (2)
 
 ### Topic Breakdown
 
@@ -17,7 +17,7 @@
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Other** | 7 | 5 | 2 | 0 |
-| **Binary Search** | 4 | 0 | 4 | 0 |
+| **Binary Search** | 5 | 0 | 5 | 0 |
 
 <!-- STATS:END -->
 
@@ -86,6 +86,7 @@
 | 1002 | Find Common Characters | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/1002_find_common_characters) |
 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/1124_longest_well_performing_interval) |
 | 1207 | Unique Number of Occurances | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/1207_unique_number_of_occurances) |
+| 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary Search/1482_minimum_number_of_days_to_make_m_bouquets) |
 | 1752 | Check If Array is Sorted and Rotated | 🟢 Easy | Arrays | [Code & Doc](./Arrays/1752_check_if_array_is_sorted_and_rotated) |
 | 2124 | Check if All A's appears before all B's | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2124_check_if_all_A's_appears_before_all_B's) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/2149_rearrange_array_elements_by_sign) |

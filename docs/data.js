@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 67,
+  "total": 68,
   "difficulty": {
     "Easy": 29,
-    "Medium": 36,
+    "Medium": 37,
     "Hard": 2,
     "Unknown": 0
   },
@@ -29,15 +29,15 @@ const dsaData = {
       "Unknown": 0
     },
     "Binary Search": {
-      "Total": 4,
+      "Total": 5,
       "Easy": 0,
-      "Medium": 4,
+      "Medium": 5,
       "Hard": 0,
       "Unknown": 0
     }
   },
   "topic_stats": {
-    "Array": 40,
+    "Array": 41,
     "Linked List": 1,
     "Math": 9,
     "Recursion": 1,
@@ -50,7 +50,7 @@ const dsaData = {
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Binary Search": 10,
+    "Binary Search": 11,
     "Matrix": 4,
     "Simulation": 4,
     "Quicksort": 1,
@@ -846,6 +846,19 @@ const dsaData = {
       ],
       "date": "2026-07-19",
       "folder_path": "D:\\projects\\dsa\\HashMaps\\1207_unique_number_of_occurances"
+    },
+    {
+      "num": 1482,
+      "title": "Minimum Number of Days to Make m Bouquets",
+      "link": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
+      "difficulty": "Medium",
+      "category": "Binary Search",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "date": "2026-09-01",
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\1482_minimum_number_of_days_to_make_m_bouquets"
     },
     {
       "num": 1752,
