@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 68,
+  "total": 69,
   "difficulty": {
     "Easy": 29,
-    "Medium": 37,
+    "Medium": 38,
     "Hard": 2,
     "Unknown": 0
   },
@@ -29,15 +29,15 @@ const dsaData = {
       "Unknown": 0
     },
     "Binary Search": {
-      "Total": 5,
+      "Total": 6,
       "Easy": 0,
-      "Medium": 5,
+      "Medium": 6,
       "Hard": 0,
       "Unknown": 0
     }
   },
   "topic_stats": {
-    "Array": 41,
+    "Array": 42,
     "Linked List": 1,
     "Math": 9,
     "Recursion": 1,
@@ -50,7 +50,7 @@ const dsaData = {
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Binary Search": 11,
+    "Binary Search": 12,
     "Matrix": 4,
     "Simulation": 4,
     "Quicksort": 1,
@@ -846,6 +846,19 @@ const dsaData = {
       ],
       "date": "2026-07-19",
       "folder_path": "D:\\projects\\dsa\\HashMaps\\1207_unique_number_of_occurances"
+    },
+    {
+      "num": 1283,
+      "title": "Find the Smallest Divisor Given a Threshold",
+      "link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
+      "difficulty": "Medium",
+      "category": "Binary Search",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "date": "2026-09-02",
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\1283_find_the_smallest_divisor_given_a_threshold"
     },
     {
       "num": 1482,
