@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 69,
+  "total": 70,
   "difficulty": {
     "Easy": 29,
-    "Medium": 38,
+    "Medium": 39,
     "Hard": 2,
     "Unknown": 0
   },
@@ -29,15 +29,15 @@ const dsaData = {
       "Unknown": 0
     },
     "Binary Search": {
-      "Total": 6,
+      "Total": 7,
       "Easy": 0,
-      "Medium": 6,
+      "Medium": 7,
       "Hard": 0,
       "Unknown": 0
     }
   },
   "topic_stats": {
-    "Array": 42,
+    "Array": 43,
     "Linked List": 1,
     "Math": 9,
     "Recursion": 1,
@@ -50,7 +50,7 @@ const dsaData = {
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Binary Search": 12,
+    "Binary Search": 13,
     "Matrix": 4,
     "Simulation": 4,
     "Quicksort": 1,
@@ -818,6 +818,19 @@ const dsaData = {
       ],
       "date": "2026-07-19",
       "folder_path": "D:\\projects\\dsa\\HashMaps\\1002_find_common_characters"
+    },
+    {
+      "num": 1011,
+      "title": "Capacity To Ship Packages Within D Days",
+      "link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+      "difficulty": "Medium",
+      "category": "Binary Search",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "date": "2026-09-03",
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\1011_capacity_to_ship_packages_within_d_days"
     },
     {
       "num": 1124,

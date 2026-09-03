@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 69
+**Total Problems Solved:** 70
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (42.0%): `████████░░░░░░░░░░░░` (29)
-- 🟡 **Medium** (55.1%): `███████████░░░░░░░░░` (38)
+- 🟢 **Easy** (41.4%): `████████░░░░░░░░░░░░` (29)
+- 🟡 **Medium** (55.7%): `███████████░░░░░░░░░` (39)
 - 🔴 **Hard** (2.9%): `█░░░░░░░░░░░░░░░░░░░` (2)
 
 ### Topic Breakdown
@@ -17,7 +17,7 @@
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Other** | 7 | 5 | 2 | 0 |
-| **Binary Search** | 6 | 0 | 6 | 0 |
+| **Binary Search** | 7 | 0 | 7 | 0 |
 
 <!-- STATS:END -->
 
@@ -84,6 +84,7 @@
 | 974 | Subarray Sum Divisible by K | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/974_subarray_sums_divisible_by_k) |
 | 981 | Time Based Key-Value Store | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/981_time_based_key_value_store) |
 | 1002 | Find Common Characters | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/1002_find_common_characters) |
+| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary Search/1011_capacity_to_ship_packages_within_d_days) |
 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/1124_longest_well_performing_interval) |
 | 1207 | Unique Number of Occurances | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/1207_unique_number_of_occurances) |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary Search/1283_find_the_smallest_divisor_given_a_threshold) |
