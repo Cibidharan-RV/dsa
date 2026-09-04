@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 70,
+  "total": 71,
   "difficulty": {
-    "Easy": 29,
+    "Easy": 30,
     "Medium": 39,
     "Hard": 2,
     "Unknown": 0
@@ -29,15 +29,15 @@ const dsaData = {
       "Unknown": 0
     },
     "Binary Search": {
-      "Total": 7,
-      "Easy": 0,
+      "Total": 8,
+      "Easy": 1,
       "Medium": 7,
       "Hard": 0,
       "Unknown": 0
     }
   },
   "topic_stats": {
-    "Array": 43,
+    "Array": 44,
     "Linked List": 1,
     "Math": 9,
     "Recursion": 1,
@@ -50,7 +50,7 @@ const dsaData = {
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Binary Search": 13,
+    "Binary Search": 14,
     "Matrix": 4,
     "Simulation": 4,
     "Quicksort": 1,
@@ -885,6 +885,19 @@ const dsaData = {
       ],
       "date": "2026-09-01",
       "folder_path": "D:\\projects\\dsa\\Binary Search\\1482_minimum_number_of_days_to_make_m_bouquets"
+    },
+    {
+      "num": 1539,
+      "title": "Kth Missing Positive Number",
+      "link": "https://leetcode.com/problems/kth-missing-positive-number/",
+      "difficulty": "Easy",
+      "category": "Binary Search",
+      "topics": [
+        "Array",
+        "Binary Search"
+      ],
+      "date": "2026-09-04",
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\1539_kth_missing_positive_number"
     },
     {
       "num": 1752,
