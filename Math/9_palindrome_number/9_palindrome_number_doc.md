@@ -1,7 +1,7 @@
 # [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 
 ## Date
-2026-09-06
+2026-09-05
 
 ## Difficulty
 Easy
