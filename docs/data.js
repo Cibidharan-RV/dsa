@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 71,
+  "total": 72,
   "difficulty": {
-    "Easy": 30,
+    "Easy": 31,
     "Medium": 39,
     "Hard": 2,
     "Unknown": 0
@@ -28,6 +28,13 @@ const dsaData = {
       "Hard": 1,
       "Unknown": 0
     },
+    "Math": {
+      "Total": 1,
+      "Easy": 1,
+      "Medium": 0,
+      "Hard": 0,
+      "Unknown": 0
+    },
     "Binary Search": {
       "Total": 8,
       "Easy": 1,
@@ -39,7 +46,7 @@ const dsaData = {
   "topic_stats": {
     "Array": 44,
     "Linked List": 1,
-    "Math": 9,
+    "Math": 10,
     "Recursion": 1,
     "Hash Table": 26,
     "String": 13,
@@ -113,6 +120,18 @@ const dsaData = {
       ],
       "date": "2026-07-13",
       "folder_path": "D:\\projects\\dsa\\HashMaps\\3_longest_substring_without_repeating_characters"
+    },
+    {
+      "num": 9,
+      "title": "Palindrome Number",
+      "link": "https://leetcode.com/problems/palindrome-number/",
+      "difficulty": "Easy",
+      "category": "Math",
+      "topics": [
+        "Math"
+      ],
+      "date": "2026-09-06",
+      "folder_path": "D:\\projects\\dsa\\Math\\9_palindrome_number"
     },
     {
       "num": 9,

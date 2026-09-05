@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 71
+**Total Problems Solved:** 72
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (42.3%): `████████░░░░░░░░░░░░` (30)
-- 🟡 **Medium** (54.9%): `███████████░░░░░░░░░` (39)
+- 🟢 **Easy** (43.1%): `█████████░░░░░░░░░░░` (31)
+- 🟡 **Medium** (54.2%): `███████████░░░░░░░░░` (39)
 - 🔴 **Hard** (2.8%): `█░░░░░░░░░░░░░░░░░░░` (2)
 
 ### Topic Breakdown
@@ -18,6 +18,7 @@
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 8 | 1 | 7 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
+| **Math** | 1 | 1 | 0 | 0 |
 
 <!-- STATS:END -->
 
@@ -31,6 +32,7 @@
 | 1 | Two Sum | 🟢 Easy | Arrays | [Code & Doc](./Arrays/1_two_sum) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | Other | [Code & Doc](./Other/2_add_two_numbers) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/3_longest_substring_without_repeating_characters) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | Math | [Code & Doc](./Math/9_palindrome_number) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | Other | [Code & Doc](./Other/9_palindrome_number) |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/12_integer_to_roman) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/13_roman_to_integer) |
