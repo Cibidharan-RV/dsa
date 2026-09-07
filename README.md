@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 72
+**Total Problems Solved:** 73
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (43.1%): `█████████░░░░░░░░░░░` (31)
-- 🟡 **Medium** (54.2%): `███████████░░░░░░░░░` (39)
-- 🔴 **Hard** (2.8%): `█░░░░░░░░░░░░░░░░░░░` (2)
+- 🟢 **Easy** (42.5%): `████████░░░░░░░░░░░░` (31)
+- 🟡 **Medium** (53.4%): `███████████░░░░░░░░░` (39)
+- 🔴 **Hard** (4.1%): `█░░░░░░░░░░░░░░░░░░░` (3)
 
 ### Topic Breakdown
 
@@ -16,7 +16,7 @@
 |---|---|---|---|---|
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
-| **Binary Search** | 8 | 1 | 7 | 0 |
+| **Binary Search** | 9 | 1 | 7 | 1 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 
@@ -72,6 +72,7 @@
 | 349 | Intersection of Two Arrays | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/349_intersection_of_two_arrays) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/383_ransom_note) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/387_first_unique_character_in_a_string) |
+| 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | Binary Search | [Code & Doc](./Binary Search/410_split_array_largest_sum) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/451_sort_characters_by_frequency) |
 | 485 | Max Consecutive Ones | 🟢 Easy | Arrays | [Code & Doc](./Arrays/485_max_consecutive_ones) |
 | 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | 🔴 Hard | Arrays | [Code & Doc](./Arrays/493_reverse_pairs) |

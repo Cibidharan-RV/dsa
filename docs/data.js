@@ -1,9 +1,9 @@
 const dsaData = {
-  "total": 72,
+  "total": 73,
   "difficulty": {
     "Easy": 31,
     "Medium": 39,
-    "Hard": 2,
+    "Hard": 3,
     "Unknown": 0
   },
   "categories": {
@@ -36,15 +36,15 @@ const dsaData = {
       "Unknown": 0
     },
     "Binary Search": {
-      "Total": 8,
+      "Total": 9,
       "Easy": 1,
       "Medium": 7,
-      "Hard": 0,
+      "Hard": 1,
       "Unknown": 0
     }
   },
   "topic_stats": {
-    "Array": 44,
+    "Array": 45,
     "Linked List": 1,
     "Math": 10,
     "Recursion": 1,
@@ -57,14 +57,16 @@ const dsaData = {
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Binary Search": 14,
+    "Binary Search": 15,
     "Matrix": 4,
     "Simulation": 4,
     "Quicksort": 1,
-    "Dynamic Programming": 3,
+    "Dynamic Programming": 4,
     "Counting": 4,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
     "Queue": 1,
+    "Greedy": 2,
+    "Prefix Sum": 3,
     "Heap (Priority Queue)": 1,
     "Bucket Sort": 1,
     "Divide and Conquer": 1,
@@ -74,8 +76,6 @@ const dsaData = {
     "Ordered Set": 1,
     "Treap": 1,
     "Senior Staff": 1,
-    "Prefix Sum": 2,
-    "Greedy": 1,
     "Stack": 1,
     "Monotonic Stack": 1,
     "Other": 2
@@ -130,7 +130,7 @@ const dsaData = {
       "topics": [
         "Math"
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-05",
       "folder_path": "D:\\projects\\dsa\\Math\\9_palindrome_number"
     },
     {
@@ -648,6 +648,22 @@ const dsaData = {
       ],
       "date": "2026-07-16",
       "folder_path": "D:\\projects\\dsa\\HashMaps\\387_first_unique_character_in_a_string"
+    },
+    {
+      "num": 410,
+      "title": "Split Array Largest Sum",
+      "link": "https://leetcode.com/problems/split-array-largest-sum/",
+      "difficulty": "Hard",
+      "category": "Binary Search",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming",
+        "Greedy",
+        "Prefix Sum"
+      ],
+      "date": "2026-09-07",
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\410_split_array_largest_sum"
     },
     {
       "num": 451,
