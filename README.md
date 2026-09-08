@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 73
+**Total Problems Solved:** 74
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (42.5%): `████████░░░░░░░░░░░░` (31)
-- 🟡 **Medium** (53.4%): `███████████░░░░░░░░░` (39)
-- 🔴 **Hard** (4.1%): `█░░░░░░░░░░░░░░░░░░░` (3)
+- 🟢 **Easy** (41.9%): `████████░░░░░░░░░░░░` (31)
+- 🟡 **Medium** (52.7%): `███████████░░░░░░░░░` (39)
+- 🔴 **Hard** (5.4%): `█░░░░░░░░░░░░░░░░░░░` (4)
 
 ### Topic Breakdown
 
@@ -16,7 +16,7 @@
 |---|---|---|---|---|
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
-| **Binary Search** | 9 | 1 | 7 | 1 |
+| **Binary Search** | 10 | 1 | 7 | 2 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 
@@ -82,6 +82,7 @@
 | 560 | Subarray Sum Equals K | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/560_subarray_sum_equals_k) |
 | 659 | Split Array Into Consecutive Subsequences | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/659_split_array_into_consecutive_subsequences) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/704_binary_search) |
+| 774 | [Minimize Max Distance To Gas Station](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1) | 🔴 Hard | Binary Search | [Code & Doc](./Binary Search/774_minimize_max_distance_to_gas_station) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary Search/875_koko_eating_bananas) |
 | 930 | Binary Subarrays With Sum | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/930_binary_subarrays_with_sum) |
 | 974 | Subarray Sum Divisible by K | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/974_subarray_sums_divisible_by_k) |

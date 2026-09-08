@@ -1,9 +1,9 @@
 const dsaData = {
-  "total": 73,
+  "total": 74,
   "difficulty": {
     "Easy": 31,
     "Medium": 39,
-    "Hard": 3,
+    "Hard": 4,
     "Unknown": 0
   },
   "categories": {
@@ -36,10 +36,10 @@ const dsaData = {
       "Unknown": 0
     },
     "Binary Search": {
-      "Total": 9,
+      "Total": 10,
       "Easy": 1,
       "Medium": 7,
-      "Hard": 1,
+      "Hard": 2,
       "Unknown": 0
     }
   },
@@ -57,7 +57,7 @@ const dsaData = {
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Binary Search": 15,
+    "Binary Search": 16,
     "Matrix": 4,
     "Simulation": 4,
     "Quicksort": 1,
@@ -792,6 +792,18 @@ const dsaData = {
       ],
       "date": "2026-08-25",
       "folder_path": "D:\\projects\\dsa\\Arrays\\704_binary_search"
+    },
+    {
+      "num": 774,
+      "title": "Minimize Max Distance To Gas Station",
+      "link": "https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1",
+      "difficulty": "Hard",
+      "category": "Binary Search",
+      "topics": [
+        "Binary Search"
+      ],
+      "date": "2026-09-08",
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\774_minimize_max_distance_to_gas_station"
     },
     {
       "num": 875,
