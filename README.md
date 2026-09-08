@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 74
+**Total Problems Solved:** 75
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (41.9%): `████████░░░░░░░░░░░░` (31)
-- 🟡 **Medium** (52.7%): `███████████░░░░░░░░░` (39)
-- 🔴 **Hard** (5.4%): `█░░░░░░░░░░░░░░░░░░░` (4)
+- 🟢 **Easy** (41.3%): `████████░░░░░░░░░░░░` (31)
+- 🟡 **Medium** (53.3%): `███████████░░░░░░░░░` (40)
+- 🔴 **Hard** (5.3%): `█░░░░░░░░░░░░░░░░░░░` (4)
 
 ### Topic Breakdown
 
@@ -16,7 +16,7 @@
 |---|---|---|---|---|
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
-| **Binary Search** | 10 | 1 | 7 | 2 |
+| **Binary Search** | 11 | 1 | 8 | 2 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 
@@ -73,6 +73,7 @@
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/383_ransom_note) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/387_first_unique_character_in_a_string) |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | Binary Search | [Code & Doc](./Binary Search/410_split_array_largest_sum) |
+| 410-A | [Allocate Minimum Number Of Pages](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | 🟡 Medium | Binary Search | [Code & Doc](./Binary Search/410-A_allocate_minimum_number_of_pages) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/451_sort_characters_by_frequency) |
 | 485 | Max Consecutive Ones | 🟢 Easy | Arrays | [Code & Doc](./Arrays/485_max_consecutive_ones) |
 | 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | 🔴 Hard | Arrays | [Code & Doc](./Arrays/493_reverse_pairs) |
