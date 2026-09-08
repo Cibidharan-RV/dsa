@@ -2,10 +2,14 @@ import os
 import sys
 import json
 import re
+import datetime
+import subprocess
+
+import generate_readme
 from utils import (
     LANG_EXTENSIONS, get_session_cookie, get_csrf_token, fetch_problem_data, 
     fetch_submission_details, get_slug_from_id, get_last_category, save_last_category,
-    get_switch_topic, reset_switch_topic, get_metadata, clean_code
+    get_switch_topic, reset_switch_topic, get_metadata, clean_code, multiline_input
 )
 
 from rich.console import Console
@@ -44,6 +48,9 @@ def main():
     lc_data = None
     num = None
     submission_link = ""
+    custom_code = ""
+    question_link = ""
+    lang_ext = ".cpp"
     
     if match:
         slug = match.group(1)
@@ -59,16 +66,21 @@ def main():
             console.print(f"[bold green]✓[/bold green] Fetched data for problem: [bold white]{num}. {lc_data['title']}[/bold white]")
     
     if not lc_data:
-        console.print("\n[yellow]⚠ No valid LeetCode link in clipboard. Falling back to manual input.[/yellow]")
-        while True:
-            num_input = Prompt.ask("[bold cyan]Problem number[/bold cyan]").strip()
-            if num_input:
-                num = num_input
-                break
-        slug = get_slug_from_id(num)
-        if slug:
-            with console.status(f"[bold cyan]Fetching data for problem {num}...[/bold cyan]", spinner="dots"):
-                lc_data = fetch_problem_data(slug)
+        console.print("\n[yellow]⚠ No valid LeetCode link in clipboard.[/yellow]")
+        console.print("1. LeetCode (Input ID)")
+        console.print("2. Other Platform")
+        choice = Prompt.ask("[bold cyan]Choose option[/bold cyan]", choices=["1", "2"], default="1")
+        
+        if choice == "1":
+            while True:
+                num_input = Prompt.ask("[bold cyan]Problem number[/bold cyan]").strip()
+                if num_input:
+                    num = num_input
+                    break
+            slug = get_slug_from_id(num)
+            if slug:
+                with console.status(f"[bold cyan]Fetching data for problem {num}...[/bold cyan]", spinner="dots"):
+                    lc_data = fetch_problem_data(slug)
             
     # Process problem data
     category = None
@@ -119,12 +131,26 @@ def main():
                 
         name = title
     else:
-        console.print("\n[yellow]⚠ Falling back to entirely manual input.[/yellow]")
+        console.print("\n[yellow]⚠ Manual Problem Setup[/yellow]")
         while True:
             name = Prompt.ask("[bold cyan]Problem name[/bold cyan]").strip()
             if name:
                 break
-        difficulty = "Medium"
+                
+        num_input = Prompt.ask("[bold cyan]Problem number/ID (e.g., 100, CF-123)[/bold cyan]", default="000").strip()
+        num = num_input if num_input else "000"
+        
+        question_link = Prompt.ask("[bold cyan]Question Link[/bold cyan]").strip()
+        submission_link = Prompt.ask("[bold cyan]Submission Link (optional)[/bold cyan]").strip()
+        
+        difficulty = Prompt.ask("[bold cyan]Difficulty[/bold cyan]", choices=["Easy", "Medium", "Hard", "Basic", "School", "Other"], default="Medium").strip()
+        
+        custom_code = multiline_input("\nPaste your code here")
+        
+        ext_input = Prompt.ask("[bold cyan]File extension (e.g., .cpp, .py)[/bold cyan]", default=".cpp").strip()
+        if ext_input:
+            lang_ext = ext_input if ext_input.startswith('.') else '.' + ext_input
+            
         similar_problems = []
         tags = []
         slug = name.lower().replace(' ', '-').replace(':', '')
@@ -171,22 +197,25 @@ def main():
         os.makedirs(category_path)
         console.print(f"[bold green]✓ Created new category folder:[/bold green] [cyan]{category}[/cyan]")
         
-    if not submission_link:
+    if not submission_link and lc_data:
         submission_link = Prompt.ask("[bold cyan]Submission link (optional, press Enter to skip)[/bold cyan]", default="").strip()
             
     clean_name = re.sub(r'[^a-zA-Z0-9\s\-]', '', name)
     formatted_name = clean_name.lower().replace(' ', '_').replace('-', '_')
     folder_name = f"{num}_{formatted_name}"
     folder_path = os.path.join(category_path, folder_name)
-    leet_link = f"https://leetcode.com/problems/{slug}/"
+    
+    if lc_data:
+        question_link = f"https://leetcode.com/problems/{slug}/"
+    elif not question_link:
+        question_link = f"https://example.com/problems/{slug}/"
     
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
         
     # Attempt to fetch code if submission link is provided
-    code_content = ""
-    lang_ext = ".cpp"
-    if submission_link:
+    code_content = custom_code if not lc_data else ""
+    if lc_data and submission_link:
         sub_id_match = re.search(r'submissions/(?:detail/)?(\d+)', submission_link)
         if sub_id_match:
             sub_id = sub_id_match.group(1)
@@ -231,10 +260,9 @@ def main():
     with open(code_file_path, 'w', encoding='utf-8') as f:
         f.write(code_content)
     
-    import datetime
     current_date = datetime.datetime.now().strftime("%Y-%m-%d")
     
-    md_content = f"# [{num}. {title}]({leet_link})\n\n"
+    md_content = f"# [{num}. {title}]({question_link})\n\n"
     md_content += f"## Date\n{current_date}\n\n"
     md_content += f"## Difficulty\n{difficulty}\n\n"
     
@@ -248,7 +276,10 @@ def main():
     
     md_content += f"## Idea\n\n"
     if submission_link:
-        md_content += f"[View Submission on LeetCode]({submission_link})\n\n"
+        if lc_data:
+            md_content += f"[View Submission on LeetCode]({submission_link})\n\n"
+        else:
+            md_content += f"[View Submission]({submission_link})\n\n"
         
     if meta.get('idea'):
         md_content += f"{meta['idea']}\n\n"
@@ -283,7 +314,6 @@ def main():
     )
     console.print(success_panel)
     
-    import generate_readme
     with console.status("[bold cyan]Updating README statistics...[/bold cyan]", spinner="dots"):
         generate_readme.update_readme()
         console.print("[bold green]✓ README updated![/bold green]")
@@ -293,19 +323,18 @@ def main():
     
     ans = Prompt.ask("\n[bold cyan]Press Enter to commit and push, or type any character to skip[/bold cyan]", default="")
     if ans == '':
-        with console.status("[bold cyan]Committing to Git...[/bold cyan]", spinner="dots"):
-            try:
-                import subprocess
+        try:
+            with console.status("[bold cyan]Committing to Git...[/bold cyan]", spinner="dots"):
                 subprocess.run(["git", "add", folder_path, "README.md", "docs/data.js", "docs/index.html"], check=True, capture_output=True)
                 commit_message = f"{num}. {title}"
                 subprocess.run(["git", "commit", "-m", commit_message], check=True, capture_output=True)
                 console.print(f"[bold green]✓ Successfully committed to Git:[/bold green] '{commit_message}'")
                 
-                console.print("[bold cyan]Pushing to GitHub...[/bold cyan]")
-                subprocess.run(["git", "push", "origin", "main"], check=True, capture_output=True)
-                console.print("[bold green]✓ Successfully pushed to GitHub![/bold green]")
-            except Exception as e:
-                console.print(f"[bold red]✗ Failed to auto-commit or push:[/bold red] {e}")
+            console.print("[bold cyan]Pushing to GitHub...[/bold cyan]")
+            subprocess.run(["git", "push", "origin", "main"], check=True)
+            console.print("[bold green]✓ Successfully pushed to GitHub![/bold green]")
+        except Exception as e:
+            console.print(f"[bold red]✗ Failed to auto-commit or push:[/bold red] {e}")
     else:
         console.print("[yellow]Skipped commit and push.[/yellow]")
 

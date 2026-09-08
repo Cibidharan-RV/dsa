@@ -19,18 +19,18 @@ def parse_doc_file(filepath, category):
         content = f.read()
 
     # Extract Title and Link
-    title_match = re.search(r'# \[(\d+)\.\s+(.*?)\]\((.*?)\)', content)
+    title_match = re.search(r'# \[([a-zA-Z0-9\-]+)\.\s+(.*?)\]\((.*?)\)', content)
     if not title_match:
         # Fallback if link is missing or format is slightly different
-        title_match = re.search(r'# (\d+)\.\s+(.*)', content)
+        title_match = re.search(r'# ([a-zA-Z0-9\-]+)\.\s+(.*)', content)
         if title_match:
-            num = int(title_match.group(1))
+            num = title_match.group(1)
             title = title_match.group(2).strip()
             link = ""
         else:
             return None
     else:
-        num = int(title_match.group(1))
+        num = title_match.group(1)
         title = title_match.group(2).strip()
         link = title_match.group(3).strip()
 
@@ -102,7 +102,14 @@ def update_readme():
                 problems.append(problem_data)
 
     # Sort problems by number
-    problems.sort(key=lambda x: x['num'])
+    def sort_key(x):
+        num_str = str(x['num'])
+        m = re.match(r'(\d+)(.*)', num_str)
+        if m:
+            return (int(m.group(1)), m.group(2))
+        return (float('inf'), num_str)
+        
+    problems.sort(key=sort_key)
 
     # Calculate Statistics
     total_problems = len(problems)
