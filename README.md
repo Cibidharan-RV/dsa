@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 76
+**Total Problems Solved:** 77
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (40.8%): `████████░░░░░░░░░░░░` (31)
-- 🟡 **Medium** (52.6%): `███████████░░░░░░░░░` (40)
-- 🔴 **Hard** (6.6%): `█░░░░░░░░░░░░░░░░░░░` (5)
+- 🟢 **Easy** (40.3%): `████████░░░░░░░░░░░░` (31)
+- 🟡 **Medium** (53.2%): `███████████░░░░░░░░░` (41)
+- 🔴 **Hard** (6.5%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
 
@@ -16,7 +16,7 @@
 |---|---|---|---|---|
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
-| **Binary Search** | 12 | 1 | 8 | 3 |
+| **Binary Search** | 13 | 1 | 9 | 3 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 
@@ -52,6 +52,7 @@
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/54_spiral_matrix) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/56_merge_intervals) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/73_set_matrix_zeroes) |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary Search/74_search_a_2d_matrix) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/75_sort_colors) |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/81_search_in_rotated_sorted_array_ii) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/88_merge_sorted_array) |

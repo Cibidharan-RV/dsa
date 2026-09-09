@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 76,
+  "total": 77,
   "difficulty": {
     "Easy": 31,
-    "Medium": 40,
+    "Medium": 41,
     "Hard": 5,
     "Unknown": 0
   },
@@ -29,9 +29,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Binary Search": {
-      "Total": 12,
+      "Total": 13,
       "Easy": 1,
-      "Medium": 8,
+      "Medium": 9,
       "Hard": 3,
       "Unknown": 0
     },
@@ -44,14 +44,14 @@ const dsaData = {
     }
   },
   "topic_stats": {
-    "Array": 46,
+    "Array": 47,
     "Linked List": 1,
     "Math": 10,
     "Recursion": 1,
     "Hash Table": 26,
     "String": 13,
     "Sliding Window": 2,
-    "Binary Search": 18,
+    "Binary Search": 19,
     "Divide and Conquer": 2,
     "Two Pointers": 8,
     "Sorting": 6,
@@ -59,7 +59,7 @@ const dsaData = {
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Matrix": 4,
+    "Matrix": 5,
     "Simulation": 4,
     "Quicksort": 1,
     "Dynamic Programming": 4,
@@ -390,6 +390,20 @@ const dsaData = {
       ],
       "date": "2026-08-15",
       "folder_path": "D:\\projects\\dsa\\Arrays\\73_set_matrix_zeroes"
+    },
+    {
+      "num": "74",
+      "title": "Search a 2D Matrix",
+      "link": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "difficulty": "Medium",
+      "category": "Binary Search",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Matrix"
+      ],
+      "date": "2026-09-09",
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\74_search_a_2d_matrix"
     },
     {
       "num": "75",
