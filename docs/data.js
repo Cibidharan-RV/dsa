@@ -1,9 +1,9 @@
 const dsaData = {
-  "total": 75,
+  "total": 76,
   "difficulty": {
     "Easy": 31,
     "Medium": 40,
-    "Hard": 4,
+    "Hard": 5,
     "Unknown": 0
   },
   "categories": {
@@ -28,36 +28,37 @@ const dsaData = {
       "Hard": 1,
       "Unknown": 0
     },
+    "Binary Search": {
+      "Total": 12,
+      "Easy": 1,
+      "Medium": 8,
+      "Hard": 3,
+      "Unknown": 0
+    },
     "Math": {
       "Total": 1,
       "Easy": 1,
       "Medium": 0,
       "Hard": 0,
       "Unknown": 0
-    },
-    "Binary Search": {
-      "Total": 11,
-      "Easy": 1,
-      "Medium": 8,
-      "Hard": 2,
-      "Unknown": 0
     }
   },
   "topic_stats": {
-    "Array": 45,
+    "Array": 46,
     "Linked List": 1,
     "Math": 10,
     "Recursion": 1,
     "Hash Table": 26,
     "String": 13,
     "Sliding Window": 2,
+    "Binary Search": 18,
+    "Divide and Conquer": 2,
     "Two Pointers": 8,
     "Sorting": 6,
     "String Matching": 1,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Binary Search": 17,
     "Matrix": 4,
     "Simulation": 4,
     "Quicksort": 1,
@@ -69,7 +70,6 @@ const dsaData = {
     "Prefix Sum": 3,
     "Heap (Priority Queue)": 1,
     "Bucket Sort": 1,
-    "Divide and Conquer": 1,
     "Binary Indexed Tree": 1,
     "Segment Tree": 1,
     "Merge Sort": 1,
@@ -120,6 +120,20 @@ const dsaData = {
       ],
       "date": "2026-07-13",
       "folder_path": "D:\\projects\\dsa\\HashMaps\\3_longest_substring_without_repeating_characters"
+    },
+    {
+      "num": "4",
+      "title": "Median of Two Sorted Arrays",
+      "link": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "difficulty": "Hard",
+      "category": "Binary Search",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer"
+      ],
+      "date": "2026-09-09",
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\4_median_of_two_sorted_arrays"
     },
     {
       "num": "9",

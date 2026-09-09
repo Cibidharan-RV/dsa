@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 75
+**Total Problems Solved:** 76
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (41.3%): `████████░░░░░░░░░░░░` (31)
-- 🟡 **Medium** (53.3%): `███████████░░░░░░░░░` (40)
-- 🔴 **Hard** (5.3%): `█░░░░░░░░░░░░░░░░░░░` (4)
+- 🟢 **Easy** (40.8%): `████████░░░░░░░░░░░░` (31)
+- 🟡 **Medium** (52.6%): `███████████░░░░░░░░░` (40)
+- 🔴 **Hard** (6.6%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
 
@@ -16,7 +16,7 @@
 |---|---|---|---|---|
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
-| **Binary Search** | 11 | 1 | 8 | 2 |
+| **Binary Search** | 12 | 1 | 8 | 3 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 
@@ -32,6 +32,7 @@
 | 1 | Two Sum | 🟢 Easy | Arrays | [Code & Doc](./Arrays/1_two_sum) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | Other | [Code & Doc](./Other/2_add_two_numbers) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/3_longest_substring_without_repeating_characters) |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 Hard | Binary Search | [Code & Doc](./Binary Search/4_median_of_two_sorted_arrays) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | Math | [Code & Doc](./Math/9_palindrome_number) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | Other | [Code & Doc](./Other/9_palindrome_number) |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/12_integer_to_roman) |
