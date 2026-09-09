@@ -2,6 +2,7 @@ import os
 import re
 import datetime
 import json
+import urllib.parse
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
 
@@ -171,6 +172,11 @@ def update_readme():
     for p in problems:
         # Generate relative link to the problem folder
         rel_folder = os.path.relpath(p['folder_path'], base_dir).replace('\\', '/')
+        encoded_folder = urllib.parse.quote(rel_folder)
+        
+        # Store these so they are available in data.js
+        p['rel_folder'] = rel_folder
+        p['encoded_folder'] = encoded_folder
         
         title_link = f"[{p['title']}]({p['link']})" if p['link'] else p['title']
         
@@ -180,7 +186,7 @@ def update_readme():
         elif p['difficulty'] == 'Hard': diff_emoji = "🔴 Hard"
         else: diff_emoji = p['difficulty']
         
-        folder_link = f"[Code & Doc](./{rel_folder})"
+        folder_link = f"[Code & Doc](./{encoded_folder})"
         
         table_content += f"| {p['num']} | {title_link} | {diff_emoji} | {p['category']} | {folder_link} |\n"
 

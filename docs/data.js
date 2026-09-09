@@ -91,7 +91,9 @@ const dsaData = {
         "Array"
       ],
       "date": "2026-08-06",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\1_two_sum"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\1_two_sum",
+      "rel_folder": "Arrays/1_two_sum",
+      "encoded_folder": "Arrays/1_two_sum"
     },
     {
       "num": "2",
@@ -105,7 +107,9 @@ const dsaData = {
         "Recursion"
       ],
       "date": "2026-06-05",
-      "folder_path": "D:\\projects\\dsa\\Other\\2_add_two_numbers"
+      "folder_path": "D:\\projects\\dsa\\Other\\2_add_two_numbers",
+      "rel_folder": "Other/2_add_two_numbers",
+      "encoded_folder": "Other/2_add_two_numbers"
     },
     {
       "num": "3",
@@ -119,7 +123,9 @@ const dsaData = {
         "Sliding Window"
       ],
       "date": "2026-07-13",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\3_longest_substring_without_repeating_characters"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\3_longest_substring_without_repeating_characters",
+      "rel_folder": "HashMaps/3_longest_substring_without_repeating_characters",
+      "encoded_folder": "HashMaps/3_longest_substring_without_repeating_characters"
     },
     {
       "num": "4",
@@ -133,7 +139,9 @@ const dsaData = {
         "Divide and Conquer"
       ],
       "date": "2026-09-09",
-      "folder_path": "D:\\projects\\dsa\\Binary Search\\4_median_of_two_sorted_arrays"
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\4_median_of_two_sorted_arrays",
+      "rel_folder": "Binary Search/4_median_of_two_sorted_arrays",
+      "encoded_folder": "Binary%20Search/4_median_of_two_sorted_arrays"
     },
     {
       "num": "9",
@@ -145,7 +153,9 @@ const dsaData = {
         "Math"
       ],
       "date": "2026-09-05",
-      "folder_path": "D:\\projects\\dsa\\Math\\9_palindrome_number"
+      "folder_path": "D:\\projects\\dsa\\Math\\9_palindrome_number",
+      "rel_folder": "Math/9_palindrome_number",
+      "encoded_folder": "Math/9_palindrome_number"
     },
     {
       "num": "9",
@@ -157,7 +167,9 @@ const dsaData = {
         "Math"
       ],
       "date": "2025-07-25",
-      "folder_path": "D:\\projects\\dsa\\Other\\9_palindrome_number"
+      "folder_path": "D:\\projects\\dsa\\Other\\9_palindrome_number",
+      "rel_folder": "Other/9_palindrome_number",
+      "encoded_folder": "Other/9_palindrome_number"
     },
     {
       "num": "12",
@@ -171,7 +183,9 @@ const dsaData = {
         "String"
       ],
       "date": "2026-07-13",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\12_integer_to_roman"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\12_integer_to_roman",
+      "rel_folder": "HashMaps/12_integer_to_roman",
+      "encoded_folder": "HashMaps/12_integer_to_roman"
     },
     {
       "num": "13",
@@ -185,7 +199,9 @@ const dsaData = {
         "String"
       ],
       "date": "2026-07-14",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\13_roman_to_integer"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\13_roman_to_integer",
+      "rel_folder": "HashMaps/13_roman_to_integer",
+      "encoded_folder": "HashMaps/13_roman_to_integer"
     },
     {
       "num": "15",
@@ -199,7 +215,9 @@ const dsaData = {
         "Sorting"
       ],
       "date": "2026-08-18",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\15_3sum"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\15_3sum",
+      "rel_folder": "Arrays/15_3sum",
+      "encoded_folder": "Arrays/15_3sum"
     },
     {
       "num": "18",
@@ -213,7 +231,9 @@ const dsaData = {
         "Sorting"
       ],
       "date": "2026-08-18",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\18_4sum"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\18_4sum",
+      "rel_folder": "Arrays/18_4sum",
+      "encoded_folder": "Arrays/18_4sum"
     },
     {
       "num": "27",
@@ -226,7 +246,9 @@ const dsaData = {
         "Two Pointers"
       ],
       "date": "2026-05-19",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\27_remove_element"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\27_remove_element",
+      "rel_folder": "Arrays/27_remove_element",
+      "encoded_folder": "Arrays/27_remove_element"
     },
     {
       "num": "28",
@@ -243,7 +265,9 @@ const dsaData = {
         "Boyer\u2013Moore String-Search Algorithm"
       ],
       "date": "2026-05-19",
-      "folder_path": "D:\\projects\\dsa\\Other\\28_find_the_index_of_the_first_occurrence_in_a_string"
+      "folder_path": "D:\\projects\\dsa\\Other\\28_find_the_index_of_the_first_occurrence_in_a_string",
+      "rel_folder": "Other/28_find_the_index_of_the_first_occurrence_in_a_string",
+      "encoded_folder": "Other/28_find_the_index_of_the_first_occurrence_in_a_string"
     },
     {
       "num": "30",
@@ -257,7 +281,9 @@ const dsaData = {
         "Sliding Window"
       ],
       "date": "2026-05-20",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\30_substring_with_concatenation_of_all_words"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\30_substring_with_concatenation_of_all_words",
+      "rel_folder": "HashMaps/30_substring_with_concatenation_of_all_words",
+      "encoded_folder": "HashMaps/30_substring_with_concatenation_of_all_words"
     },
     {
       "num": "31",
@@ -270,7 +296,9 @@ const dsaData = {
         "Two Pointers"
       ],
       "date": "2026-08-15",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\31_next_permutation"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\31_next_permutation",
+      "rel_folder": "Arrays/31_next_permutation",
+      "encoded_folder": "Arrays/31_next_permutation"
     },
     {
       "num": "33",
@@ -283,7 +311,9 @@ const dsaData = {
         "Binary Search"
       ],
       "date": "2026-08-26",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\33_search_in_rotated_sorted_array"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\33_search_in_rotated_sorted_array",
+      "rel_folder": "Arrays/33_search_in_rotated_sorted_array",
+      "encoded_folder": "Arrays/33_search_in_rotated_sorted_array"
     },
     {
       "num": "34",
@@ -296,7 +326,9 @@ const dsaData = {
         "Binary Search"
       ],
       "date": "2026-08-25",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\34_find_first_and_last_position_of_element_in_sorted_array"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\34_find_first_and_last_position_of_element_in_sorted_array",
+      "rel_folder": "Arrays/34_find_first_and_last_position_of_element_in_sorted_array",
+      "encoded_folder": "Arrays/34_find_first_and_last_position_of_element_in_sorted_array"
     },
     {
       "num": "35",
@@ -309,7 +341,9 @@ const dsaData = {
         "Binary Search"
       ],
       "date": "2026-08-25",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\35_search_insert_position"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\35_search_insert_position",
+      "rel_folder": "Arrays/35_search_insert_position",
+      "encoded_folder": "Arrays/35_search_insert_position"
     },
     {
       "num": "48",
@@ -323,7 +357,9 @@ const dsaData = {
         "Matrix"
       ],
       "date": "2026-08-16",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\48_rotate_image"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\48_rotate_image",
+      "rel_folder": "Arrays/48_rotate_image",
+      "encoded_folder": "Arrays/48_rotate_image"
     },
     {
       "num": "49",
@@ -335,7 +371,9 @@ const dsaData = {
         "Hash Table"
       ],
       "date": "2026-07-18",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\49_Group_anagrams"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\49_Group_anagrams",
+      "rel_folder": "HashMaps/49_Group_anagrams",
+      "encoded_folder": "HashMaps/49_Group_anagrams"
     },
     {
       "num": "53",
@@ -347,7 +385,9 @@ const dsaData = {
         "Array"
       ],
       "date": "2026-08-11",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\53_maximum_subarray"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\53_maximum_subarray",
+      "rel_folder": "Arrays/53_maximum_subarray",
+      "encoded_folder": "Arrays/53_maximum_subarray"
     },
     {
       "num": "54",
@@ -361,7 +401,9 @@ const dsaData = {
         "Simulation"
       ],
       "date": "2026-08-16",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\54_spiral_matrix"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\54_spiral_matrix",
+      "rel_folder": "Arrays/54_spiral_matrix",
+      "encoded_folder": "Arrays/54_spiral_matrix"
     },
     {
       "num": "56",
@@ -375,7 +417,9 @@ const dsaData = {
         "Quicksort"
       ],
       "date": "2026-08-20",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\56_merge_intervals"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\56_merge_intervals",
+      "rel_folder": "Arrays/56_merge_intervals",
+      "encoded_folder": "Arrays/56_merge_intervals"
     },
     {
       "num": "73",
@@ -389,7 +433,9 @@ const dsaData = {
         "Matrix"
       ],
       "date": "2026-08-15",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\73_set_matrix_zeroes"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\73_set_matrix_zeroes",
+      "rel_folder": "Arrays/73_set_matrix_zeroes",
+      "encoded_folder": "Arrays/73_set_matrix_zeroes"
     },
     {
       "num": "74",
@@ -403,7 +449,9 @@ const dsaData = {
         "Matrix"
       ],
       "date": "2026-09-09",
-      "folder_path": "D:\\projects\\dsa\\Binary Search\\74_search_a_2d_matrix"
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\74_search_a_2d_matrix",
+      "rel_folder": "Binary Search/74_search_a_2d_matrix",
+      "encoded_folder": "Binary%20Search/74_search_a_2d_matrix"
     },
     {
       "num": "75",
@@ -415,7 +463,9 @@ const dsaData = {
         "Array"
       ],
       "date": "2026-08-07",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\75_sort_colors"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\75_sort_colors",
+      "rel_folder": "Arrays/75_sort_colors",
+      "encoded_folder": "Arrays/75_sort_colors"
     },
     {
       "num": "81",
@@ -428,7 +478,9 @@ const dsaData = {
         "Binary Search"
       ],
       "date": "2026-08-26",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\81_search_in_rotated_sorted_array_ii"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\81_search_in_rotated_sorted_array_ii",
+      "rel_folder": "Arrays/81_search_in_rotated_sorted_array_ii",
+      "encoded_folder": "Arrays/81_search_in_rotated_sorted_array_ii"
     },
     {
       "num": "88",
@@ -442,7 +494,9 @@ const dsaData = {
         "Sorting"
       ],
       "date": "2026-08-21",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\88_merge_sorted_array"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\88_merge_sorted_array",
+      "rel_folder": "Arrays/88_merge_sorted_array",
+      "encoded_folder": "Arrays/88_merge_sorted_array"
     },
     {
       "num": "118",
@@ -455,7 +509,9 @@ const dsaData = {
         "Dynamic Programming"
       ],
       "date": "2025-08-01",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\118_pascals_triangle"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\118_pascals_triangle",
+      "rel_folder": "Arrays/118_pascals_triangle",
+      "encoded_folder": "Arrays/118_pascals_triangle"
     },
     {
       "num": "121",
@@ -468,7 +524,9 @@ const dsaData = {
         "Dynamic Programming"
       ],
       "date": "2025-07-31",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\121_best_time_to_buy_and_sell_stock"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\121_best_time_to_buy_and_sell_stock",
+      "rel_folder": "Arrays/121_best_time_to_buy_and_sell_stock",
+      "encoded_folder": "Arrays/121_best_time_to_buy_and_sell_stock"
     },
     {
       "num": "125",
@@ -481,7 +539,9 @@ const dsaData = {
         "String"
       ],
       "date": "2025-07-29",
-      "folder_path": "D:\\projects\\dsa\\Other\\125_valid_palindrome"
+      "folder_path": "D:\\projects\\dsa\\Other\\125_valid_palindrome",
+      "rel_folder": "Other/125_valid_palindrome",
+      "encoded_folder": "Other/125_valid_palindrome"
     },
     {
       "num": "128",
@@ -493,7 +553,9 @@ const dsaData = {
         "Hash Table"
       ],
       "date": "2026-07-20",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\128_longest_consecutive_sequence"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\128_longest_consecutive_sequence",
+      "rel_folder": "HashMaps/128_longest_consecutive_sequence",
+      "encoded_folder": "HashMaps/128_longest_consecutive_sequence"
     },
     {
       "num": "136",
@@ -505,7 +567,9 @@ const dsaData = {
         "Array"
       ],
       "date": "2026-08-06",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\136_single_number"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\136_single_number",
+      "rel_folder": "Arrays/136_single_number",
+      "encoded_folder": "Arrays/136_single_number"
     },
     {
       "num": "152",
@@ -518,7 +582,9 @@ const dsaData = {
         "Dynamic Programming"
       ],
       "date": "2026-08-24",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\152_maximum_product_subarray"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\152_maximum_product_subarray",
+      "rel_folder": "Arrays/152_maximum_product_subarray",
+      "encoded_folder": "Arrays/152_maximum_product_subarray"
     },
     {
       "num": "153",
@@ -531,7 +597,9 @@ const dsaData = {
         "Binary Search"
       ],
       "date": "2026-08-26",
-      "folder_path": "D:\\projects\\dsa\\Binary Search\\153_find_minimum_in_rotated_sorted_array"
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\153_find_minimum_in_rotated_sorted_array",
+      "rel_folder": "Binary Search/153_find_minimum_in_rotated_sorted_array",
+      "encoded_folder": "Binary%20Search/153_find_minimum_in_rotated_sorted_array"
     },
     {
       "num": "162",
@@ -544,7 +612,9 @@ const dsaData = {
         "Binary Search"
       ],
       "date": "2026-09-01",
-      "folder_path": "D:\\projects\\dsa\\Binary Search\\162_find_peak_element"
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\162_find_peak_element",
+      "rel_folder": "Binary Search/162_find_peak_element",
+      "encoded_folder": "Binary%20Search/162_find_peak_element"
     },
     {
       "num": "169",
@@ -556,7 +626,9 @@ const dsaData = {
         "Array"
       ],
       "date": "2026-08-07",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\169_majority_element"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\169_majority_element",
+      "rel_folder": "Arrays/169_majority_element",
+      "encoded_folder": "Arrays/169_majority_element"
     },
     {
       "num": "189",
@@ -568,7 +640,9 @@ const dsaData = {
         "Array"
       ],
       "date": "2026-08-05",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\189_rotate_array"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\189_rotate_array",
+      "rel_folder": "Arrays/189_rotate_array",
+      "encoded_folder": "Arrays/189_rotate_array"
     },
     {
       "num": "202",
@@ -580,7 +654,9 @@ const dsaData = {
         "Hash Table"
       ],
       "date": "2026-07-19",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\202_happy_number"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\202_happy_number",
+      "rel_folder": "HashMaps/202_happy_number",
+      "encoded_folder": "HashMaps/202_happy_number"
     },
     {
       "num": "205",
@@ -593,7 +669,9 @@ const dsaData = {
         "String"
       ],
       "date": "2026-07-16",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\205_isomorphic_strings"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\205_isomorphic_strings",
+      "rel_folder": "HashMaps/205_isomorphic_strings",
+      "encoded_folder": "HashMaps/205_isomorphic_strings"
     },
     {
       "num": "229",
@@ -609,7 +687,9 @@ const dsaData = {
         "Boyer\u2013Moore Majority Vote Algorithm"
       ],
       "date": "2026-08-16",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\229_majority_element_ii"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\229_majority_element_ii",
+      "rel_folder": "Arrays/229_majority_element_ii",
+      "encoded_folder": "Arrays/229_majority_element_ii"
     },
     {
       "num": "283",
@@ -621,7 +701,9 @@ const dsaData = {
         "Array"
       ],
       "date": "2026-08-05",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\283_move_zeroes"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\283_move_zeroes",
+      "rel_folder": "Arrays/283_move_zeroes",
+      "encoded_folder": "Arrays/283_move_zeroes"
     },
     {
       "num": "290",
@@ -634,7 +716,9 @@ const dsaData = {
         "String"
       ],
       "date": "2026-07-17",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\290_word_pattern"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\290_word_pattern",
+      "rel_folder": "HashMaps/290_word_pattern",
+      "encoded_folder": "HashMaps/290_word_pattern"
     },
     {
       "num": "349",
@@ -646,7 +730,9 @@ const dsaData = {
         "Hash Table"
       ],
       "date": "2026-07-19",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\349_intersection_of_two_arrays"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\349_intersection_of_two_arrays",
+      "rel_folder": "HashMaps/349_intersection_of_two_arrays",
+      "encoded_folder": "HashMaps/349_intersection_of_two_arrays"
     },
     {
       "num": "383",
@@ -660,7 +746,9 @@ const dsaData = {
         "Counting"
       ],
       "date": "2026-07-16",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\383_ransom_note"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\383_ransom_note",
+      "rel_folder": "HashMaps/383_ransom_note",
+      "encoded_folder": "HashMaps/383_ransom_note"
     },
     {
       "num": "387",
@@ -675,7 +763,9 @@ const dsaData = {
         "Counting"
       ],
       "date": "2026-07-16",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\387_first_unique_character_in_a_string"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\387_first_unique_character_in_a_string",
+      "rel_folder": "HashMaps/387_first_unique_character_in_a_string",
+      "encoded_folder": "HashMaps/387_first_unique_character_in_a_string"
     },
     {
       "num": "410",
@@ -691,7 +781,9 @@ const dsaData = {
         "Prefix Sum"
       ],
       "date": "2026-09-07",
-      "folder_path": "D:\\projects\\dsa\\Binary Search\\410_split_array_largest_sum"
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\410_split_array_largest_sum",
+      "rel_folder": "Binary Search/410_split_array_largest_sum",
+      "encoded_folder": "Binary%20Search/410_split_array_largest_sum"
     },
     {
       "num": "410-A",
@@ -703,7 +795,9 @@ const dsaData = {
         "Binary Search"
       ],
       "date": "2026-09-08",
-      "folder_path": "D:\\projects\\dsa\\Binary Search\\410-A_allocate_minimum_number_of_pages"
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\410-A_allocate_minimum_number_of_pages",
+      "rel_folder": "Binary Search/410-A_allocate_minimum_number_of_pages",
+      "encoded_folder": "Binary%20Search/410-A_allocate_minimum_number_of_pages"
     },
     {
       "num": "451",
@@ -720,7 +814,9 @@ const dsaData = {
         "Counting"
       ],
       "date": "2026-07-17",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\451_sort_characters_by_frequency"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\451_sort_characters_by_frequency",
+      "rel_folder": "HashMaps/451_sort_characters_by_frequency",
+      "encoded_folder": "HashMaps/451_sort_characters_by_frequency"
     },
     {
       "num": "485",
@@ -732,7 +828,9 @@ const dsaData = {
         "Array"
       ],
       "date": "2026-08-05",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\485_max_consecutive_ones"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\485_max_consecutive_ones",
+      "rel_folder": "Arrays/485_max_consecutive_ones",
+      "encoded_folder": "Arrays/485_max_consecutive_ones"
     },
     {
       "num": "493",
@@ -751,7 +849,9 @@ const dsaData = {
         "Treap"
       ],
       "date": "2026-08-25",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\493_reverse_pairs"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\493_reverse_pairs",
+      "rel_folder": "Arrays/493_reverse_pairs",
+      "encoded_folder": "Arrays/493_reverse_pairs"
     },
     {
       "num": "523",
@@ -767,7 +867,9 @@ const dsaData = {
         "Prefix Sum"
       ],
       "date": "2026-07-22",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\523_continuous_subarray_sum"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\523_continuous_subarray_sum",
+      "rel_folder": "HashMaps/523_continuous_subarray_sum",
+      "encoded_folder": "HashMaps/523_continuous_subarray_sum"
     },
     {
       "num": "525",
@@ -779,7 +881,9 @@ const dsaData = {
         "Hash Table"
       ],
       "date": "2026-07-25",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\525_contiguous_array"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\525_contiguous_array",
+      "rel_folder": "HashMaps/525_contiguous_array",
+      "encoded_folder": "HashMaps/525_contiguous_array"
     },
     {
       "num": "540",
@@ -792,7 +896,9 @@ const dsaData = {
         "Binary Search"
       ],
       "date": "2026-08-27",
-      "folder_path": "D:\\projects\\dsa\\Binary Search\\540_single_element_in_a_sorted_array"
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\540_single_element_in_a_sorted_array",
+      "rel_folder": "Binary Search/540_single_element_in_a_sorted_array",
+      "encoded_folder": "Binary%20Search/540_single_element_in_a_sorted_array"
     },
     {
       "num": "560",
@@ -804,7 +910,9 @@ const dsaData = {
         "Hash Table"
       ],
       "date": "2026-07-24",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\560_subarray_sum_equals_k"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\560_subarray_sum_equals_k",
+      "rel_folder": "HashMaps/560_subarray_sum_equals_k",
+      "encoded_folder": "HashMaps/560_subarray_sum_equals_k"
     },
     {
       "num": "659",
@@ -818,7 +926,9 @@ const dsaData = {
         "Array"
       ],
       "date": "2026-07-20",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\659_split_array_into_consecutive_subsequences"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\659_split_array_into_consecutive_subsequences",
+      "rel_folder": "HashMaps/659_split_array_into_consecutive_subsequences",
+      "encoded_folder": "HashMaps/659_split_array_into_consecutive_subsequences"
     },
     {
       "num": "704",
@@ -831,7 +941,9 @@ const dsaData = {
         "Binary Search"
       ],
       "date": "2026-08-25",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\704_binary_search"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\704_binary_search",
+      "rel_folder": "Arrays/704_binary_search",
+      "encoded_folder": "Arrays/704_binary_search"
     },
     {
       "num": "774",
@@ -843,7 +955,9 @@ const dsaData = {
         "Binary Search"
       ],
       "date": "2026-09-08",
-      "folder_path": "D:\\projects\\dsa\\Binary Search\\774_minimize_max_distance_to_gas_station"
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\774_minimize_max_distance_to_gas_station",
+      "rel_folder": "Binary Search/774_minimize_max_distance_to_gas_station",
+      "encoded_folder": "Binary%20Search/774_minimize_max_distance_to_gas_station"
     },
     {
       "num": "875",
@@ -856,7 +970,9 @@ const dsaData = {
         "Binary Search"
       ],
       "date": "2026-09-01",
-      "folder_path": "D:\\projects\\dsa\\Binary Search\\875_koko_eating_bananas"
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\875_koko_eating_bananas",
+      "rel_folder": "Binary Search/875_koko_eating_bananas",
+      "encoded_folder": "Binary%20Search/875_koko_eating_bananas"
     },
     {
       "num": "930",
@@ -868,7 +984,9 @@ const dsaData = {
         "Hash Table"
       ],
       "date": "2026-07-27",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\930_binary_subarrays_with_sum"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\930_binary_subarrays_with_sum",
+      "rel_folder": "HashMaps/930_binary_subarrays_with_sum",
+      "encoded_folder": "HashMaps/930_binary_subarrays_with_sum"
     },
     {
       "num": "974",
@@ -880,7 +998,9 @@ const dsaData = {
         "Hash Table"
       ],
       "date": "2026-07-26",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\974_subarray_sums_divisible_by_k"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\974_subarray_sums_divisible_by_k",
+      "rel_folder": "HashMaps/974_subarray_sums_divisible_by_k",
+      "encoded_folder": "HashMaps/974_subarray_sums_divisible_by_k"
     },
     {
       "num": "981",
@@ -892,7 +1012,9 @@ const dsaData = {
         "Hash Table"
       ],
       "date": "2026-07-29",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\981_time_based_key_value_store"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\981_time_based_key_value_store",
+      "rel_folder": "HashMaps/981_time_based_key_value_store",
+      "encoded_folder": "HashMaps/981_time_based_key_value_store"
     },
     {
       "num": "1002",
@@ -904,7 +1026,9 @@ const dsaData = {
         "Hash Table"
       ],
       "date": "2026-07-19",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\1002_find_common_characters"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\1002_find_common_characters",
+      "rel_folder": "HashMaps/1002_find_common_characters",
+      "encoded_folder": "HashMaps/1002_find_common_characters"
     },
     {
       "num": "1011",
@@ -917,7 +1041,9 @@ const dsaData = {
         "Binary Search"
       ],
       "date": "2026-09-03",
-      "folder_path": "D:\\projects\\dsa\\Binary Search\\1011_capacity_to_ship_packages_within_d_days"
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\1011_capacity_to_ship_packages_within_d_days",
+      "rel_folder": "Binary Search/1011_capacity_to_ship_packages_within_d_days",
+      "encoded_folder": "Binary%20Search/1011_capacity_to_ship_packages_within_d_days"
     },
     {
       "num": "1124",
@@ -933,7 +1059,9 @@ const dsaData = {
         "Prefix Sum"
       ],
       "date": "2026-07-27",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\1124_longest_well_performing_interval"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\1124_longest_well_performing_interval",
+      "rel_folder": "Arrays/1124_longest_well_performing_interval",
+      "encoded_folder": "Arrays/1124_longest_well_performing_interval"
     },
     {
       "num": "1207",
@@ -945,7 +1073,9 @@ const dsaData = {
         "Hash Table"
       ],
       "date": "2026-07-19",
-      "folder_path": "D:\\projects\\dsa\\HashMaps\\1207_unique_number_of_occurances"
+      "folder_path": "D:\\projects\\dsa\\HashMaps\\1207_unique_number_of_occurances",
+      "rel_folder": "HashMaps/1207_unique_number_of_occurances",
+      "encoded_folder": "HashMaps/1207_unique_number_of_occurances"
     },
     {
       "num": "1283",
@@ -958,7 +1088,9 @@ const dsaData = {
         "Binary Search"
       ],
       "date": "2026-09-02",
-      "folder_path": "D:\\projects\\dsa\\Binary Search\\1283_find_the_smallest_divisor_given_a_threshold"
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\1283_find_the_smallest_divisor_given_a_threshold",
+      "rel_folder": "Binary Search/1283_find_the_smallest_divisor_given_a_threshold",
+      "encoded_folder": "Binary%20Search/1283_find_the_smallest_divisor_given_a_threshold"
     },
     {
       "num": "1482",
@@ -971,7 +1103,9 @@ const dsaData = {
         "Binary Search"
       ],
       "date": "2026-09-01",
-      "folder_path": "D:\\projects\\dsa\\Binary Search\\1482_minimum_number_of_days_to_make_m_bouquets"
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\1482_minimum_number_of_days_to_make_m_bouquets",
+      "rel_folder": "Binary Search/1482_minimum_number_of_days_to_make_m_bouquets",
+      "encoded_folder": "Binary%20Search/1482_minimum_number_of_days_to_make_m_bouquets"
     },
     {
       "num": "1539",
@@ -984,7 +1118,9 @@ const dsaData = {
         "Binary Search"
       ],
       "date": "2026-09-04",
-      "folder_path": "D:\\projects\\dsa\\Binary Search\\1539_kth_missing_positive_number"
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\1539_kth_missing_positive_number",
+      "rel_folder": "Binary Search/1539_kth_missing_positive_number",
+      "encoded_folder": "Binary%20Search/1539_kth_missing_positive_number"
     },
     {
       "num": "1752",
@@ -996,7 +1132,9 @@ const dsaData = {
         "Array"
       ],
       "date": "2026-08-03",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\1752_check_if_array_is_sorted_and_rotated"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\1752_check_if_array_is_sorted_and_rotated",
+      "rel_folder": "Arrays/1752_check_if_array_is_sorted_and_rotated",
+      "encoded_folder": "Arrays/1752_check_if_array_is_sorted_and_rotated"
     },
     {
       "num": "2124",
@@ -1008,7 +1146,9 @@ const dsaData = {
         "Array"
       ],
       "date": "2026-08-03",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\2124_check_if_all_A's_appears_before_all_B's"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\2124_check_if_all_A's_appears_before_all_B's",
+      "rel_folder": "Arrays/2124_check_if_all_A's_appears_before_all_B's",
+      "encoded_folder": "Arrays/2124_check_if_all_A%27s_appears_before_all_B%27s"
     },
     {
       "num": "2149",
@@ -1022,7 +1162,9 @@ const dsaData = {
         "Simulation"
       ],
       "date": "2026-08-14",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\2149_rearrange_array_elements_by_sign"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\2149_rearrange_array_elements_by_sign",
+      "rel_folder": "Arrays/2149_rearrange_array_elements_by_sign",
+      "encoded_folder": "Arrays/2149_rearrange_array_elements_by_sign"
     },
     {
       "num": "2965",
@@ -1037,7 +1179,9 @@ const dsaData = {
         "Matrix"
       ],
       "date": "2026-08-21",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\2965_find_missing_and_repeated_values"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\2965_find_missing_and_repeated_values",
+      "rel_folder": "Arrays/2965_find_missing_and_repeated_values",
+      "encoded_folder": "Arrays/2965_find_missing_and_repeated_values"
     },
     {
       "num": "3838",
@@ -1051,7 +1195,9 @@ const dsaData = {
         "Simulation"
       ],
       "date": "2026-06-13",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\3838_weighted_word_mapping"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\3838_weighted_word_mapping",
+      "rel_folder": "Arrays/3838_weighted_word_mapping",
+      "encoded_folder": "Arrays/3838_weighted_word_mapping"
     },
     {
       "num": "3894",
@@ -1065,7 +1211,9 @@ const dsaData = {
         "Simulation"
       ],
       "date": "2026-04-11",
-      "folder_path": "D:\\projects\\dsa\\Other\\3894_traffic_signal_color"
+      "folder_path": "D:\\projects\\dsa\\Other\\3894_traffic_signal_color",
+      "rel_folder": "Other/3894_traffic_signal_color",
+      "encoded_folder": "Other/3894_traffic_signal_color"
     },
     {
       "num": "3895",
@@ -1078,7 +1226,9 @@ const dsaData = {
         "Math"
       ],
       "date": "2026-04-11",
-      "folder_path": "D:\\projects\\dsa\\Arrays\\3895_count_digit_appearances"
+      "folder_path": "D:\\projects\\dsa\\Arrays\\3895_count_digit_appearances",
+      "rel_folder": "Arrays/3895_count_digit_appearances",
+      "encoded_folder": "Arrays/3895_count_digit_appearances"
     },
     {
       "num": "4010",
@@ -1090,7 +1240,9 @@ const dsaData = {
         "Other"
       ],
       "date": "2026-08-02",
-      "folder_path": "D:\\projects\\dsa\\Other\\4010_maximize_pair_strength_using_gcd"
+      "folder_path": "D:\\projects\\dsa\\Other\\4010_maximize_pair_strength_using_gcd",
+      "rel_folder": "Other/4010_maximize_pair_strength_using_gcd",
+      "encoded_folder": "Other/4010_maximize_pair_strength_using_gcd"
     },
     {
       "num": "4011",
@@ -1102,7 +1254,9 @@ const dsaData = {
         "Other"
       ],
       "date": "2026-08-02",
-      "folder_path": "D:\\projects\\dsa\\Other\\4011_count_subarrays_with_even_odd_ratio_i"
+      "folder_path": "D:\\projects\\dsa\\Other\\4011_count_subarrays_with_even_odd_ratio_i",
+      "rel_folder": "Other/4011_count_subarrays_with_even_odd_ratio_i",
+      "encoded_folder": "Other/4011_count_subarrays_with_even_odd_ratio_i"
     }
   ]
 };

@@ -189,8 +189,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // 2. Render Cards
   function createProblemCard(p) {
-    const folderName = p.folder_path.split("\\").pop().split("/").pop();
-    const link = `https://github.com/cibidharan-rv/dsa/tree/main/${p.category}/${folderName}`;
+    let link;
+    if (p.encoded_folder) {
+        link = `https://github.com/cibidharan-rv/dsa/tree/main/${p.encoded_folder}`;
+    } else {
+        const folderName = p.folder_path.split("\\").pop().split("/").pop();
+        link = `https://github.com/cibidharan-rv/dsa/tree/main/${p.category}/${folderName}`;
+    }
 
     const card = document.createElement("a");
     card.href = link;
@@ -394,13 +399,14 @@ document.addEventListener("DOMContentLoaded", () => {
       return;
     }
     const randomIndex = Math.floor(Math.random() * filteredData.length);
-    const randomProblem = filteredData[randomIndex];
-    const folderName = randomProblem.folder_path
-      .split("\\")
-      .pop()
-      .split("/")
-      .pop();
-    const link = `https://github.com/cibidharan-rv/dsa/tree/main/${randomProblem.category}/${folderName}`;
+    const p = filteredData[randomIndex];
+    let link;
+    if (p.encoded_folder) {
+        link = `https://github.com/cibidharan-rv/dsa/tree/main/${p.encoded_folder}`;
+    } else {
+        const folderName = p.folder_path.split("\\").pop().split("/").pop();
+        link = `https://github.com/cibidharan-rv/dsa/tree/main/${p.category}/${folderName}`;
+    }
     window.open(link, "_blank");
   });
 

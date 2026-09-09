@@ -32,7 +32,7 @@
 | 1 | Two Sum | 🟢 Easy | Arrays | [Code & Doc](./Arrays/1_two_sum) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 🟡 Medium | Other | [Code & Doc](./Other/2_add_two_numbers) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/3_longest_substring_without_repeating_characters) |
-| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 Hard | Binary Search | [Code & Doc](./Binary Search/4_median_of_two_sorted_arrays) |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | 🔴 Hard | Binary Search | [Code & Doc](./Binary%20Search/4_median_of_two_sorted_arrays) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | Math | [Code & Doc](./Math/9_palindrome_number) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | Other | [Code & Doc](./Other/9_palindrome_number) |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/12_integer_to_roman) |
@@ -52,7 +52,7 @@
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/54_spiral_matrix) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/56_merge_intervals) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/73_set_matrix_zeroes) |
-| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary Search/74_search_a_2d_matrix) |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/74_search_a_2d_matrix) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/75_sort_colors) |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/81_search_in_rotated_sorted_array_ii) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/88_merge_sorted_array) |
@@ -62,8 +62,8 @@
 | 128 | Longest Consecutive Sequence | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/128_longest_consecutive_sequence) |
 | 136 | Single Number | 🟢 Easy | Arrays | [Code & Doc](./Arrays/136_single_number) |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/152_maximum_product_subarray) |
-| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary Search/153_find_minimum_in_rotated_sorted_array) |
-| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary Search/162_find_peak_element) |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/153_find_minimum_in_rotated_sorted_array) |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/162_find_peak_element) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/169_majority_element) |
 | 189 | Rotate  Array | 🟡 Medium | Arrays | [Code & Doc](./Arrays/189_rotate_array) |
 | 202 | Happy Number | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/202_happy_number) |
@@ -74,31 +74,31 @@
 | 349 | Intersection of Two Arrays | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/349_intersection_of_two_arrays) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/383_ransom_note) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/387_first_unique_character_in_a_string) |
-| 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | Binary Search | [Code & Doc](./Binary Search/410_split_array_largest_sum) |
-| 410-A | [Allocate Minimum Number Of Pages](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | 🟡 Medium | Binary Search | [Code & Doc](./Binary Search/410-A_allocate_minimum_number_of_pages) |
+| 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | Binary Search | [Code & Doc](./Binary%20Search/410_split_array_largest_sum) |
+| 410-A | [Allocate Minimum Number Of Pages](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/410-A_allocate_minimum_number_of_pages) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/451_sort_characters_by_frequency) |
 | 485 | Max Consecutive Ones | 🟢 Easy | Arrays | [Code & Doc](./Arrays/485_max_consecutive_ones) |
 | 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | 🔴 Hard | Arrays | [Code & Doc](./Arrays/493_reverse_pairs) |
 | 523 | Continuous Subarray Sum | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/523_continuous_subarray_sum) |
 | 525 | Contiguous Array | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/525_contiguous_array) |
-| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary Search/540_single_element_in_a_sorted_array) |
+| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/540_single_element_in_a_sorted_array) |
 | 560 | Subarray Sum Equals K | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/560_subarray_sum_equals_k) |
 | 659 | Split Array Into Consecutive Subsequences | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/659_split_array_into_consecutive_subsequences) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/704_binary_search) |
-| 774 | [Minimize Max Distance To Gas Station](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1) | 🔴 Hard | Binary Search | [Code & Doc](./Binary Search/774_minimize_max_distance_to_gas_station) |
-| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary Search/875_koko_eating_bananas) |
+| 774 | [Minimize Max Distance To Gas Station](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1) | 🔴 Hard | Binary Search | [Code & Doc](./Binary%20Search/774_minimize_max_distance_to_gas_station) |
+| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/875_koko_eating_bananas) |
 | 930 | Binary Subarrays With Sum | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/930_binary_subarrays_with_sum) |
 | 974 | Subarray Sum Divisible by K | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/974_subarray_sums_divisible_by_k) |
 | 981 | Time Based Key-Value Store | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/981_time_based_key_value_store) |
 | 1002 | Find Common Characters | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/1002_find_common_characters) |
-| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary Search/1011_capacity_to_ship_packages_within_d_days) |
+| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/1011_capacity_to_ship_packages_within_d_days) |
 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/1124_longest_well_performing_interval) |
 | 1207 | Unique Number of Occurances | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/1207_unique_number_of_occurances) |
-| 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary Search/1283_find_the_smallest_divisor_given_a_threshold) |
-| 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary Search/1482_minimum_number_of_days_to_make_m_bouquets) |
-| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | 🟢 Easy | Binary Search | [Code & Doc](./Binary Search/1539_kth_missing_positive_number) |
+| 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/1283_find_the_smallest_divisor_given_a_threshold) |
+| 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/1482_minimum_number_of_days_to_make_m_bouquets) |
+| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | 🟢 Easy | Binary Search | [Code & Doc](./Binary%20Search/1539_kth_missing_positive_number) |
 | 1752 | Check If Array is Sorted and Rotated | 🟢 Easy | Arrays | [Code & Doc](./Arrays/1752_check_if_array_is_sorted_and_rotated) |
-| 2124 | Check if All A's appears before all B's | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2124_check_if_all_A's_appears_before_all_B's) |
+| 2124 | Check if All A's appears before all B's | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2124_check_if_all_A%27s_appears_before_all_B%27s) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/2149_rearrange_array_elements_by_sign) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2965_find_missing_and_repeated_values) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/3838_weighted_word_mapping) |
