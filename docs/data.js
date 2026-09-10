@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 77,
+  "total": 78,
   "difficulty": {
     "Easy": 31,
-    "Medium": 41,
+    "Medium": 42,
     "Hard": 5,
     "Unknown": 0
   },
@@ -29,9 +29,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Binary Search": {
-      "Total": 13,
+      "Total": 14,
       "Easy": 1,
-      "Medium": 9,
+      "Medium": 10,
       "Hard": 3,
       "Unknown": 0
     },
@@ -44,22 +44,22 @@ const dsaData = {
     }
   },
   "topic_stats": {
-    "Array": 47,
+    "Array": 48,
     "Linked List": 1,
     "Math": 10,
     "Recursion": 1,
     "Hash Table": 26,
     "String": 13,
     "Sliding Window": 2,
-    "Binary Search": 19,
-    "Divide and Conquer": 2,
+    "Binary Search": 20,
+    "Divide and Conquer": 3,
     "Two Pointers": 8,
     "Sorting": 6,
     "String Matching": 1,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Matrix": 5,
+    "Matrix": 6,
     "Simulation": 4,
     "Quicksort": 1,
     "Dynamic Programming": 4,
@@ -690,6 +690,23 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\229_majority_element_ii",
       "rel_folder": "Arrays/229_majority_element_ii",
       "encoded_folder": "Arrays/229_majority_element_ii"
+    },
+    {
+      "num": "240",
+      "title": "Search a 2D Matrix II",
+      "link": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+      "difficulty": "Medium",
+      "category": "Binary Search",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Divide and Conquer",
+        "Matrix"
+      ],
+      "date": "2026-09-10",
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\240_search_a_2d_matrix_ii",
+      "rel_folder": "Binary Search/240_search_a_2d_matrix_ii",
+      "encoded_folder": "Binary%20Search/240_search_a_2d_matrix_ii"
     },
     {
       "num": "283",
