@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 78,
+  "total": 79,
   "difficulty": {
     "Easy": 31,
-    "Medium": 42,
+    "Medium": 43,
     "Hard": 5,
     "Unknown": 0
   },
@@ -29,9 +29,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Binary Search": {
-      "Total": 14,
+      "Total": 15,
       "Easy": 1,
-      "Medium": 10,
+      "Medium": 11,
       "Hard": 3,
       "Unknown": 0
     },
@@ -44,14 +44,14 @@ const dsaData = {
     }
   },
   "topic_stats": {
-    "Array": 48,
+    "Array": 49,
     "Linked List": 1,
     "Math": 10,
     "Recursion": 1,
     "Hash Table": 26,
     "String": 13,
     "Sliding Window": 2,
-    "Binary Search": 20,
+    "Binary Search": 21,
     "Divide and Conquer": 3,
     "Two Pointers": 8,
     "Sorting": 6,
@@ -59,7 +59,7 @@ const dsaData = {
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Matrix": 6,
+    "Matrix": 7,
     "Simulation": 4,
     "Quicksort": 1,
     "Dynamic Programming": 4,
@@ -1152,6 +1152,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\1752_check_if_array_is_sorted_and_rotated",
       "rel_folder": "Arrays/1752_check_if_array_is_sorted_and_rotated",
       "encoded_folder": "Arrays/1752_check_if_array_is_sorted_and_rotated"
+    },
+    {
+      "num": "1901",
+      "title": "Find a Peak Element II",
+      "link": "https://leetcode.com/problems/find-a-peak-element-ii/",
+      "difficulty": "Medium",
+      "category": "Binary Search",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Matrix"
+      ],
+      "date": "2026-09-10",
+      "folder_path": "D:\\projects\\dsa\\Binary Search\\1901_find_a_peak_element_ii",
+      "rel_folder": "Binary Search/1901_find_a_peak_element_ii",
+      "encoded_folder": "Binary%20Search/1901_find_a_peak_element_ii"
     },
     {
       "num": "2124",
