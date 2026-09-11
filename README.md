@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 79
+**Total Problems Solved:** 80
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (39.2%): `████████░░░░░░░░░░░░` (31)
-- 🟡 **Medium** (54.4%): `███████████░░░░░░░░░` (43)
-- 🔴 **Hard** (6.3%): `█░░░░░░░░░░░░░░░░░░░` (5)
+- 🟢 **Easy** (40.0%): `████████░░░░░░░░░░░░` (32)
+- 🟡 **Medium** (53.8%): `███████████░░░░░░░░░` (43)
+- 🔴 **Hard** (6.2%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
 
@@ -19,6 +19,7 @@
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
+| **String** | 1 | 1 | 0 | 0 |
 
 <!-- STATS:END -->
 
@@ -100,6 +101,7 @@
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | 🟢 Easy | Binary Search | [Code & Doc](./Binary%20Search/1539_kth_missing_positive_number) |
 | 1752 | Check If Array is Sorted and Rotated | 🟢 Easy | Arrays | [Code & Doc](./Arrays/1752_check_if_array_is_sorted_and_rotated) |
 | 1901 | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/1901_find_a_peak_element_ii) |
+| 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | 🟢 Easy | String | [Code & Doc](./String/1903_largest_odd_number_in_string) |
 | 2124 | Check if All A's appears before all B's | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2124_check_if_all_A%27s_appears_before_all_B%27s) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/2149_rearrange_array_elements_by_sign) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2965_find_missing_and_repeated_values) |

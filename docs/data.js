@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 79,
+  "total": 80,
   "difficulty": {
-    "Easy": 31,
+    "Easy": 32,
     "Medium": 43,
     "Hard": 5,
     "Unknown": 0
@@ -41,15 +41,22 @@ const dsaData = {
       "Medium": 0,
       "Hard": 0,
       "Unknown": 0
+    },
+    "String": {
+      "Total": 1,
+      "Easy": 1,
+      "Medium": 0,
+      "Hard": 0,
+      "Unknown": 0
     }
   },
   "topic_stats": {
     "Array": 49,
     "Linked List": 1,
-    "Math": 10,
+    "Math": 11,
     "Recursion": 1,
     "Hash Table": 26,
-    "String": 13,
+    "String": 14,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
@@ -66,7 +73,7 @@ const dsaData = {
     "Counting": 4,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
     "Queue": 1,
-    "Greedy": 2,
+    "Greedy": 3,
     "Prefix Sum": 3,
     "Heap (Priority Queue)": 1,
     "Bucket Sort": 1,
@@ -1168,6 +1175,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Binary Search\\1901_find_a_peak_element_ii",
       "rel_folder": "Binary Search/1901_find_a_peak_element_ii",
       "encoded_folder": "Binary%20Search/1901_find_a_peak_element_ii"
+    },
+    {
+      "num": "1903",
+      "title": "Largest Odd Number in String",
+      "link": "https://leetcode.com/problems/largest-odd-number-in-string/",
+      "difficulty": "Easy",
+      "category": "String",
+      "topics": [
+        "Math",
+        "String",
+        "Greedy"
+      ],
+      "date": "2026-09-11",
+      "folder_path": "D:\\projects\\dsa\\String\\1903_largest_odd_number_in_string",
+      "rel_folder": "String/1903_largest_odd_number_in_string",
+      "encoded_folder": "String/1903_largest_odd_number_in_string"
     },
     {
       "num": "2124",
