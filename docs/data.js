@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 82,
+  "total": 83,
   "difficulty": {
-    "Easy": 33,
+    "Easy": 34,
     "Medium": 44,
     "Hard": 5,
     "Unknown": 0
@@ -43,23 +43,24 @@ const dsaData = {
       "Unknown": 0
     },
     "String": {
-      "Total": 3,
-      "Easy": 2,
+      "Total": 4,
+      "Easy": 3,
       "Medium": 1,
       "Hard": 0,
       "Unknown": 0
     }
   },
   "topic_stats": {
-    "Array": 49,
+    "Array": 50,
     "Linked List": 1,
     "Math": 11,
     "Recursion": 1,
     "Hash Table": 26,
-    "String": 16,
+    "String": 17,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
+    "Trie": 1,
     "Two Pointers": 9,
     "Sorting": 6,
     "String Matching": 1,
@@ -210,6 +211,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\HashMaps\\13_roman_to_integer",
       "rel_folder": "HashMaps/13_roman_to_integer",
       "encoded_folder": "HashMaps/13_roman_to_integer"
+    },
+    {
+      "num": "14",
+      "title": "Longest Common Prefix",
+      "link": "https://leetcode.com/problems/longest-common-prefix/",
+      "difficulty": "Easy",
+      "category": "String",
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ],
+      "date": "2026-09-12",
+      "folder_path": "D:\\projects\\dsa\\String\\14_longest_common_prefix",
+      "rel_folder": "String/14_longest_common_prefix",
+      "encoded_folder": "String/14_longest_common_prefix"
     },
     {
       "num": "15",

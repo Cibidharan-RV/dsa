@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 82
+**Total Problems Solved:** 83
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (40.2%): `████████░░░░░░░░░░░░` (33)
-- 🟡 **Medium** (53.7%): `███████████░░░░░░░░░` (44)
-- 🔴 **Hard** (6.1%): `█░░░░░░░░░░░░░░░░░░░` (5)
+- 🟢 **Easy** (41.0%): `████████░░░░░░░░░░░░` (34)
+- 🟡 **Medium** (53.0%): `███████████░░░░░░░░░` (44)
+- 🔴 **Hard** (6.0%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
 
@@ -18,7 +18,7 @@
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Other** | 7 | 5 | 2 | 0 |
-| **String** | 3 | 2 | 1 | 0 |
+| **String** | 4 | 3 | 1 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 
 <!-- STATS:END -->
@@ -38,6 +38,7 @@
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | Other | [Code & Doc](./Other/9_palindrome_number) |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/12_integer_to_roman) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/13_roman_to_integer) |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | String | [Code & Doc](./String/14_longest_common_prefix) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/15_3sum) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/18_4sum) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/27_remove_element) |
