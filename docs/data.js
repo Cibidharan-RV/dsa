@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 80,
+  "total": 81,
   "difficulty": {
-    "Easy": 32,
+    "Easy": 33,
     "Medium": 43,
     "Hard": 5,
     "Unknown": 0
@@ -43,8 +43,8 @@ const dsaData = {
       "Unknown": 0
     },
     "String": {
-      "Total": 1,
-      "Easy": 1,
+      "Total": 2,
+      "Easy": 2,
       "Medium": 0,
       "Hard": 0,
       "Unknown": 0
@@ -56,7 +56,7 @@ const dsaData = {
     "Math": 11,
     "Recursion": 1,
     "Hash Table": 26,
-    "String": 14,
+    "String": 15,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
@@ -83,7 +83,8 @@ const dsaData = {
     "Ordered Set": 1,
     "Treap": 1,
     "Senior Staff": 1,
-    "Stack": 1,
+    "Stack": 2,
+    "Bracket Sequences": 1,
     "Monotonic Stack": 1,
     "Other": 2
   },
@@ -1068,6 +1069,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Binary Search\\1011_capacity_to_ship_packages_within_d_days",
       "rel_folder": "Binary Search/1011_capacity_to_ship_packages_within_d_days",
       "encoded_folder": "Binary%20Search/1011_capacity_to_ship_packages_within_d_days"
+    },
+    {
+      "num": "1021",
+      "title": "Remove Outermost Parentheses",
+      "link": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "difficulty": "Easy",
+      "category": "String",
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "date": "2026-09-12",
+      "folder_path": "D:\\projects\\dsa\\String\\1021_remove_outermost_parentheses",
+      "rel_folder": "String/1021_remove_outermost_parentheses",
+      "encoded_folder": "String/1021_remove_outermost_parentheses"
     },
     {
       "num": "1124",
