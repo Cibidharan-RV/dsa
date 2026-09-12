@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 81,
+  "total": 82,
   "difficulty": {
     "Easy": 33,
-    "Medium": 43,
+    "Medium": 44,
     "Hard": 5,
     "Unknown": 0
   },
@@ -43,9 +43,9 @@ const dsaData = {
       "Unknown": 0
     },
     "String": {
-      "Total": 2,
+      "Total": 3,
       "Easy": 2,
-      "Medium": 0,
+      "Medium": 1,
       "Hard": 0,
       "Unknown": 0
     }
@@ -56,11 +56,11 @@ const dsaData = {
     "Math": 11,
     "Recursion": 1,
     "Hash Table": 26,
-    "String": 15,
+    "String": 16,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
-    "Two Pointers": 8,
+    "Two Pointers": 9,
     "Sorting": 6,
     "String Matching": 1,
     "Z Algorithm": 1,
@@ -578,6 +578,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\136_single_number",
       "rel_folder": "Arrays/136_single_number",
       "encoded_folder": "Arrays/136_single_number"
+    },
+    {
+      "num": "151",
+      "title": "Reverse Words in a String",
+      "link": "https://leetcode.com/problems/reverse-words-in-a-string/",
+      "difficulty": "Medium",
+      "category": "String",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "date": "2026-09-12",
+      "folder_path": "D:\\projects\\dsa\\String\\151_reverse_words_in_a_string",
+      "rel_folder": "String/151_reverse_words_in_a_string",
+      "encoded_folder": "String/151_reverse_words_in_a_string"
     },
     {
       "num": "152",

@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 81
+**Total Problems Solved:** 82
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (40.7%): `████████░░░░░░░░░░░░` (33)
-- 🟡 **Medium** (53.1%): `███████████░░░░░░░░░` (43)
-- 🔴 **Hard** (6.2%): `█░░░░░░░░░░░░░░░░░░░` (5)
+- 🟢 **Easy** (40.2%): `████████░░░░░░░░░░░░` (33)
+- 🟡 **Medium** (53.7%): `███████████░░░░░░░░░` (44)
+- 🔴 **Hard** (6.1%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
 
@@ -18,7 +18,7 @@
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Other** | 7 | 5 | 2 | 0 |
-| **String** | 2 | 2 | 0 | 0 |
+| **String** | 3 | 2 | 1 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 
 <!-- STATS:END -->
@@ -62,6 +62,7 @@
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | Other | [Code & Doc](./Other/125_valid_palindrome) |
 | 128 | Longest Consecutive Sequence | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/128_longest_consecutive_sequence) |
 | 136 | Single Number | 🟢 Easy | Arrays | [Code & Doc](./Arrays/136_single_number) |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | String | [Code & Doc](./String/151_reverse_words_in_a_string) |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/152_maximum_product_subarray) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/153_find_minimum_in_rotated_sorted_array) |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/162_find_peak_element) |
