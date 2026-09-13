@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 84
+**Total Problems Solved:** 85
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (41.7%): `████████░░░░░░░░░░░░` (35)
-- 🟡 **Medium** (52.4%): `██████████░░░░░░░░░░` (44)
-- 🔴 **Hard** (6.0%): `█░░░░░░░░░░░░░░░░░░░` (5)
+- 🟢 **Easy** (42.4%): `████████░░░░░░░░░░░░` (36)
+- 🟡 **Medium** (51.8%): `██████████░░░░░░░░░░` (44)
+- 🔴 **Hard** (5.9%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
 
@@ -18,7 +18,7 @@
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Other** | 7 | 5 | 2 | 0 |
-| **String** | 5 | 4 | 1 | 0 |
+| **String** | 6 | 5 | 1 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 
 <!-- STATS:END -->
@@ -73,6 +73,7 @@
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/205_isomorphic_strings) |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/229_majority_element_ii) |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/240_search_a_2d_matrix_ii) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | String | [Code & Doc](./String/242_valid_anagram) |
 | 283 | Move Zeroes | 🟢 Easy | Arrays | [Code & Doc](./Arrays/283_move_zeroes) |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/290_word_pattern) |
 | 349 | Intersection of Two Arrays | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/349_intersection_of_two_arrays) |

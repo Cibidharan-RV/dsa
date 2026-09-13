@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 84,
+  "total": 85,
   "difficulty": {
-    "Easy": 35,
+    "Easy": 36,
     "Medium": 44,
     "Hard": 5,
     "Unknown": 0
@@ -43,8 +43,8 @@ const dsaData = {
       "Unknown": 0
     },
     "String": {
-      "Total": 5,
-      "Easy": 4,
+      "Total": 6,
+      "Easy": 5,
       "Medium": 1,
       "Hard": 0,
       "Unknown": 0
@@ -55,14 +55,14 @@ const dsaData = {
     "Linked List": 1,
     "Math": 11,
     "Recursion": 1,
-    "Hash Table": 26,
-    "String": 18,
+    "Hash Table": 27,
+    "String": 19,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
     "Trie": 1,
     "Two Pointers": 9,
-    "Sorting": 6,
+    "Sorting": 7,
     "String Matching": 2,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
@@ -747,6 +747,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Binary Search\\240_search_a_2d_matrix_ii",
       "rel_folder": "Binary Search/240_search_a_2d_matrix_ii",
       "encoded_folder": "Binary%20Search/240_search_a_2d_matrix_ii"
+    },
+    {
+      "num": "242",
+      "title": "Valid Anagram",
+      "link": "https://leetcode.com/problems/valid-anagram/",
+      "difficulty": "Easy",
+      "category": "String",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "date": "2026-09-13",
+      "folder_path": "D:\\projects\\dsa\\String\\242_valid_anagram",
+      "rel_folder": "String/242_valid_anagram",
+      "encoded_folder": "String/242_valid_anagram"
     },
     {
       "num": "283",
