@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 83
+**Total Problems Solved:** 84
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (41.0%): `████████░░░░░░░░░░░░` (34)
-- 🟡 **Medium** (53.0%): `███████████░░░░░░░░░` (44)
+- 🟢 **Easy** (41.7%): `████████░░░░░░░░░░░░` (35)
+- 🟡 **Medium** (52.4%): `██████████░░░░░░░░░░` (44)
 - 🔴 **Hard** (6.0%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
@@ -18,7 +18,7 @@
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Other** | 7 | 5 | 2 | 0 |
-| **String** | 4 | 3 | 1 | 0 |
+| **String** | 5 | 4 | 1 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 
 <!-- STATS:END -->
@@ -90,6 +90,7 @@
 | 659 | Split Array Into Consecutive Subsequences | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/659_split_array_into_consecutive_subsequences) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/704_binary_search) |
 | 774 | [Minimize Max Distance To Gas Station](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1) | 🔴 Hard | Binary Search | [Code & Doc](./Binary%20Search/774_minimize_max_distance_to_gas_station) |
+| 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | 🟢 Easy | String | [Code & Doc](./String/796_rotate_string) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/875_koko_eating_bananas) |
 | 930 | Binary Subarrays With Sum | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/930_binary_subarrays_with_sum) |
 | 974 | Subarray Sum Divisible by K | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/974_subarray_sums_divisible_by_k) |

@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 83,
+  "total": 84,
   "difficulty": {
-    "Easy": 34,
+    "Easy": 35,
     "Medium": 44,
     "Hard": 5,
     "Unknown": 0
@@ -43,8 +43,8 @@ const dsaData = {
       "Unknown": 0
     },
     "String": {
-      "Total": 4,
-      "Easy": 3,
+      "Total": 5,
+      "Easy": 4,
       "Medium": 1,
       "Hard": 0,
       "Unknown": 0
@@ -56,14 +56,14 @@ const dsaData = {
     "Math": 11,
     "Recursion": 1,
     "Hash Table": 26,
-    "String": 17,
+    "String": 18,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
     "Trie": 1,
     "Two Pointers": 9,
     "Sorting": 6,
-    "String Matching": 1,
+    "String Matching": 2,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
@@ -1015,6 +1015,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Binary Search\\774_minimize_max_distance_to_gas_station",
       "rel_folder": "Binary Search/774_minimize_max_distance_to_gas_station",
       "encoded_folder": "Binary%20Search/774_minimize_max_distance_to_gas_station"
+    },
+    {
+      "num": "796",
+      "title": "Rotate String",
+      "link": "https://leetcode.com/problems/rotate-string/",
+      "difficulty": "Easy",
+      "category": "String",
+      "topics": [
+        "String",
+        "String Matching"
+      ],
+      "date": "2026-09-13",
+      "folder_path": "D:\\projects\\dsa\\String\\796_rotate_string",
+      "rel_folder": "String/796_rotate_string",
+      "encoded_folder": "String/796_rotate_string"
     },
     {
       "num": "875",
