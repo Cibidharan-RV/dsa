@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 85,
+  "total": 86,
   "difficulty": {
     "Easy": 36,
-    "Medium": 44,
+    "Medium": 45,
     "Hard": 5,
     "Unknown": 0
   },
@@ -43,9 +43,9 @@ const dsaData = {
       "Unknown": 0
     },
     "String": {
-      "Total": 6,
+      "Total": 7,
       "Easy": 5,
-      "Medium": 1,
+      "Medium": 2,
       "Hard": 0,
       "Unknown": 0
     }
@@ -55,14 +55,14 @@ const dsaData = {
     "Linked List": 1,
     "Math": 11,
     "Recursion": 1,
-    "Hash Table": 27,
-    "String": 19,
+    "Hash Table": 28,
+    "String": 20,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
     "Trie": 1,
     "Two Pointers": 9,
-    "Sorting": 7,
+    "Sorting": 8,
     "String Matching": 2,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
@@ -71,13 +71,13 @@ const dsaData = {
     "Simulation": 4,
     "Quicksort": 1,
     "Dynamic Programming": 4,
-    "Counting": 4,
+    "Counting": 5,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
     "Queue": 1,
     "Greedy": 3,
     "Prefix Sum": 3,
-    "Heap (Priority Queue)": 1,
-    "Bucket Sort": 1,
+    "Heap (Priority Queue)": 2,
+    "Bucket Sort": 2,
     "Binary Indexed Tree": 1,
     "Segment Tree": 1,
     "Merge Sort": 1,
@@ -890,6 +890,25 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\HashMaps\\451_sort_characters_by_frequency",
       "rel_folder": "HashMaps/451_sort_characters_by_frequency",
       "encoded_folder": "HashMaps/451_sort_characters_by_frequency"
+    },
+    {
+      "num": "451",
+      "title": "Sort Characters By Frequency",
+      "link": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "difficulty": "Medium",
+      "category": "String",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting",
+        "Heap (Priority Queue)",
+        "Bucket Sort",
+        "Counting"
+      ],
+      "date": "2026-09-13",
+      "folder_path": "D:\\projects\\dsa\\String\\451_sort_characters_by_frequency",
+      "rel_folder": "String/451_sort_characters_by_frequency",
+      "encoded_folder": "String/451_sort_characters_by_frequency"
     },
     {
       "num": "485",

@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 85
+**Total Problems Solved:** 86
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (42.4%): `████████░░░░░░░░░░░░` (36)
-- 🟡 **Medium** (51.8%): `██████████░░░░░░░░░░` (44)
-- 🔴 **Hard** (5.9%): `█░░░░░░░░░░░░░░░░░░░` (5)
+- 🟢 **Easy** (41.9%): `████████░░░░░░░░░░░░` (36)
+- 🟡 **Medium** (52.3%): `██████████░░░░░░░░░░` (45)
+- 🔴 **Hard** (5.8%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
 
@@ -18,7 +18,7 @@
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Other** | 7 | 5 | 2 | 0 |
-| **String** | 6 | 5 | 1 | 0 |
+| **String** | 7 | 5 | 2 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 
 <!-- STATS:END -->
@@ -82,6 +82,7 @@
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | Binary Search | [Code & Doc](./Binary%20Search/410_split_array_largest_sum) |
 | 410-A | [Allocate Minimum Number Of Pages](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/410-A_allocate_minimum_number_of_pages) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/451_sort_characters_by_frequency) |
+| 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | String | [Code & Doc](./String/451_sort_characters_by_frequency) |
 | 485 | Max Consecutive Ones | 🟢 Easy | Arrays | [Code & Doc](./Arrays/485_max_consecutive_ones) |
 | 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | 🔴 Hard | Arrays | [Code & Doc](./Arrays/493_reverse_pairs) |
 | 523 | Continuous Subarray Sum | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/523_continuous_subarray_sum) |
