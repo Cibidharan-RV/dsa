@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 87,
+  "total": 88,
   "difficulty": {
     "Easy": 37,
-    "Medium": 45,
+    "Medium": 46,
     "Hard": 5,
     "Unknown": 0
   },
@@ -35,17 +35,17 @@ const dsaData = {
       "Hard": 3,
       "Unknown": 0
     },
+    "String": {
+      "Total": 9,
+      "Easy": 6,
+      "Medium": 3,
+      "Hard": 0,
+      "Unknown": 0
+    },
     "Math": {
       "Total": 1,
       "Easy": 1,
       "Medium": 0,
-      "Hard": 0,
-      "Unknown": 0
-    },
-    "String": {
-      "Total": 8,
-      "Easy": 6,
-      "Medium": 2,
       "Hard": 0,
       "Unknown": 0
     }
@@ -56,7 +56,7 @@ const dsaData = {
     "Math": 11,
     "Recursion": 1,
     "Hash Table": 28,
-    "String": 21,
+    "String": 22,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
@@ -151,6 +151,20 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Binary Search\\4_median_of_two_sorted_arrays",
       "rel_folder": "Binary Search/4_median_of_two_sorted_arrays",
       "encoded_folder": "Binary%20Search/4_median_of_two_sorted_arrays"
+    },
+    {
+      "num": "8",
+      "title": "String to Integer (atoi)",
+      "link": "https://leetcode.com/problems/string-to-integer-atoi/",
+      "difficulty": "Medium",
+      "category": "String",
+      "topics": [
+        "String"
+      ],
+      "date": "2026-09-14",
+      "folder_path": "D:\\projects\\dsa\\String\\8_string_to_integer_atoi",
+      "rel_folder": "String/8_string_to_integer_atoi",
+      "encoded_folder": "String/8_string_to_integer_atoi"
     },
     {
       "num": "9",
