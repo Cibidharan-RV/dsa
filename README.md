@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 86
+**Total Problems Solved:** 87
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (41.9%): `████████░░░░░░░░░░░░` (36)
-- 🟡 **Medium** (52.3%): `██████████░░░░░░░░░░` (45)
-- 🔴 **Hard** (5.8%): `█░░░░░░░░░░░░░░░░░░░` (5)
+- 🟢 **Easy** (42.5%): `█████████░░░░░░░░░░░` (37)
+- 🟡 **Medium** (51.7%): `██████████░░░░░░░░░░` (45)
+- 🔴 **Hard** (5.7%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
 
@@ -17,8 +17,8 @@
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
+| **String** | 8 | 6 | 2 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
-| **String** | 7 | 5 | 2 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 
 <!-- STATS:END -->
@@ -105,6 +105,7 @@
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/1283_find_the_smallest_divisor_given_a_threshold) |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/1482_minimum_number_of_days_to_make_m_bouquets) |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | 🟢 Easy | Binary Search | [Code & Doc](./Binary%20Search/1539_kth_missing_positive_number) |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 Easy | String | [Code & Doc](./String/1614_maximum_nesting_depth_of_the_parentheses) |
 | 1752 | Check If Array is Sorted and Rotated | 🟢 Easy | Arrays | [Code & Doc](./Arrays/1752_check_if_array_is_sorted_and_rotated) |
 | 1901 | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/1901_find_a_peak_element_ii) |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | 🟢 Easy | String | [Code & Doc](./String/1903_largest_odd_number_in_string) |

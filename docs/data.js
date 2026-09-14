@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 86,
+  "total": 87,
   "difficulty": {
-    "Easy": 36,
+    "Easy": 37,
     "Medium": 45,
     "Hard": 5,
     "Unknown": 0
@@ -43,8 +43,8 @@ const dsaData = {
       "Unknown": 0
     },
     "String": {
-      "Total": 7,
-      "Easy": 5,
+      "Total": 8,
+      "Easy": 6,
       "Medium": 2,
       "Hard": 0,
       "Unknown": 0
@@ -56,7 +56,7 @@ const dsaData = {
     "Math": 11,
     "Recursion": 1,
     "Hash Table": 28,
-    "String": 20,
+    "String": 21,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
@@ -84,8 +84,8 @@ const dsaData = {
     "Ordered Set": 1,
     "Treap": 1,
     "Senior Staff": 1,
-    "Stack": 2,
-    "Bracket Sequences": 1,
+    "Stack": 3,
+    "Bracket Sequences": 2,
     "Monotonic Stack": 1,
     "Other": 2
   },
@@ -1244,6 +1244,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Binary Search\\1539_kth_missing_positive_number",
       "rel_folder": "Binary Search/1539_kth_missing_positive_number",
       "encoded_folder": "Binary%20Search/1539_kth_missing_positive_number"
+    },
+    {
+      "num": "1614",
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "link": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+      "difficulty": "Easy",
+      "category": "String",
+      "topics": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "date": "2026-09-14",
+      "folder_path": "D:\\projects\\dsa\\String\\1614_maximum_nesting_depth_of_the_parentheses",
+      "rel_folder": "String/1614_maximum_nesting_depth_of_the_parentheses",
+      "encoded_folder": "String/1614_maximum_nesting_depth_of_the_parentheses"
     },
     {
       "num": "1752",
