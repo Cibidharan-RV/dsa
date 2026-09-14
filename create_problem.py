@@ -34,7 +34,7 @@ def get_clipboard_text():
         return ""
 
 def main():
-    console.print(Panel.fit("🚀 [bold blue]Create New DSA Problem[/bold blue] 🚀", border_style="blue"))
+    console.print(Panel.fit(" [bold blue]Create New DSA Problem[/bold blue] ", border_style="blue"))
     
     categories = [d for d in os.listdir(base_dir) if os.path.isdir(os.path.join(base_dir, d)) and not d.startswith('.')]
     category_map = {c.lower(): c for c in categories}
