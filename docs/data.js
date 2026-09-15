@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 88,
+  "total": 89,
   "difficulty": {
     "Easy": 37,
-    "Medium": 46,
+    "Medium": 47,
     "Hard": 5,
     "Unknown": 0
   },
@@ -36,9 +36,9 @@ const dsaData = {
       "Unknown": 0
     },
     "String": {
-      "Total": 9,
+      "Total": 10,
       "Easy": 6,
-      "Medium": 3,
+      "Medium": 4,
       "Hard": 0,
       "Unknown": 0
     },
@@ -56,12 +56,14 @@ const dsaData = {
     "Math": 11,
     "Recursion": 1,
     "Hash Table": 28,
-    "String": 22,
+    "String": 23,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
+    "Two Pointers": 10,
+    "Dynamic Programming": 5,
+    "Manacher": 1,
     "Trie": 1,
-    "Two Pointers": 9,
     "Sorting": 8,
     "String Matching": 2,
     "Z Algorithm": 1,
@@ -70,7 +72,6 @@ const dsaData = {
     "Matrix": 7,
     "Simulation": 4,
     "Quicksort": 1,
-    "Dynamic Programming": 4,
     "Counting": 5,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
     "Queue": 1,
@@ -151,6 +152,23 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Binary Search\\4_median_of_two_sorted_arrays",
       "rel_folder": "Binary Search/4_median_of_two_sorted_arrays",
       "encoded_folder": "Binary%20Search/4_median_of_two_sorted_arrays"
+    },
+    {
+      "num": "5",
+      "title": "Longest Palindromic Substring",
+      "link": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "difficulty": "Medium",
+      "category": "String",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming",
+        "Manacher"
+      ],
+      "date": "2026-09-15",
+      "folder_path": "D:\\projects\\dsa\\String\\5_longest_palindromic_substring",
+      "rel_folder": "String/5_longest_palindromic_substring",
+      "encoded_folder": "String/5_longest_palindromic_substring"
     },
     {
       "num": "8",
