@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 89,
+  "total": 90,
   "difficulty": {
     "Easy": 37,
-    "Medium": 47,
+    "Medium": 48,
     "Hard": 5,
     "Unknown": 0
   },
@@ -36,9 +36,9 @@ const dsaData = {
       "Unknown": 0
     },
     "String": {
-      "Total": 10,
+      "Total": 11,
       "Easy": 6,
-      "Medium": 4,
+      "Medium": 5,
       "Hard": 0,
       "Unknown": 0
     },
@@ -55,8 +55,8 @@ const dsaData = {
     "Linked List": 1,
     "Math": 11,
     "Recursion": 1,
-    "Hash Table": 28,
-    "String": 23,
+    "Hash Table": 29,
+    "String": 24,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
@@ -72,7 +72,7 @@ const dsaData = {
     "Matrix": 7,
     "Simulation": 4,
     "Quicksort": 1,
-    "Counting": 5,
+    "Counting": 6,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
     "Queue": 1,
     "Greedy": 3,
@@ -1306,6 +1306,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\1752_check_if_array_is_sorted_and_rotated",
       "rel_folder": "Arrays/1752_check_if_array_is_sorted_and_rotated",
       "encoded_folder": "Arrays/1752_check_if_array_is_sorted_and_rotated"
+    },
+    {
+      "num": "1781",
+      "title": "Sum of Beauty of All Substrings",
+      "link": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings/",
+      "difficulty": "Medium",
+      "category": "String",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "date": "2026-09-16",
+      "folder_path": "D:\\projects\\dsa\\String\\1781_sum_of_beauty_of_all_substrings",
+      "rel_folder": "String/1781_sum_of_beauty_of_all_substrings",
+      "encoded_folder": "String/1781_sum_of_beauty_of_all_substrings"
     },
     {
       "num": "1901",

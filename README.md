@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 89
+**Total Problems Solved:** 90
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (41.6%): `████████░░░░░░░░░░░░` (37)
-- 🟡 **Medium** (52.8%): `███████████░░░░░░░░░` (47)
+- 🟢 **Easy** (41.1%): `████████░░░░░░░░░░░░` (37)
+- 🟡 **Medium** (53.3%): `███████████░░░░░░░░░` (48)
 - 🔴 **Hard** (5.6%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
@@ -17,7 +17,7 @@
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
-| **String** | 10 | 6 | 4 | 0 |
+| **String** | 11 | 6 | 5 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 
@@ -109,6 +109,7 @@
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | 🟢 Easy | Binary Search | [Code & Doc](./Binary%20Search/1539_kth_missing_positive_number) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 Easy | String | [Code & Doc](./String/1614_maximum_nesting_depth_of_the_parentheses) |
 | 1752 | Check If Array is Sorted and Rotated | 🟢 Easy | Arrays | [Code & Doc](./Arrays/1752_check_if_array_is_sorted_and_rotated) |
+| 1781 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | 🟡 Medium | String | [Code & Doc](./String/1781_sum_of_beauty_of_all_substrings) |
 | 1901 | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/1901_find_a_peak_element_ii) |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | 🟢 Easy | String | [Code & Doc](./String/1903_largest_odd_number_in_string) |
 | 2124 | Check if All A's appears before all B's | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2124_check_if_all_A%27s_appears_before_all_B%27s) |
