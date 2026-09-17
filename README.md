@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 90
+**Total Problems Solved:** 91
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (41.1%): `████████░░░░░░░░░░░░` (37)
-- 🟡 **Medium** (53.3%): `███████████░░░░░░░░░` (48)
-- 🔴 **Hard** (5.6%): `█░░░░░░░░░░░░░░░░░░░` (5)
+- 🟢 **Easy** (40.7%): `████████░░░░░░░░░░░░` (37)
+- 🟡 **Medium** (53.8%): `███████████░░░░░░░░░` (49)
+- 🔴 **Hard** (5.5%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
 
@@ -17,7 +17,7 @@
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
-| **String** | 11 | 6 | 5 | 0 |
+| **String** | 12 | 6 | 6 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 
@@ -115,6 +115,7 @@
 | 2124 | Check if All A's appears before all B's | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2124_check_if_all_A%27s_appears_before_all_B%27s) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/2149_rearrange_array_elements_by_sign) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2965_find_missing_and_repeated_values) |
+| 3234 | [Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | 🟡 Medium | String | [Code & Doc](./String/3234_count_the_number_of_substrings_with_dominant_ones) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/3838_weighted_word_mapping) |
 | 3894 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | 🟢 Easy | Other | [Code & Doc](./Other/3894_traffic_signal_color) |
 | 3895 | [Count Digit Appearances](https://leetcode.com/problems/count-digit-appearances/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/3895_count_digit_appearances) |

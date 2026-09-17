@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 90,
+  "total": 91,
   "difficulty": {
     "Easy": 37,
-    "Medium": 48,
+    "Medium": 49,
     "Hard": 5,
     "Unknown": 0
   },
@@ -36,9 +36,9 @@ const dsaData = {
       "Unknown": 0
     },
     "String": {
-      "Total": 11,
+      "Total": 12,
       "Easy": 6,
-      "Medium": 5,
+      "Medium": 6,
       "Hard": 0,
       "Unknown": 0
     },
@@ -56,7 +56,7 @@ const dsaData = {
     "Math": 11,
     "Recursion": 1,
     "Hash Table": 29,
-    "String": 24,
+    "String": 25,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
@@ -88,6 +88,7 @@ const dsaData = {
     "Stack": 3,
     "Bracket Sequences": 2,
     "Monotonic Stack": 1,
+    "Enumeration": 1,
     "Other": 2
   },
   "problems": [
@@ -1401,6 +1402,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\2965_find_missing_and_repeated_values",
       "rel_folder": "Arrays/2965_find_missing_and_repeated_values",
       "encoded_folder": "Arrays/2965_find_missing_and_repeated_values"
+    },
+    {
+      "num": "3234",
+      "title": "Count the Number of Substrings With Dominant Ones",
+      "link": "https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/",
+      "difficulty": "Medium",
+      "category": "String",
+      "topics": [
+        "String",
+        "Enumeration"
+      ],
+      "date": "2026-09-17",
+      "folder_path": "D:\\projects\\dsa\\String\\3234_count_the_number_of_substrings_with_dominant_ones",
+      "rel_folder": "String/3234_count_the_number_of_substrings_with_dominant_ones",
+      "encoded_folder": "String/3234_count_the_number_of_substrings_with_dominant_ones"
     },
     {
       "num": "3838",
