@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 91
+**Total Problems Solved:** 92
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (40.7%): `████████░░░░░░░░░░░░` (37)
-- 🟡 **Medium** (53.8%): `███████████░░░░░░░░░` (49)
-- 🔴 **Hard** (5.5%): `█░░░░░░░░░░░░░░░░░░░` (5)
+- 🟢 **Easy** (40.2%): `████████░░░░░░░░░░░░` (37)
+- 🟡 **Medium** (54.3%): `███████████░░░░░░░░░` (50)
+- 🔴 **Hard** (5.4%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
 
@@ -20,6 +20,7 @@
 | **String** | 12 | 6 | 6 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
+| **Linked List** | 1 | 0 | 1 | 0 |
 
 <!-- STATS:END -->
 
@@ -74,6 +75,7 @@
 | 202 | Happy Number | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/202_happy_number) |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/205_isomorphic_strings) |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/229_majority_element_ii) |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/237_delete_node_in_a_linked_list) |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/240_search_a_2d_matrix_ii) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | String | [Code & Doc](./String/242_valid_anagram) |
 | 283 | Move Zeroes | 🟢 Easy | Arrays | [Code & Doc](./Arrays/283_move_zeroes) |

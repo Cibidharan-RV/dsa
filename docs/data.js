@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 91,
+  "total": 92,
   "difficulty": {
     "Easy": 37,
-    "Medium": 49,
+    "Medium": 50,
     "Hard": 5,
     "Unknown": 0
   },
@@ -48,11 +48,18 @@ const dsaData = {
       "Medium": 0,
       "Hard": 0,
       "Unknown": 0
+    },
+    "Linked List": {
+      "Total": 1,
+      "Easy": 0,
+      "Medium": 1,
+      "Hard": 0,
+      "Unknown": 0
     }
   },
   "topic_stats": {
     "Array": 50,
-    "Linked List": 1,
+    "Linked List": 2,
     "Math": 11,
     "Recursion": 1,
     "Hash Table": 29,
@@ -763,6 +770,20 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\229_majority_element_ii",
       "rel_folder": "Arrays/229_majority_element_ii",
       "encoded_folder": "Arrays/229_majority_element_ii"
+    },
+    {
+      "num": "237",
+      "title": "Delete Node in a Linked List",
+      "link": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List"
+      ],
+      "date": "2026-09-18",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\237_delete_node_in_a_linked_list",
+      "rel_folder": "Linked List/237_delete_node_in_a_linked_list",
+      "encoded_folder": "Linked%20List/237_delete_node_in_a_linked_list"
     },
     {
       "num": "240",
