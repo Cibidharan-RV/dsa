@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 92,
+  "total": 93,
   "difficulty": {
     "Easy": 37,
-    "Medium": 50,
+    "Medium": 51,
     "Hard": 5,
     "Unknown": 0
   },
@@ -50,16 +50,16 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 1,
+      "Total": 2,
       "Easy": 0,
-      "Medium": 1,
+      "Medium": 2,
       "Hard": 0,
       "Unknown": 0
     }
   },
   "topic_stats": {
     "Array": 50,
-    "Linked List": 2,
+    "Linked List": 3,
     "Math": 11,
     "Recursion": 1,
     "Hash Table": 29,
@@ -67,7 +67,7 @@ const dsaData = {
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
-    "Two Pointers": 10,
+    "Two Pointers": 11,
     "Dynamic Programming": 5,
     "Manacher": 1,
     "Trie": 1,
@@ -485,6 +485,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\56_merge_intervals",
       "rel_folder": "Arrays/56_merge_intervals",
       "encoded_folder": "Arrays/56_merge_intervals"
+    },
+    {
+      "num": "61",
+      "title": "Rotate List",
+      "link": "https://leetcode.com/problems/rotate-list/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "date": "2026-09-19",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\61_rotate_list",
+      "rel_folder": "Linked List/61_rotate_list",
+      "encoded_folder": "Linked%20List/61_rotate_list"
     },
     {
       "num": "73",
