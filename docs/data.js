@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 93,
+  "total": 94,
   "difficulty": {
     "Easy": 37,
-    "Medium": 51,
+    "Medium": 52,
     "Hard": 5,
     "Unknown": 0
   },
@@ -50,19 +50,19 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 2,
+      "Total": 3,
       "Easy": 0,
-      "Medium": 2,
+      "Medium": 3,
       "Hard": 0,
       "Unknown": 0
     }
   },
   "topic_stats": {
     "Array": 50,
-    "Linked List": 3,
+    "Linked List": 4,
     "Math": 11,
     "Recursion": 1,
-    "Hash Table": 29,
+    "Hash Table": 30,
     "String": 25,
     "Sliding Window": 2,
     "Binary Search": 21,
@@ -650,6 +650,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\136_single_number",
       "rel_folder": "Arrays/136_single_number",
       "encoded_folder": "Arrays/136_single_number"
+    },
+    {
+      "num": "138",
+      "title": "Copy List with Random Pointer",
+      "link": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Hash Table",
+        "Linked List"
+      ],
+      "date": "2026-09-20",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\138_copy_list_with_random_pointer",
+      "rel_folder": "Linked List/138_copy_list_with_random_pointer",
+      "encoded_folder": "Linked%20List/138_copy_list_with_random_pointer"
     },
     {
       "num": "151",
