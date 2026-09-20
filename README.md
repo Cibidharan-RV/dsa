@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 94
+**Total Problems Solved:** 96
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (39.4%): `████████░░░░░░░░░░░░` (37)
-- 🟡 **Medium** (55.3%): `███████████░░░░░░░░░` (52)
-- 🔴 **Hard** (5.3%): `█░░░░░░░░░░░░░░░░░░░` (5)
+- 🟢 **Easy** (40.6%): `████████░░░░░░░░░░░░` (39)
+- 🟡 **Medium** (54.2%): `███████████░░░░░░░░░` (52)
+- 🔴 **Hard** (5.2%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
 
@@ -19,7 +19,7 @@
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
-| **Linked List** | 3 | 0 | 3 | 0 |
+| **Linked List** | 5 | 2 | 3 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 
 <!-- STATS:END -->
@@ -76,6 +76,7 @@
 | 189 | Rotate  Array | 🟡 Medium | Arrays | [Code & Doc](./Arrays/189_rotate_array) |
 | 202 | Happy Number | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/202_happy_number) |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/205_isomorphic_strings) |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | Linked List | [Code & Doc](./Linked%20List/206_reverse_linked_list) |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/229_majority_element_ii) |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/237_delete_node_in_a_linked_list) |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/240_search_a_2d_matrix_ii) |
@@ -100,6 +101,7 @@
 | 774 | [Minimize Max Distance To Gas Station](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1) | 🔴 Hard | Binary Search | [Code & Doc](./Binary%20Search/774_minimize_max_distance_to_gas_station) |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | 🟢 Easy | String | [Code & Doc](./String/796_rotate_string) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/875_koko_eating_bananas) |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | Linked List | [Code & Doc](./Linked%20List/876_middle_of_the_linked_list) |
 | 930 | Binary Subarrays With Sum | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/930_binary_subarrays_with_sum) |
 | 974 | Subarray Sum Divisible by K | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/974_subarray_sums_divisible_by_k) |
 | 981 | Time Based Key-Value Store | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/981_time_based_key_value_store) |

@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 94,
+  "total": 96,
   "difficulty": {
-    "Easy": 37,
+    "Easy": 39,
     "Medium": 52,
     "Hard": 5,
     "Unknown": 0
@@ -50,8 +50,8 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 3,
-      "Easy": 0,
+      "Total": 5,
+      "Easy": 2,
       "Medium": 3,
       "Hard": 0,
       "Unknown": 0
@@ -59,15 +59,15 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 50,
-    "Linked List": 4,
+    "Linked List": 6,
     "Math": 11,
-    "Recursion": 1,
+    "Recursion": 2,
     "Hash Table": 30,
     "String": 25,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
-    "Two Pointers": 11,
+    "Two Pointers": 12,
     "Dynamic Programming": 5,
     "Manacher": 1,
     "Trie": 1,
@@ -784,6 +784,21 @@ const dsaData = {
       "encoded_folder": "HashMaps/205_isomorphic_strings"
     },
     {
+      "num": "206",
+      "title": "Reverse Linked List",
+      "link": "https://leetcode.com/problems/reverse-linked-list/",
+      "difficulty": "Easy",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "date": "2026-09-20",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\206_reverse_linked_list",
+      "rel_folder": "Linked List/206_reverse_linked_list",
+      "encoded_folder": "Linked%20List/206_reverse_linked_list"
+    },
+    {
       "num": "229",
       "title": "Majority Element II",
       "link": "https://leetcode.com/problems/majority-element-ii/",
@@ -1164,6 +1179,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Binary Search\\875_koko_eating_bananas",
       "rel_folder": "Binary Search/875_koko_eating_bananas",
       "encoded_folder": "Binary%20Search/875_koko_eating_bananas"
+    },
+    {
+      "num": "876",
+      "title": "Middle of the Linked List",
+      "link": "https://leetcode.com/problems/middle-of-the-linked-list/",
+      "difficulty": "Easy",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "date": "2026-09-20",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\876_middle_of_the_linked_list",
+      "rel_folder": "Linked List/876_middle_of_the_linked_list",
+      "encoded_folder": "Linked%20List/876_middle_of_the_linked_list"
     },
     {
       "num": "930",
