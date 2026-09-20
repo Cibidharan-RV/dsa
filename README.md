@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 96
+**Total Problems Solved:** 97
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (40.6%): `████████░░░░░░░░░░░░` (39)
-- 🟡 **Medium** (54.2%): `███████████░░░░░░░░░` (52)
+- 🟢 **Easy** (41.2%): `████████░░░░░░░░░░░░` (40)
+- 🟡 **Medium** (53.6%): `███████████░░░░░░░░░` (52)
 - 🔴 **Hard** (5.2%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
@@ -19,7 +19,7 @@
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
-| **Linked List** | 5 | 2 | 3 | 0 |
+| **Linked List** | 6 | 3 | 3 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 
 <!-- STATS:END -->
@@ -68,6 +68,7 @@
 | 128 | Longest Consecutive Sequence | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/128_longest_consecutive_sequence) |
 | 136 | Single Number | 🟢 Easy | Arrays | [Code & Doc](./Arrays/136_single_number) |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/138_copy_list_with_random_pointer) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | Linked List | [Code & Doc](./Linked%20List/141_linked_list_cycle) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | String | [Code & Doc](./String/151_reverse_words_in_a_string) |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/152_maximum_product_subarray) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/153_find_minimum_in_rotated_sorted_array) |

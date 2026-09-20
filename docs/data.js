@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 96,
+  "total": 97,
   "difficulty": {
-    "Easy": 39,
+    "Easy": 40,
     "Medium": 52,
     "Hard": 5,
     "Unknown": 0
@@ -50,8 +50,8 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 5,
-      "Easy": 2,
+      "Total": 6,
+      "Easy": 3,
       "Medium": 3,
       "Hard": 0,
       "Unknown": 0
@@ -59,15 +59,15 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 50,
-    "Linked List": 6,
+    "Linked List": 7,
     "Math": 11,
     "Recursion": 2,
-    "Hash Table": 30,
+    "Hash Table": 31,
     "String": 25,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
-    "Two Pointers": 12,
+    "Two Pointers": 13,
     "Dynamic Programming": 5,
     "Manacher": 1,
     "Trie": 1,
@@ -79,6 +79,7 @@ const dsaData = {
     "Matrix": 7,
     "Simulation": 4,
     "Quicksort": 1,
+    "Floyd's Cycle Finding Algorithm": 1,
     "Counting": 6,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
     "Queue": 1,
@@ -665,6 +666,23 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Linked List\\138_copy_list_with_random_pointer",
       "rel_folder": "Linked List/138_copy_list_with_random_pointer",
       "encoded_folder": "Linked%20List/138_copy_list_with_random_pointer"
+    },
+    {
+      "num": "141",
+      "title": "Linked List Cycle",
+      "link": "https://leetcode.com/problems/linked-list-cycle/",
+      "difficulty": "Easy",
+      "category": "Linked List",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers",
+        "Floyd's Cycle Finding Algorithm"
+      ],
+      "date": "2026-09-20",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\141_linked_list_cycle",
+      "rel_folder": "Linked List/141_linked_list_cycle",
+      "encoded_folder": "Linked%20List/141_linked_list_cycle"
     },
     {
       "num": "151",
