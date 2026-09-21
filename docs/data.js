@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 97,
+  "total": 98,
   "difficulty": {
     "Easy": 40,
-    "Medium": 52,
+    "Medium": 53,
     "Hard": 5,
     "Unknown": 0
   },
@@ -49,6 +49,13 @@ const dsaData = {
       "Hard": 0,
       "Unknown": 0
     },
+    "Recursion": {
+      "Total": 1,
+      "Easy": 0,
+      "Medium": 1,
+      "Hard": 0,
+      "Unknown": 0
+    },
     "Linked List": {
       "Total": 6,
       "Easy": 3,
@@ -60,8 +67,8 @@ const dsaData = {
   "topic_stats": {
     "Array": 50,
     "Linked List": 7,
-    "Math": 11,
-    "Recursion": 2,
+    "Math": 12,
+    "Recursion": 3,
     "Hash Table": 31,
     "String": 25,
     "Sliding Window": 2,
@@ -440,6 +447,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\HashMaps\\49_Group_anagrams",
       "rel_folder": "HashMaps/49_Group_anagrams",
       "encoded_folder": "HashMaps/49_Group_anagrams"
+    },
+    {
+      "num": "50",
+      "title": "Pow(x, n)",
+      "link": "https://leetcode.com/problems/powx-n/",
+      "difficulty": "Medium",
+      "category": "Recursion",
+      "topics": [
+        "Math",
+        "Recursion"
+      ],
+      "date": "2026-09-21",
+      "folder_path": "D:\\projects\\dsa\\Recursion\\50_powx_n",
+      "rel_folder": "Recursion/50_powx_n",
+      "encoded_folder": "Recursion/50_powx_n"
     },
     {
       "num": "53",

@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 97
+**Total Problems Solved:** 98
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (41.2%): `████████░░░░░░░░░░░░` (40)
-- 🟡 **Medium** (53.6%): `███████████░░░░░░░░░` (52)
-- 🔴 **Hard** (5.2%): `█░░░░░░░░░░░░░░░░░░░` (5)
+- 🟢 **Easy** (40.8%): `████████░░░░░░░░░░░░` (40)
+- 🟡 **Medium** (54.1%): `███████████░░░░░░░░░` (53)
+- 🔴 **Hard** (5.1%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
 
@@ -21,6 +21,7 @@
 | **Other** | 7 | 5 | 2 | 0 |
 | **Linked List** | 6 | 3 | 3 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
+| **Recursion** | 1 | 0 | 1 | 0 |
 
 <!-- STATS:END -->
 
@@ -53,6 +54,7 @@
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/35_search_insert_position) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/48_rotate_image) |
 | 49 | Group Anagrams | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/49_Group_anagrams) |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡 Medium | Recursion | [Code & Doc](./Recursion/50_powx_n) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/53_maximum_subarray) |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/54_spiral_matrix) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/56_merge_intervals) |
