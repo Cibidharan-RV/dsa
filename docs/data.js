@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 98,
+  "total": 99,
   "difficulty": {
     "Easy": 40,
-    "Medium": 53,
+    "Medium": 54,
     "Hard": 5,
     "Unknown": 0
   },
@@ -50,9 +50,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Recursion": {
-      "Total": 1,
+      "Total": 2,
       "Easy": 0,
-      "Medium": 1,
+      "Medium": 2,
       "Hard": 0,
       "Unknown": 0
     },
@@ -70,15 +70,17 @@ const dsaData = {
     "Math": 12,
     "Recursion": 3,
     "Hash Table": 31,
-    "String": 25,
+    "String": 26,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
     "Two Pointers": 13,
-    "Dynamic Programming": 5,
+    "Dynamic Programming": 6,
     "Manacher": 1,
     "Trie": 1,
     "Sorting": 8,
+    "Backtracking": 1,
+    "Bracket Sequences": 3,
     "String Matching": 2,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
@@ -101,7 +103,6 @@ const dsaData = {
     "Treap": 1,
     "Senior Staff": 1,
     "Stack": 3,
-    "Bracket Sequences": 2,
     "Monotonic Stack": 1,
     "Enumeration": 1,
     "Other": 2
@@ -307,6 +308,23 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\18_4sum",
       "rel_folder": "Arrays/18_4sum",
       "encoded_folder": "Arrays/18_4sum"
+    },
+    {
+      "num": "22",
+      "title": "Generate Parentheses",
+      "link": "https://leetcode.com/problems/generate-parentheses/",
+      "difficulty": "Medium",
+      "category": "Recursion",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bracket Sequences"
+      ],
+      "date": "2026-09-22",
+      "folder_path": "D:\\projects\\dsa\\Recursion\\22_generate_parentheses",
+      "rel_folder": "Recursion/22_generate_parentheses",
+      "encoded_folder": "Recursion/22_generate_parentheses"
     },
     {
       "num": "27",

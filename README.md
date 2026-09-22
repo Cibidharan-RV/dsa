@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 98
+**Total Problems Solved:** 99
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (40.8%): `████████░░░░░░░░░░░░` (40)
-- 🟡 **Medium** (54.1%): `███████████░░░░░░░░░` (53)
+- 🟢 **Easy** (40.4%): `████████░░░░░░░░░░░░` (40)
+- 🟡 **Medium** (54.5%): `███████████░░░░░░░░░` (54)
 - 🔴 **Hard** (5.1%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
@@ -20,8 +20,8 @@
 | **String** | 12 | 6 | 6 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Linked List** | 6 | 3 | 3 | 0 |
+| **Recursion** | 2 | 0 | 2 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
-| **Recursion** | 1 | 0 | 1 | 0 |
 
 <!-- STATS:END -->
 
@@ -45,6 +45,7 @@
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | String | [Code & Doc](./String/14_longest_common_prefix) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/15_3sum) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/18_4sum) |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | Recursion | [Code & Doc](./Recursion/22_generate_parentheses) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/27_remove_element) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | Other | [Code & Doc](./Other/28_find_the_index_of_the_first_occurrence_in_a_string) |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | 🔴 Hard | HashMaps | [Code & Doc](./HashMaps/30_substring_with_concatenation_of_all_words) |
