@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 99
+**Total Problems Solved:** 100
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (40.4%): `████████░░░░░░░░░░░░` (40)
-- 🟡 **Medium** (54.5%): `███████████░░░░░░░░░` (54)
-- 🔴 **Hard** (5.1%): `█░░░░░░░░░░░░░░░░░░░` (5)
+- 🟢 **Easy** (40.0%): `████████░░░░░░░░░░░░` (40)
+- 🟡 **Medium** (55.0%): `███████████░░░░░░░░░` (55)
+- 🔴 **Hard** (5.0%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
 
@@ -20,7 +20,7 @@
 | **String** | 12 | 6 | 6 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Linked List** | 6 | 3 | 3 | 0 |
-| **Recursion** | 2 | 0 | 2 | 0 |
+| **Recursion** | 3 | 0 | 3 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 
 <!-- STATS:END -->
@@ -122,6 +122,7 @@
 | 1781 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | 🟡 Medium | String | [Code & Doc](./String/1781_sum_of_beauty_of_all_substrings) |
 | 1901 | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/1901_find_a_peak_element_ii) |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | 🟢 Easy | String | [Code & Doc](./String/1903_largest_odd_number_in_string) |
+| 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | 🟡 Medium | Recursion | [Code & Doc](./Recursion/1922_count_good_numbers) |
 | 2124 | Check if All A's appears before all B's | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2124_check_if_all_A%27s_appears_before_all_B%27s) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/2149_rearrange_array_elements_by_sign) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2965_find_missing_and_repeated_values) |

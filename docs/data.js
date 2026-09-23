@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 99,
+  "total": 100,
   "difficulty": {
     "Easy": 40,
-    "Medium": 54,
+    "Medium": 55,
     "Hard": 5,
     "Unknown": 0
   },
@@ -50,9 +50,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Recursion": {
-      "Total": 2,
+      "Total": 3,
       "Easy": 0,
-      "Medium": 2,
+      "Medium": 3,
       "Hard": 0,
       "Unknown": 0
     },
@@ -67,8 +67,8 @@ const dsaData = {
   "topic_stats": {
     "Array": 50,
     "Linked List": 7,
-    "Math": 12,
-    "Recursion": 3,
+    "Math": 13,
+    "Recursion": 4,
     "Hash Table": 31,
     "String": 26,
     "Sliding Window": 2,
@@ -1494,6 +1494,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\String\\1903_largest_odd_number_in_string",
       "rel_folder": "String/1903_largest_odd_number_in_string",
       "encoded_folder": "String/1903_largest_odd_number_in_string"
+    },
+    {
+      "num": "1922",
+      "title": "Count Good Numbers",
+      "link": "https://leetcode.com/problems/count-good-numbers/",
+      "difficulty": "Medium",
+      "category": "Recursion",
+      "topics": [
+        "Math",
+        "Recursion"
+      ],
+      "date": "2026-09-23",
+      "folder_path": "D:\\projects\\dsa\\Recursion\\1922_count_good_numbers",
+      "rel_folder": "Recursion/1922_count_good_numbers",
+      "encoded_folder": "Recursion/1922_count_good_numbers"
     },
     {
       "num": "2124",
