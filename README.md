@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 100
+**Total Problems Solved:** 101
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (40.0%): `████████░░░░░░░░░░░░` (40)
-- 🟡 **Medium** (55.0%): `███████████░░░░░░░░░` (55)
+- 🟢 **Easy** (40.6%): `████████░░░░░░░░░░░░` (41)
+- 🟡 **Medium** (54.5%): `███████████░░░░░░░░░` (55)
 - 🔴 **Hard** (5.0%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
@@ -20,7 +20,7 @@
 | **String** | 12 | 6 | 6 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Linked List** | 6 | 3 | 3 | 0 |
-| **Recursion** | 3 | 0 | 3 | 0 |
+| **Recursion** | 4 | 1 | 3 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 
 <!-- STATS:END -->
@@ -96,6 +96,7 @@
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | String | [Code & Doc](./String/451_sort_characters_by_frequency) |
 | 485 | Max Consecutive Ones | 🟢 Easy | Arrays | [Code & Doc](./Arrays/485_max_consecutive_ones) |
 | 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | 🔴 Hard | Arrays | [Code & Doc](./Arrays/493_reverse_pairs) |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | Recursion | [Code & Doc](./Recursion/509_fibonacci_number) |
 | 523 | Continuous Subarray Sum | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/523_continuous_subarray_sum) |
 | 525 | Contiguous Array | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/525_contiguous_array) |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/540_single_element_in_a_sorted_array) |

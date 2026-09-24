@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 100,
+  "total": 101,
   "difficulty": {
-    "Easy": 40,
+    "Easy": 41,
     "Medium": 55,
     "Hard": 5,
     "Unknown": 0
@@ -50,8 +50,8 @@ const dsaData = {
       "Unknown": 0
     },
     "Recursion": {
-      "Total": 3,
-      "Easy": 0,
+      "Total": 4,
+      "Easy": 1,
       "Medium": 3,
       "Hard": 0,
       "Unknown": 0
@@ -67,15 +67,15 @@ const dsaData = {
   "topic_stats": {
     "Array": 50,
     "Linked List": 7,
-    "Math": 13,
-    "Recursion": 4,
+    "Math": 14,
+    "Recursion": 5,
     "Hash Table": 31,
     "String": 26,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
     "Two Pointers": 13,
-    "Dynamic Programming": 6,
+    "Dynamic Programming": 7,
     "Manacher": 1,
     "Trie": 1,
     "Sorting": 8,
@@ -101,6 +101,7 @@ const dsaData = {
     "Merge Sort": 1,
     "Ordered Set": 1,
     "Treap": 1,
+    "Memoization": 1,
     "Senior Staff": 1,
     "Stack": 3,
     "Monotonic Stack": 1,
@@ -1101,6 +1102,23 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\493_reverse_pairs",
       "rel_folder": "Arrays/493_reverse_pairs",
       "encoded_folder": "Arrays/493_reverse_pairs"
+    },
+    {
+      "num": "509",
+      "title": "Fibonacci Number",
+      "link": "https://leetcode.com/problems/fibonacci-number/",
+      "difficulty": "Easy",
+      "category": "Recursion",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Recursion",
+        "Memoization"
+      ],
+      "date": "2026-09-24",
+      "folder_path": "D:\\projects\\dsa\\Recursion\\509_fibonacci_number",
+      "rel_folder": "Recursion/509_fibonacci_number",
+      "encoded_folder": "Recursion/509_fibonacci_number"
     },
     {
       "num": "523",
