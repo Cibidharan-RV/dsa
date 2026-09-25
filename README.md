@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 102
+**Total Problems Solved:** 103
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (41.2%): `████████░░░░░░░░░░░░` (42)
-- 🟡 **Medium** (53.9%): `███████████░░░░░░░░░` (55)
+- 🟢 **Easy** (41.7%): `████████░░░░░░░░░░░░` (43)
+- 🟡 **Medium** (53.4%): `███████████░░░░░░░░░` (55)
 - 🔴 **Hard** (4.9%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
@@ -22,6 +22,7 @@
 | **Linked List** | 6 | 3 | 3 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
+| **Binary Tree** | 1 | 1 | 0 | 0 |
 | **Two Pointers** | 1 | 1 | 0 | 0 |
 
 <!-- STATS:END -->
@@ -66,6 +67,7 @@
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/75_sort_colors) |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/81_search_in_rotated_sorted_array_ii) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/88_merge_sorted_array) |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy | Binary Tree | [Code & Doc](./Binary%20Tree/104_maximum_depth_of_binary_tree) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/118_pascals_triangle) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/121_best_time_to_buy_and_sell_stock) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | Other | [Code & Doc](./Other/125_valid_palindrome) |

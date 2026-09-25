@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 102,
+  "total": 103,
   "difficulty": {
-    "Easy": 42,
+    "Easy": 43,
     "Medium": 55,
     "Hard": 5,
     "Unknown": 0
@@ -63,6 +63,13 @@ const dsaData = {
       "Hard": 0,
       "Unknown": 0
     },
+    "Binary Tree": {
+      "Total": 1,
+      "Easy": 1,
+      "Medium": 0,
+      "Hard": 0,
+      "Unknown": 0
+    },
     "Two Pointers": {
       "Total": 1,
       "Easy": 1,
@@ -95,6 +102,10 @@ const dsaData = {
     "Matrix": 7,
     "Simulation": 4,
     "Quicksort": 1,
+    "Tree": 1,
+    "Depth-First Search": 1,
+    "Breadth-First Search": 1,
+    "Binary Tree": 1,
     "Floyd's Cycle Finding Algorithm": 1,
     "Counting": 6,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
@@ -626,6 +637,23 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\88_merge_sorted_array",
       "rel_folder": "Arrays/88_merge_sorted_array",
       "encoded_folder": "Arrays/88_merge_sorted_array"
+    },
+    {
+      "num": "104",
+      "title": "Maximum Depth of Binary Tree",
+      "link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "difficulty": "Easy",
+      "category": "Binary Tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "date": "2026-09-25",
+      "folder_path": "D:\\projects\\dsa\\Binary Tree\\104_maximum_depth_of_binary_tree",
+      "rel_folder": "Binary Tree/104_maximum_depth_of_binary_tree",
+      "encoded_folder": "Binary%20Tree/104_maximum_depth_of_binary_tree"
     },
     {
       "num": "118",
