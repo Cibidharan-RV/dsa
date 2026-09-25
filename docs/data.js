@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 101,
+  "total": 102,
   "difficulty": {
-    "Easy": 41,
+    "Easy": 42,
     "Medium": 55,
     "Hard": 5,
     "Unknown": 0
@@ -62,6 +62,13 @@ const dsaData = {
       "Medium": 3,
       "Hard": 0,
       "Unknown": 0
+    },
+    "Two Pointers": {
+      "Total": 1,
+      "Easy": 1,
+      "Medium": 0,
+      "Hard": 0,
+      "Unknown": 0
     }
   },
   "topic_stats": {
@@ -70,11 +77,11 @@ const dsaData = {
     "Math": 14,
     "Recursion": 5,
     "Hash Table": 31,
-    "String": 26,
+    "String": 27,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
-    "Two Pointers": 13,
+    "Two Pointers": 14,
     "Dynamic Programming": 7,
     "Manacher": 1,
     "Trie": 1,
@@ -950,6 +957,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\HashMaps\\290_word_pattern",
       "rel_folder": "HashMaps/290_word_pattern",
       "encoded_folder": "HashMaps/290_word_pattern"
+    },
+    {
+      "num": "344",
+      "title": "Reverse String",
+      "link": "https://leetcode.com/problems/reverse-string/",
+      "difficulty": "Easy",
+      "category": "Two Pointers",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "date": "2026-09-25",
+      "folder_path": "D:\\projects\\dsa\\Two Pointers\\344_reverse_string",
+      "rel_folder": "Two Pointers/344_reverse_string",
+      "encoded_folder": "Two%20Pointers/344_reverse_string"
     },
     {
       "num": "349",

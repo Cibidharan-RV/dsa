@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 101
+**Total Problems Solved:** 102
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (40.6%): `████████░░░░░░░░░░░░` (41)
-- 🟡 **Medium** (54.5%): `███████████░░░░░░░░░` (55)
-- 🔴 **Hard** (5.0%): `█░░░░░░░░░░░░░░░░░░░` (5)
+- 🟢 **Easy** (41.2%): `████████░░░░░░░░░░░░` (42)
+- 🟡 **Medium** (53.9%): `███████████░░░░░░░░░` (55)
+- 🔴 **Hard** (4.9%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
 
@@ -22,6 +22,7 @@
 | **Linked List** | 6 | 3 | 3 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
+| **Two Pointers** | 1 | 1 | 0 | 0 |
 
 <!-- STATS:END -->
 
@@ -87,6 +88,7 @@
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | String | [Code & Doc](./String/242_valid_anagram) |
 | 283 | Move Zeroes | 🟢 Easy | Arrays | [Code & Doc](./Arrays/283_move_zeroes) |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/290_word_pattern) |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 Easy | Two Pointers | [Code & Doc](./Two%20Pointers/344_reverse_string) |
 | 349 | Intersection of Two Arrays | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/349_intersection_of_two_arrays) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/383_ransom_note) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/387_first_unique_character_in_a_string) |
