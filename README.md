@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 104
+**Total Problems Solved:** 105
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (42.3%): `████████░░░░░░░░░░░░` (44)
-- 🟡 **Medium** (52.9%): `███████████░░░░░░░░░` (55)
+- 🟢 **Easy** (41.9%): `████████░░░░░░░░░░░░` (44)
+- 🟡 **Medium** (53.3%): `███████████░░░░░░░░░` (56)
 - 🔴 **Hard** (4.8%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
@@ -23,6 +23,7 @@
 | **Recursion** | 4 | 1 | 3 | 0 |
 | **Binary Tree** | 2 | 2 | 0 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
+| **Backtracking** | 1 | 0 | 1 | 0 |
 | **Two Pointers** | 1 | 1 | 0 | 0 |
 
 <!-- STATS:END -->
@@ -65,6 +66,7 @@
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/73_set_matrix_zeroes) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/74_search_a_2d_matrix) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/75_sort_colors) |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | Backtracking | [Code & Doc](./Backtracking/78_subsets) |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/81_search_in_rotated_sorted_array_ii) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/88_merge_sorted_array) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 Easy | Binary Tree | [Code & Doc](./Binary%20Tree/100_same_tree) |

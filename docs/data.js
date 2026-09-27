@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 104,
+  "total": 105,
   "difficulty": {
     "Easy": 44,
-    "Medium": 55,
+    "Medium": 56,
     "Hard": 5,
     "Unknown": 0
   },
@@ -63,6 +63,13 @@ const dsaData = {
       "Hard": 0,
       "Unknown": 0
     },
+    "Backtracking": {
+      "Total": 1,
+      "Easy": 0,
+      "Medium": 1,
+      "Hard": 0,
+      "Unknown": 0
+    },
     "Binary Tree": {
       "Total": 2,
       "Easy": 2,
@@ -79,7 +86,7 @@ const dsaData = {
     }
   },
   "topic_stats": {
-    "Array": 50,
+    "Array": 51,
     "Linked List": 7,
     "Math": 14,
     "Recursion": 5,
@@ -93,7 +100,7 @@ const dsaData = {
     "Manacher": 1,
     "Trie": 1,
     "Sorting": 8,
-    "Backtracking": 1,
+    "Backtracking": 2,
     "Bracket Sequences": 3,
     "String Matching": 2,
     "Z Algorithm": 1,
@@ -102,6 +109,7 @@ const dsaData = {
     "Matrix": 7,
     "Simulation": 4,
     "Quicksort": 1,
+    "Bit Manipulation": 1,
     "Tree": 2,
     "Depth-First Search": 2,
     "Breadth-First Search": 2,
@@ -606,6 +614,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\75_sort_colors",
       "rel_folder": "Arrays/75_sort_colors",
       "encoded_folder": "Arrays/75_sort_colors"
+    },
+    {
+      "num": "78",
+      "title": "Subsets",
+      "link": "https://leetcode.com/problems/subsets/",
+      "difficulty": "Medium",
+      "category": "Backtracking",
+      "topics": [
+        "Array",
+        "Backtracking",
+        "Bit Manipulation"
+      ],
+      "date": "2026-09-27",
+      "folder_path": "D:\\projects\\dsa\\Backtracking\\78_subsets",
+      "rel_folder": "Backtracking/78_subsets",
+      "encoded_folder": "Backtracking/78_subsets"
     },
     {
       "num": "81",
