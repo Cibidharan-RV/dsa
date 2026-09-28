@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 105,
+  "total": 106,
   "difficulty": {
     "Easy": 44,
-    "Medium": 56,
+    "Medium": 57,
     "Hard": 5,
     "Unknown": 0
   },
@@ -64,9 +64,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Backtracking": {
-      "Total": 1,
+      "Total": 2,
       "Easy": 0,
-      "Medium": 1,
+      "Medium": 2,
       "Hard": 0,
       "Unknown": 0
     },
@@ -100,7 +100,7 @@ const dsaData = {
     "Manacher": 1,
     "Trie": 1,
     "Sorting": 8,
-    "Backtracking": 2,
+    "Backtracking": 3,
     "Bracket Sequences": 3,
     "String Matching": 2,
     "Z Algorithm": 1,
@@ -614,6 +614,20 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\75_sort_colors",
       "rel_folder": "Arrays/75_sort_colors",
       "encoded_folder": "Arrays/75_sort_colors"
+    },
+    {
+      "num": "77",
+      "title": "Combinations",
+      "link": "https://leetcode.com/problems/combinations/",
+      "difficulty": "Medium",
+      "category": "Backtracking",
+      "topics": [
+        "Backtracking"
+      ],
+      "date": "2026-09-28",
+      "folder_path": "D:\\projects\\dsa\\Backtracking\\77_combinations",
+      "rel_folder": "Backtracking/77_combinations",
+      "encoded_folder": "Backtracking/77_combinations"
     },
     {
       "num": "78",
