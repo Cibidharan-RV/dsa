@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 106,
+  "total": 107,
   "difficulty": {
     "Easy": 44,
-    "Medium": 57,
+    "Medium": 58,
     "Hard": 5,
     "Unknown": 0
   },
@@ -56,17 +56,17 @@ const dsaData = {
       "Hard": 0,
       "Unknown": 0
     },
-    "Linked List": {
-      "Total": 6,
-      "Easy": 3,
+    "Backtracking": {
+      "Total": 3,
+      "Easy": 0,
       "Medium": 3,
       "Hard": 0,
       "Unknown": 0
     },
-    "Backtracking": {
-      "Total": 2,
-      "Easy": 0,
-      "Medium": 2,
+    "Linked List": {
+      "Total": 6,
+      "Easy": 3,
+      "Medium": 3,
       "Hard": 0,
       "Unknown": 0
     },
@@ -86,7 +86,7 @@ const dsaData = {
     }
   },
   "topic_stats": {
-    "Array": 51,
+    "Array": 52,
     "Linked List": 7,
     "Math": 14,
     "Recursion": 5,
@@ -100,7 +100,7 @@ const dsaData = {
     "Manacher": 1,
     "Trie": 1,
     "Sorting": 8,
-    "Backtracking": 3,
+    "Backtracking": 4,
     "Bracket Sequences": 3,
     "String Matching": 2,
     "Z Algorithm": 1,
@@ -462,6 +462,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\35_search_insert_position",
       "rel_folder": "Arrays/35_search_insert_position",
       "encoded_folder": "Arrays/35_search_insert_position"
+    },
+    {
+      "num": "46",
+      "title": "Permutations",
+      "link": "https://leetcode.com/problems/permutations/",
+      "difficulty": "Medium",
+      "category": "Backtracking",
+      "topics": [
+        "Array",
+        "Backtracking"
+      ],
+      "date": "2026-09-29",
+      "folder_path": "D:\\projects\\dsa\\Backtracking\\46_permutations",
+      "rel_folder": "Backtracking/46_permutations",
+      "encoded_folder": "Backtracking/46_permutations"
     },
     {
       "num": "48",
