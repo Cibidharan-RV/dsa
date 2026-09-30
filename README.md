@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 107
+**Total Problems Solved:** 108
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (41.1%): `████████░░░░░░░░░░░░` (44)
-- 🟡 **Medium** (54.2%): `███████████░░░░░░░░░` (58)
-- 🔴 **Hard** (4.7%): `█░░░░░░░░░░░░░░░░░░░` (5)
+- 🟢 **Easy** (40.7%): `████████░░░░░░░░░░░░` (44)
+- 🟡 **Medium** (54.6%): `███████████░░░░░░░░░` (59)
+- 🔴 **Hard** (4.6%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
 
@@ -21,7 +21,7 @@
 | **Other** | 7 | 5 | 2 | 0 |
 | **Linked List** | 6 | 3 | 3 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
-| **Backtracking** | 3 | 0 | 3 | 0 |
+| **Backtracking** | 4 | 0 | 4 | 0 |
 | **Binary Tree** | 2 | 2 | 0 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 | **Two Pointers** | 1 | 1 | 0 | 0 |
@@ -56,6 +56,7 @@
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/33_search_in_rotated_sorted_array) |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/34_find_first_and_last_position_of_element_in_sorted_array) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/35_search_insert_position) |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | 🟡 Medium | Backtracking | [Code & Doc](./Backtracking/39_combination_sum) |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | 🟡 Medium | Backtracking | [Code & Doc](./Backtracking/46_permutations) |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/48_rotate_image) |
 | 49 | Group Anagrams | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/49_Group_anagrams) |
