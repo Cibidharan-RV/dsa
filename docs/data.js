@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 109,
+  "total": 110,
   "difficulty": {
     "Easy": 44,
-    "Medium": 60,
+    "Medium": 61,
     "Hard": 5,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Backtracking": {
-      "Total": 5,
+      "Total": 6,
       "Easy": 0,
-      "Medium": 5,
+      "Medium": 6,
       "Hard": 0,
       "Unknown": 0
     },
@@ -86,12 +86,12 @@ const dsaData = {
     }
   },
   "topic_stats": {
-    "Array": 53,
+    "Array": 54,
     "Linked List": 7,
     "Math": 14,
     "Recursion": 5,
     "Hash Table": 31,
-    "String": 28,
+    "String": 29,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
@@ -100,18 +100,18 @@ const dsaData = {
     "Manacher": 1,
     "Trie": 1,
     "Sorting": 8,
-    "Backtracking": 6,
+    "Backtracking": 7,
     "Bracket Sequences": 3,
     "String Matching": 2,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Matrix": 7,
+    "Matrix": 8,
     "Simulation": 4,
     "Quicksort": 1,
     "Bit Manipulation": 1,
+    "Depth-First Search": 3,
     "Tree": 2,
-    "Depth-First Search": 2,
     "Breadth-First Search": 2,
     "Binary Tree": 2,
     "Floyd's Cycle Finding Algorithm": 1,
@@ -674,6 +674,24 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Backtracking\\78_subsets",
       "rel_folder": "Backtracking/78_subsets",
       "encoded_folder": "Backtracking/78_subsets"
+    },
+    {
+      "num": "79",
+      "title": "Word Search",
+      "link": "https://leetcode.com/problems/word-search/",
+      "difficulty": "Medium",
+      "category": "Backtracking",
+      "topics": [
+        "Array",
+        "String",
+        "Backtracking",
+        "Depth-First Search",
+        "Matrix"
+      ],
+      "date": "2026-10-02",
+      "folder_path": "D:\\projects\\dsa\\Backtracking\\79_word_search",
+      "rel_folder": "Backtracking/79_word_search",
+      "encoded_folder": "Backtracking/79_word_search"
     },
     {
       "num": "81",

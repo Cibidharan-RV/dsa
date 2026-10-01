@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 109
+**Total Problems Solved:** 110
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (40.4%): `████████░░░░░░░░░░░░` (44)
-- 🟡 **Medium** (55.0%): `███████████░░░░░░░░░` (60)
-- 🔴 **Hard** (4.6%): `█░░░░░░░░░░░░░░░░░░░` (5)
+- 🟢 **Easy** (40.0%): `████████░░░░░░░░░░░░` (44)
+- 🟡 **Medium** (55.5%): `███████████░░░░░░░░░` (61)
+- 🔴 **Hard** (4.5%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
 
@@ -19,8 +19,8 @@
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
+| **Backtracking** | 6 | 0 | 6 | 0 |
 | **Linked List** | 6 | 3 | 3 | 0 |
-| **Backtracking** | 5 | 0 | 5 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
 | **Binary Tree** | 2 | 2 | 0 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
@@ -70,6 +70,7 @@
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/75_sort_colors) |
 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | 🟡 Medium | Backtracking | [Code & Doc](./Backtracking/77_combinations) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | Backtracking | [Code & Doc](./Backtracking/78_subsets) |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/) | 🟡 Medium | Backtracking | [Code & Doc](./Backtracking/79_word_search) |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/81_search_in_rotated_sorted_array_ii) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/88_merge_sorted_array) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 Easy | Binary Tree | [Code & Doc](./Binary%20Tree/100_same_tree) |
