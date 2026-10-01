@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 108
+**Total Problems Solved:** 109
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (40.7%): `████████░░░░░░░░░░░░` (44)
-- 🟡 **Medium** (54.6%): `███████████░░░░░░░░░` (59)
+- 🟢 **Easy** (40.4%): `████████░░░░░░░░░░░░` (44)
+- 🟡 **Medium** (55.0%): `███████████░░░░░░░░░` (60)
 - 🔴 **Hard** (4.6%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
@@ -20,8 +20,8 @@
 | **String** | 12 | 6 | 6 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Linked List** | 6 | 3 | 3 | 0 |
+| **Backtracking** | 5 | 0 | 5 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
-| **Backtracking** | 4 | 0 | 4 | 0 |
 | **Binary Tree** | 2 | 2 | 0 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 | **Two Pointers** | 1 | 1 | 0 | 0 |
@@ -78,6 +78,7 @@
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/121_best_time_to_buy_and_sell_stock) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | Other | [Code & Doc](./Other/125_valid_palindrome) |
 | 128 | Longest Consecutive Sequence | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/128_longest_consecutive_sequence) |
+| 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | 🟡 Medium | Backtracking | [Code & Doc](./Backtracking/131_palindrome_partitioning) |
 | 136 | Single Number | 🟢 Easy | Arrays | [Code & Doc](./Arrays/136_single_number) |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/138_copy_list_with_random_pointer) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | Linked List | [Code & Doc](./Linked%20List/141_linked_list_cycle) |

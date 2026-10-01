@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 108,
+  "total": 109,
   "difficulty": {
     "Easy": 44,
-    "Medium": 59,
+    "Medium": 60,
     "Hard": 5,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Backtracking": {
-      "Total": 4,
+      "Total": 5,
       "Easy": 0,
-      "Medium": 4,
+      "Medium": 5,
       "Hard": 0,
       "Unknown": 0
     },
@@ -91,16 +91,16 @@ const dsaData = {
     "Math": 14,
     "Recursion": 5,
     "Hash Table": 31,
-    "String": 27,
+    "String": 28,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
     "Two Pointers": 14,
-    "Dynamic Programming": 7,
+    "Dynamic Programming": 8,
     "Manacher": 1,
     "Trie": 1,
     "Sorting": 8,
-    "Backtracking": 5,
+    "Backtracking": 6,
     "Bracket Sequences": 3,
     "String Matching": 2,
     "Z Algorithm": 1,
@@ -798,6 +798,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\HashMaps\\128_longest_consecutive_sequence",
       "rel_folder": "HashMaps/128_longest_consecutive_sequence",
       "encoded_folder": "HashMaps/128_longest_consecutive_sequence"
+    },
+    {
+      "num": "131",
+      "title": "Palindrome Partitioning",
+      "link": "https://leetcode.com/problems/palindrome-partitioning/",
+      "difficulty": "Medium",
+      "category": "Backtracking",
+      "topics": [
+        "String",
+        "Dynamic Programming",
+        "Backtracking"
+      ],
+      "date": "2026-10-01",
+      "folder_path": "D:\\projects\\dsa\\Backtracking\\131_palindrome_partitioning",
+      "rel_folder": "Backtracking/131_palindrome_partitioning",
+      "encoded_folder": "Backtracking/131_palindrome_partitioning"
     },
     {
       "num": "136",
