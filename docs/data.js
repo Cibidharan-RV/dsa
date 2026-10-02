@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 111,
+  "total": 112,
   "difficulty": {
-    "Easy": 45,
+    "Easy": 46,
     "Medium": 61,
     "Hard": 5,
     "Unknown": 0
@@ -71,8 +71,8 @@ const dsaData = {
       "Unknown": 0
     },
     "Binary Tree": {
-      "Total": 3,
-      "Easy": 3,
+      "Total": 4,
+      "Easy": 4,
       "Medium": 0,
       "Hard": 0,
       "Unknown": 0
@@ -110,10 +110,10 @@ const dsaData = {
     "Simulation": 4,
     "Quicksort": 1,
     "Bit Manipulation": 1,
-    "Depth-First Search": 4,
-    "Tree": 3,
+    "Depth-First Search": 5,
+    "Tree": 4,
     "Breadth-First Search": 3,
-    "Binary Tree": 3,
+    "Binary Tree": 4,
     "Floyd's Cycle Finding Algorithm": 1,
     "Counting": 6,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
@@ -129,6 +129,7 @@ const dsaData = {
     "Treap": 1,
     "Memoization": 1,
     "Senior Staff": 1,
+    "DP on Trees": 1,
     "Stack": 3,
     "Monotonic Stack": 1,
     "Enumeration": 1,
@@ -1352,6 +1353,23 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Binary Search\\540_single_element_in_a_sorted_array",
       "rel_folder": "Binary Search/540_single_element_in_a_sorted_array",
       "encoded_folder": "Binary%20Search/540_single_element_in_a_sorted_array"
+    },
+    {
+      "num": "543",
+      "title": "Diameter of Binary Tree",
+      "link": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "difficulty": "Easy",
+      "category": "Binary Tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Binary Tree",
+        "DP on Trees"
+      ],
+      "date": "2026-10-02",
+      "folder_path": "D:\\projects\\dsa\\Binary Tree\\543_diameter_of_binary_tree",
+      "rel_folder": "Binary Tree/543_diameter_of_binary_tree",
+      "encoded_folder": "Binary%20Tree/543_diameter_of_binary_tree"
     },
     {
       "num": "560",
