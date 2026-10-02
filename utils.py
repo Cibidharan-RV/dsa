@@ -199,6 +199,17 @@ def get_slug_from_id(question_id):
 
 import re
 
+def get_clipboard_text():
+    try:
+        import tkinter as tk
+        root = tk.Tk()
+        root.withdraw()
+        clip = root.clipboard_get()
+        root.destroy()
+        return clip
+    except Exception:
+        return ""
+
 def extract_metadata(code_content):
     """
     Extracts idea, time, space, learning, and mistakes from code comments.
@@ -285,11 +296,33 @@ def get_metadata(code_content, interactive=True):
     
     if interactive:
         if not meta.get('idea'):
-            meta['idea'] = multiline_input("\nIdea not found in code comments. Enter your Idea:")
+            console.print("\n[bold yellow]Idea not found in code comments.[/bold yellow]")
+            console.print("1. Read docs block from clipboard")
+            console.print("2. Paste docs block manually")
+            console.print("3. Skip / Default")
+            choice = Prompt.ask("[bold cyan]Choose option[/bold cyan]", choices=["1", "2", "3"], default="1")
+            
+            raw_docs = ""
+            if choice == "1":
+                raw_docs = get_clipboard_text()
+                if raw_docs:
+                    console.print("[bold green]✓ Read docs from clipboard![/bold green]")
+                else:
+                    console.print("[bold red]✗ Could not read from clipboard or clipboard is empty.[/bold red]")
+                    raw_docs = multiline_input("\nPaste your docs block here")
+            elif choice == "2":
+                raw_docs = multiline_input("\nPaste your docs block here")
+                
+            if raw_docs:
+                new_meta = extract_metadata(raw_docs)
+                for k, v in new_meta.items():
+                    if v:
+                        meta[k] = v
+
         if not meta.get('time'):
-            meta['time'] = Prompt.ask("[bold cyan]Enter Time Complexity (e.g., O(n))[/bold cyan]").strip()
+            meta['time'] = Prompt.ask("[bold cyan]Enter Time Complexity (e.g., O(n))[/bold cyan]", default="O(n)").strip()
         if not meta.get('space'):
-            meta['space'] = Prompt.ask("[bold cyan]Enter Space Complexity (e.g., O(1))[/bold cyan]").strip()
+            meta['space'] = Prompt.ask("[bold cyan]Enter Space Complexity (e.g., O(1))[/bold cyan]", default="O(n)").strip()
             
     if not meta.get('idea'): meta['idea'] = ""
     if not meta.get('time'): meta['time'] = "O(n)"

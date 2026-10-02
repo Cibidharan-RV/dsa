@@ -9,7 +9,8 @@ import generate_readme
 from utils import (
     LANG_EXTENSIONS, get_session_cookie, get_csrf_token, fetch_problem_data, 
     fetch_submission_details, get_slug_from_id, get_last_category, save_last_category,
-    get_switch_topic, reset_switch_topic, get_metadata, clean_code, multiline_input
+    get_switch_topic, reset_switch_topic, get_metadata, clean_code, multiline_input,
+    get_clipboard_text
 )
 
 from rich.console import Console
@@ -21,17 +22,6 @@ from rich import print as rprint
 console = Console()
 
 base_dir = os.path.dirname(os.path.abspath(__file__))
-
-def get_clipboard_text():
-    try:
-        import tkinter as tk
-        root = tk.Tk()
-        root.withdraw()
-        clip = root.clipboard_get()
-        root.destroy()
-        return clip
-    except Exception:
-        return ""
 
 def main():
     console.print(Panel.fit(" [bold blue]Create New DSA Problem[/bold blue] ", border_style="blue"))
