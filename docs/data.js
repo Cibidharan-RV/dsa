@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 110,
+  "total": 111,
   "difficulty": {
-    "Easy": 44,
+    "Easy": 45,
     "Medium": 61,
     "Hard": 5,
     "Unknown": 0
@@ -71,8 +71,8 @@ const dsaData = {
       "Unknown": 0
     },
     "Binary Tree": {
-      "Total": 2,
-      "Easy": 2,
+      "Total": 3,
+      "Easy": 3,
       "Medium": 0,
       "Hard": 0,
       "Unknown": 0
@@ -110,10 +110,10 @@ const dsaData = {
     "Simulation": 4,
     "Quicksort": 1,
     "Bit Manipulation": 1,
-    "Depth-First Search": 3,
-    "Tree": 2,
-    "Breadth-First Search": 2,
-    "Binary Tree": 2,
+    "Depth-First Search": 4,
+    "Tree": 3,
+    "Breadth-First Search": 3,
+    "Binary Tree": 3,
     "Floyd's Cycle Finding Algorithm": 1,
     "Counting": 6,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
@@ -757,6 +757,23 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Binary Tree\\104_maximum_depth_of_binary_tree",
       "rel_folder": "Binary Tree/104_maximum_depth_of_binary_tree",
       "encoded_folder": "Binary%20Tree/104_maximum_depth_of_binary_tree"
+    },
+    {
+      "num": "112",
+      "title": "Path Sum",
+      "link": "https://leetcode.com/problems/path-sum/",
+      "difficulty": "Easy",
+      "category": "Binary Tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "date": "2026-10-02",
+      "folder_path": "D:\\projects\\dsa\\Binary Tree\\112_path_sum",
+      "rel_folder": "Binary Tree/112_path_sum",
+      "encoded_folder": "Binary%20Tree/112_path_sum"
     },
     {
       "num": "118",

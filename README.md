@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 110
+**Total Problems Solved:** 111
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (40.0%): `████████░░░░░░░░░░░░` (44)
-- 🟡 **Medium** (55.5%): `███████████░░░░░░░░░` (61)
+- 🟢 **Easy** (40.5%): `████████░░░░░░░░░░░░` (45)
+- 🟡 **Medium** (55.0%): `███████████░░░░░░░░░` (61)
 - 🔴 **Hard** (4.5%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
@@ -22,7 +22,7 @@
 | **Backtracking** | 6 | 0 | 6 | 0 |
 | **Linked List** | 6 | 3 | 3 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
-| **Binary Tree** | 2 | 2 | 0 | 0 |
+| **Binary Tree** | 3 | 3 | 0 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 | **Two Pointers** | 1 | 1 | 0 | 0 |
 
@@ -75,6 +75,7 @@
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/88_merge_sorted_array) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 Easy | Binary Tree | [Code & Doc](./Binary%20Tree/100_same_tree) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy | Binary Tree | [Code & Doc](./Binary%20Tree/104_maximum_depth_of_binary_tree) |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | 🟢 Easy | Binary Tree | [Code & Doc](./Binary%20Tree/112_path_sum) |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/118_pascals_triangle) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/121_best_time_to_buy_and_sell_stock) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | Other | [Code & Doc](./Other/125_valid_palindrome) |
