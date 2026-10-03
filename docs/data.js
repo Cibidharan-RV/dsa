@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 112,
+  "total": 113,
   "difficulty": {
     "Easy": 46,
-    "Medium": 61,
+    "Medium": 62,
     "Hard": 5,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Backtracking": {
-      "Total": 6,
+      "Total": 7,
       "Easy": 0,
-      "Medium": 6,
+      "Medium": 7,
       "Hard": 0,
       "Unknown": 0
     },
@@ -86,7 +86,7 @@ const dsaData = {
     }
   },
   "topic_stats": {
-    "Array": 54,
+    "Array": 55,
     "Linked List": 7,
     "Math": 14,
     "Recursion": 5,
@@ -100,7 +100,7 @@ const dsaData = {
     "Manacher": 1,
     "Trie": 1,
     "Sorting": 8,
-    "Backtracking": 7,
+    "Backtracking": 8,
     "Bracket Sequences": 3,
     "String Matching": 2,
     "Z Algorithm": 1,
@@ -478,6 +478,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Backtracking\\39_combination_sum",
       "rel_folder": "Backtracking/39_combination_sum",
       "encoded_folder": "Backtracking/39_combination_sum"
+    },
+    {
+      "num": "40",
+      "title": "Combination Sum II",
+      "link": "https://leetcode.com/problems/combination-sum-ii/",
+      "difficulty": "Medium",
+      "category": "Backtracking",
+      "topics": [
+        "Array",
+        "Backtracking"
+      ],
+      "date": "2026-10-03",
+      "folder_path": "D:\\projects\\dsa\\Backtracking\\40_combination_sum_ii",
+      "rel_folder": "Backtracking/40_combination_sum_ii",
+      "encoded_folder": "Backtracking/40_combination_sum_ii"
     },
     {
       "num": "46",
