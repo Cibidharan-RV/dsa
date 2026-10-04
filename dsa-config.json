@@ -1,0 +1,18 @@
+{
+    "default_language": ".java",
+    "structure": "category",
+    "folder_format": "{id}_{name}",
+    "file_name_format": "{id}_{name}_soln",
+    "doc_name_format": "{id}_{name}_doc",
+    "dashboard_title": "DSA Progress",
+    "dashboard_subtitle": "",
+    "dashboard_theme": "dark",
+    "author_name": "Cibidharan R V",
+    "github_username": "cibidharan-rv",
+    "github_url": "https://github.com/Cibidharan-RV/",
+    "linkedin_url": "https://www.linkedin.com/in/cibidharan/",
+    "twitter_url": "https://x.com/CibidharanRV",
+    "leetcode_url": "https://leetcode.com/u/cibidharan/",
+    "auto_commit": true,
+    "github_repo_url": "https://github.com/Cibidharan-RV/dsa"
+}
