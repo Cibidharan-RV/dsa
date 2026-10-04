@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 113,
+  "total": 114,
   "difficulty": {
     "Easy": 46,
-    "Medium": 62,
+    "Medium": 63,
     "Hard": 5,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Backtracking": {
-      "Total": 7,
+      "Total": 8,
       "Easy": 0,
-      "Medium": 7,
+      "Medium": 8,
       "Hard": 0,
       "Unknown": 0
     },
@@ -86,7 +86,7 @@ const dsaData = {
     }
   },
   "topic_stats": {
-    "Array": 55,
+    "Array": 56,
     "Linked List": 7,
     "Math": 14,
     "Recursion": 5,
@@ -100,7 +100,7 @@ const dsaData = {
     "Manacher": 1,
     "Trie": 1,
     "Sorting": 8,
-    "Backtracking": 8,
+    "Backtracking": 9,
     "Bracket Sequences": 3,
     "String Matching": 2,
     "Z Algorithm": 1,
@@ -1043,6 +1043,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Linked List\\206_reverse_linked_list",
       "rel_folder": "Linked List/206_reverse_linked_list",
       "encoded_folder": "Linked%20List/206_reverse_linked_list"
+    },
+    {
+      "num": "216",
+      "title": "Combination Sum III",
+      "link": "https://leetcode.com/problems/combination-sum-iii/",
+      "difficulty": "Medium",
+      "category": "Backtracking",
+      "topics": [
+        "Array",
+        "Backtracking"
+      ],
+      "date": "2026-10-04",
+      "folder_path": "D:\\projects\\dsa\\Backtracking\\216_combination_sum_iii",
+      "rel_folder": "Backtracking/216_combination_sum_iii",
+      "encoded_folder": "Backtracking/216_combination_sum_iii"
     },
     {
       "num": "229",

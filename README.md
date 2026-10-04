@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 113
+**Total Problems Solved:** 114
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (40.7%): `████████░░░░░░░░░░░░` (46)
-- 🟡 **Medium** (54.9%): `███████████░░░░░░░░░` (62)
+- 🟢 **Easy** (40.4%): `████████░░░░░░░░░░░░` (46)
+- 🟡 **Medium** (55.3%): `███████████░░░░░░░░░` (63)
 - 🔴 **Hard** (4.4%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
@@ -18,8 +18,8 @@
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
+| **Backtracking** | 8 | 0 | 8 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
-| **Backtracking** | 7 | 0 | 7 | 0 |
 | **Linked List** | 6 | 3 | 3 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
 | **Binary Tree** | 4 | 4 | 0 | 0 |
@@ -94,6 +94,7 @@
 | 202 | Happy Number | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/202_happy_number) |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/205_isomorphic_strings) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | Linked List | [Code & Doc](./Linked%20List/206_reverse_linked_list) |
+| 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | 🟡 Medium | Backtracking | [Code & Doc](./Backtracking/216_combination_sum_iii) |
 | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/229_majority_element_ii) |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/237_delete_node_in_a_linked_list) |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/240_search_a_2d_matrix_ii) |
