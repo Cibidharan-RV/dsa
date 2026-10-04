@@ -107,6 +107,7 @@ body {
   font-weight: 800;
   background: linear-gradient(to right, var(--accent-cyan), var(--accent-blue));
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .subtitle { color: var(--text-secondary); }

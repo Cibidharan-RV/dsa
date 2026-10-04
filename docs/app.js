@@ -514,10 +514,10 @@ document.addEventListener("DOMContentLoaded", () => {
       explorerResizer.style.display = "block";
       
       let githubLink;
-      if (p.encoded_folder) githubLink = `https://github.com/cibidharan-rv/dsa/tree/main/${p.encoded_folder}`;
+      if (p.encoded_folder) githubLink = `/tree/main/${p.encoded_folder}`;
       else {
           const folderName = p.folder_path.split("\\").pop().split("/").pop();
-          githubLink = `https://github.com/cibidharan-rv/dsa/tree/main/${p.category}/${folderName}`;
+          githubLink = `/tree/main/${p.category}/${folderName}`;
       }
 
       const topics = (p.topics && p.topics.length > 0) ? p.topics : [p.category];
