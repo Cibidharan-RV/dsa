@@ -36,18 +36,7 @@ combination is complete and is added to the result.
 
 ## Space Complexity
 
-O(d + n) $
-
-$l
-- A frequency array preserves duplicate values while allowing each possible
-  multiplicity of a value to be considered exactly once.
-- Treating target as the remaining sum makes target == 0 a direct terminal
-  condition.
-- `target / i` bounds how many copies of i can possibly be selected.
-- Advancing from i to i + 1 ensures each distinct value is processed only once.
-- `ensureCapacity()` avoids unnecessary internal ArrayList resizing when
-  adding multiple copies of the same value.
-
+O(d + n)
 ---
 
 ## Key Learning
