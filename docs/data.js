@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 114,
+  "total": 115,
   "difficulty": {
     "Easy": 46,
-    "Medium": 63,
+    "Medium": 64,
     "Hard": 5,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Backtracking": {
-      "Total": 8,
+      "Total": 9,
       "Easy": 0,
-      "Medium": 8,
+      "Medium": 9,
       "Hard": 0,
       "Unknown": 0
     },
@@ -86,7 +86,7 @@ const dsaData = {
     }
   },
   "topic_stats": {
-    "Array": 56,
+    "Array": 57,
     "Linked List": 7,
     "Math": 14,
     "Recursion": 5,
@@ -100,7 +100,7 @@ const dsaData = {
     "Manacher": 1,
     "Trie": 1,
     "Sorting": 8,
-    "Backtracking": 9,
+    "Backtracking": 10,
     "Bracket Sequences": 3,
     "String Matching": 2,
     "Z Algorithm": 1,
@@ -109,7 +109,7 @@ const dsaData = {
     "Matrix": 8,
     "Simulation": 4,
     "Quicksort": 1,
-    "Bit Manipulation": 1,
+    "Bit Manipulation": 2,
     "Depth-First Search": 5,
     "Tree": 4,
     "Breadth-First Search": 3,
@@ -739,6 +739,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\88_merge_sorted_array",
       "rel_folder": "Arrays/88_merge_sorted_array",
       "encoded_folder": "Arrays/88_merge_sorted_array"
+    },
+    {
+      "num": "90",
+      "title": "Subsets II",
+      "link": "https://leetcode.com/problems/subsets-ii/",
+      "difficulty": "Medium",
+      "category": "Backtracking",
+      "topics": [
+        "Array",
+        "Backtracking",
+        "Bit Manipulation"
+      ],
+      "date": "2026-10-04",
+      "folder_path": "D:\\projects\\dsa\\Backtracking\\90_subsets_ii",
+      "rel_folder": "Backtracking/90_subsets_ii",
+      "encoded_folder": "Backtracking/90_subsets_ii"
     },
     {
       "num": "100",
