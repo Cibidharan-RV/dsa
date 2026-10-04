@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 115
+**Total Problems Solved:** 116
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (40.0%): `████████░░░░░░░░░░░░` (46)
-- 🟡 **Medium** (55.7%): `███████████░░░░░░░░░` (64)
+- 🟢 **Easy** (39.7%): `████████░░░░░░░░░░░░` (46)
+- 🟡 **Medium** (56.0%): `███████████░░░░░░░░░` (65)
 - 🔴 **Hard** (4.3%): `█░░░░░░░░░░░░░░░░░░░` (5)
 
 ### Topic Breakdown
@@ -18,7 +18,7 @@
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
-| **Backtracking** | 9 | 0 | 9 | 0 |
+| **Backtracking** | 10 | 0 | 10 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Linked List** | 6 | 3 | 3 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
@@ -47,6 +47,7 @@
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/13_roman_to_integer) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | String | [Code & Doc](./String/14_longest_common_prefix) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/15_3sum) |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | Backtracking | [Code & Doc](./Backtracking/17_letter_combinations_of_a_phone_number) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/18_4sum) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | Recursion | [Code & Doc](./Recursion/22_generate_parentheses) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/27_remove_element) |

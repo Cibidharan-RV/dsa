@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 115,
+  "total": 116,
   "difficulty": {
     "Easy": 46,
-    "Medium": 64,
+    "Medium": 65,
     "Hard": 5,
     "Unknown": 0
   },
@@ -49,17 +49,17 @@ const dsaData = {
       "Hard": 0,
       "Unknown": 0
     },
+    "Backtracking": {
+      "Total": 10,
+      "Easy": 0,
+      "Medium": 10,
+      "Hard": 0,
+      "Unknown": 0
+    },
     "Recursion": {
       "Total": 4,
       "Easy": 1,
       "Medium": 3,
-      "Hard": 0,
-      "Unknown": 0
-    },
-    "Backtracking": {
-      "Total": 9,
-      "Easy": 0,
-      "Medium": 9,
       "Hard": 0,
       "Unknown": 0
     },
@@ -90,8 +90,8 @@ const dsaData = {
     "Linked List": 7,
     "Math": 14,
     "Recursion": 5,
-    "Hash Table": 31,
-    "String": 29,
+    "Hash Table": 32,
+    "String": 30,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
@@ -100,7 +100,7 @@ const dsaData = {
     "Manacher": 1,
     "Trie": 1,
     "Sorting": 8,
-    "Backtracking": 10,
+    "Backtracking": 11,
     "Bracket Sequences": 3,
     "String Matching": 2,
     "Z Algorithm": 1,
@@ -320,6 +320,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\15_3sum",
       "rel_folder": "Arrays/15_3sum",
       "encoded_folder": "Arrays/15_3sum"
+    },
+    {
+      "num": "17",
+      "title": "Letter Combinations of a Phone Number",
+      "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+      "difficulty": "Medium",
+      "category": "Backtracking",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Backtracking"
+      ],
+      "date": "2026-10-04",
+      "folder_path": "D:\\projects\\dsa\\Backtracking\\17_letter_combinations_of_a_phone_number",
+      "rel_folder": "Backtracking/17_letter_combinations_of_a_phone_number",
+      "encoded_folder": "Backtracking/17_letter_combinations_of_a_phone_number"
     },
     {
       "num": "18",
