@@ -1,9 +1,9 @@
 const dsaData = {
-  "total": 116,
+  "total": 117,
   "difficulty": {
     "Easy": 46,
     "Medium": 65,
-    "Hard": 5,
+    "Hard": 6,
     "Unknown": 0
   },
   "categories": {
@@ -50,10 +50,10 @@ const dsaData = {
       "Unknown": 0
     },
     "Backtracking": {
-      "Total": 10,
+      "Total": 11,
       "Easy": 0,
       "Medium": 10,
-      "Hard": 0,
+      "Hard": 1,
       "Unknown": 0
     },
     "Recursion": {
@@ -86,7 +86,7 @@ const dsaData = {
     }
   },
   "topic_stats": {
-    "Array": 57,
+    "Array": 58,
     "Linked List": 7,
     "Math": 14,
     "Recursion": 5,
@@ -100,13 +100,14 @@ const dsaData = {
     "Manacher": 1,
     "Trie": 1,
     "Sorting": 8,
-    "Backtracking": 11,
+    "Backtracking": 12,
     "Bracket Sequences": 3,
     "String Matching": 2,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
     "Matrix": 8,
+    "Algorithm X": 1,
     "Simulation": 4,
     "Quicksort": 1,
     "Bit Manipulation": 2,
@@ -569,6 +570,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Recursion\\50_powx_n",
       "rel_folder": "Recursion/50_powx_n",
       "encoded_folder": "Recursion/50_powx_n"
+    },
+    {
+      "num": "51",
+      "title": "N-Queens",
+      "link": "https://leetcode.com/problems/n-queens/",
+      "difficulty": "Hard",
+      "category": "Backtracking",
+      "topics": [
+        "Array",
+        "Backtracking",
+        "Algorithm X"
+      ],
+      "date": "2026-10-05",
+      "folder_path": "D:\\projects\\dsa\\Backtracking\\51_n_queens",
+      "rel_folder": "Backtracking/51_n_queens",
+      "encoded_folder": "Backtracking/51_n_queens"
     },
     {
       "num": "53",
