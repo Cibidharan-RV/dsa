@@ -1,9 +1,9 @@
 const dsaData = {
-  "total": 117,
+  "total": 118,
   "difficulty": {
     "Easy": 46,
     "Medium": 65,
-    "Hard": 6,
+    "Hard": 7,
     "Unknown": 0
   },
   "categories": {
@@ -50,10 +50,10 @@ const dsaData = {
       "Unknown": 0
     },
     "Backtracking": {
-      "Total": 11,
+      "Total": 12,
       "Easy": 0,
       "Medium": 10,
-      "Hard": 1,
+      "Hard": 2,
       "Unknown": 0
     },
     "Recursion": {
@@ -86,11 +86,11 @@ const dsaData = {
     }
   },
   "topic_stats": {
-    "Array": 58,
+    "Array": 59,
     "Linked List": 7,
     "Math": 14,
     "Recursion": 5,
-    "Hash Table": 32,
+    "Hash Table": 33,
     "String": 30,
     "Sliding Window": 2,
     "Binary Search": 21,
@@ -100,14 +100,15 @@ const dsaData = {
     "Manacher": 1,
     "Trie": 1,
     "Sorting": 8,
-    "Backtracking": 12,
+    "Backtracking": 13,
     "Bracket Sequences": 3,
     "String Matching": 2,
     "Z Algorithm": 1,
     "Knuth\u2013Morris\u2013Pratt Algorithm": 1,
     "Boyer\u2013Moore String-Search Algorithm": 1,
-    "Matrix": 8,
-    "Algorithm X": 1,
+    "Matrix": 9,
+    "Algorithm X": 2,
+    "Dancing Links": 1,
     "Simulation": 4,
     "Quicksort": 1,
     "Bit Manipulation": 2,
@@ -480,6 +481,25 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\35_search_insert_position",
       "rel_folder": "Arrays/35_search_insert_position",
       "encoded_folder": "Arrays/35_search_insert_position"
+    },
+    {
+      "num": "37",
+      "title": "Sudoku Solver",
+      "link": "https://leetcode.com/problems/sudoku-solver/",
+      "difficulty": "Hard",
+      "category": "Backtracking",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Backtracking",
+        "Matrix",
+        "Algorithm X",
+        "Dancing Links"
+      ],
+      "date": "2026-10-06",
+      "folder_path": "D:\\projects\\dsa\\Backtracking\\37_sudoku_solver",
+      "rel_folder": "Backtracking/37_sudoku_solver",
+      "encoded_folder": "Backtracking/37_sudoku_solver"
     },
     {
       "num": "39",
