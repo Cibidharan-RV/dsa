@@ -1,9 +1,9 @@
 const dsaData = {
-  "total": 118,
+  "total": 119,
   "difficulty": {
     "Easy": 46,
     "Medium": 65,
-    "Hard": 7,
+    "Hard": 8,
     "Unknown": 0
   },
   "categories": {
@@ -50,10 +50,10 @@ const dsaData = {
       "Unknown": 0
     },
     "Backtracking": {
-      "Total": 12,
+      "Total": 13,
       "Easy": 0,
       "Medium": 10,
-      "Hard": 2,
+      "Hard": 3,
       "Unknown": 0
     },
     "Recursion": {
@@ -88,10 +88,10 @@ const dsaData = {
   "topic_stats": {
     "Array": 59,
     "Linked List": 7,
-    "Math": 14,
+    "Math": 15,
     "Recursion": 5,
     "Hash Table": 33,
-    "String": 30,
+    "String": 31,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
@@ -100,7 +100,7 @@ const dsaData = {
     "Manacher": 1,
     "Trie": 1,
     "Sorting": 8,
-    "Backtracking": 13,
+    "Backtracking": 14,
     "Bracket Sequences": 3,
     "String Matching": 2,
     "Z Algorithm": 1,
@@ -1192,6 +1192,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\String\\242_valid_anagram",
       "rel_folder": "String/242_valid_anagram",
       "encoded_folder": "String/242_valid_anagram"
+    },
+    {
+      "num": "282",
+      "title": "Expression Add Operators",
+      "link": "https://leetcode.com/problems/expression-add-operators/",
+      "difficulty": "Hard",
+      "category": "Backtracking",
+      "topics": [
+        "Math",
+        "String",
+        "Backtracking"
+      ],
+      "date": "2026-10-07",
+      "folder_path": "D:\\projects\\dsa\\Backtracking\\282_expression_add_operators",
+      "rel_folder": "Backtracking/282_expression_add_operators",
+      "encoded_folder": "Backtracking/282_expression_add_operators"
     },
     {
       "num": "283",

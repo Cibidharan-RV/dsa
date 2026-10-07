@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 118
+**Total Problems Solved:** 119
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (39.0%): `████████░░░░░░░░░░░░` (46)
-- 🟡 **Medium** (55.1%): `███████████░░░░░░░░░` (65)
-- 🔴 **Hard** (5.9%): `█░░░░░░░░░░░░░░░░░░░` (7)
+- 🟢 **Easy** (38.7%): `████████░░░░░░░░░░░░` (46)
+- 🟡 **Medium** (54.6%): `███████████░░░░░░░░░` (65)
+- 🔴 **Hard** (6.7%): `█░░░░░░░░░░░░░░░░░░░` (8)
 
 ### Topic Breakdown
 
@@ -17,8 +17,8 @@
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
+| **Backtracking** | 13 | 0 | 10 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
-| **Backtracking** | 12 | 0 | 10 | 2 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Linked List** | 6 | 3 | 3 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
@@ -103,6 +103,7 @@
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/237_delete_node_in_a_linked_list) |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/240_search_a_2d_matrix_ii) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | String | [Code & Doc](./String/242_valid_anagram) |
+| 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | 🔴 Hard | Backtracking | [Code & Doc](./Backtracking/282_expression_add_operators) |
 | 283 | Move Zeroes | 🟢 Easy | Arrays | [Code & Doc](./Arrays/283_move_zeroes) |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/290_word_pattern) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 Easy | Two Pointers | [Code & Doc](./Two%20Pointers/344_reverse_string) |
