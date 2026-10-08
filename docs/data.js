@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 120,
+  "total": 121,
   "difficulty": {
     "Easy": 46,
-    "Medium": 66,
+    "Medium": 67,
     "Hard": 8,
     "Unknown": 0
   },
@@ -56,16 +56,16 @@ const dsaData = {
       "Hard": 3,
       "Unknown": 0
     },
-    "Recursion": {
-      "Total": 4,
-      "Easy": 1,
-      "Medium": 3,
+    "Linked List": {
+      "Total": 7,
+      "Easy": 3,
+      "Medium": 4,
       "Hard": 0,
       "Unknown": 0
     },
-    "Linked List": {
-      "Total": 6,
-      "Easy": 3,
+    "Recursion": {
+      "Total": 4,
+      "Easy": 1,
       "Medium": 3,
       "Hard": 0,
       "Unknown": 0
@@ -94,7 +94,7 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 59,
-    "Linked List": 8,
+    "Linked List": 9,
     "Math": 15,
     "Recursion": 5,
     "Hash Table": 33,
@@ -102,7 +102,7 @@ const dsaData = {
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
-    "Two Pointers": 14,
+    "Two Pointers": 15,
     "Dynamic Programming": 8,
     "Manacher": 1,
     "Trie": 1,
@@ -362,6 +362,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\18_4sum",
       "rel_folder": "Arrays/18_4sum",
       "encoded_folder": "Arrays/18_4sum"
+    },
+    {
+      "num": "19",
+      "title": "Remove Nth Node From End of List",
+      "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "date": "2026-10-08",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\19_remove_nth_node_from_end_of_list",
+      "rel_folder": "Linked List/19_remove_nth_node_from_end_of_list",
+      "encoded_folder": "Linked%20List/19_remove_nth_node_from_end_of_list"
     },
     {
       "num": "22",

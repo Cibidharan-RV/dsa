@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 120
+**Total Problems Solved:** 121
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (38.3%): `████████░░░░░░░░░░░░` (46)
-- 🟡 **Medium** (55.0%): `███████████░░░░░░░░░` (66)
-- 🔴 **Hard** (6.7%): `█░░░░░░░░░░░░░░░░░░░` (8)
+- 🟢 **Easy** (38.0%): `████████░░░░░░░░░░░░` (46)
+- 🟡 **Medium** (55.4%): `███████████░░░░░░░░░` (67)
+- 🔴 **Hard** (6.6%): `█░░░░░░░░░░░░░░░░░░░` (8)
 
 ### Topic Breakdown
 
@@ -20,7 +20,7 @@
 | **Backtracking** | 13 | 0 | 10 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
-| **Linked List** | 6 | 3 | 3 | 0 |
+| **Linked List** | 7 | 3 | 4 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
 | **Binary Tree** | 4 | 4 | 0 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
@@ -50,6 +50,7 @@
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/15_3sum) |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | 🟡 Medium | Backtracking | [Code & Doc](./Backtracking/17_letter_combinations_of_a_phone_number) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/18_4sum) |
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/19_remove_nth_node_from_end_of_list) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | Recursion | [Code & Doc](./Recursion/22_generate_parentheses) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/27_remove_element) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | Other | [Code & Doc](./Other/28_find_the_index_of_the_first_occurrence_in_a_string) |
