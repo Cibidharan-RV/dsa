@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 119
+**Total Problems Solved:** 120
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (38.7%): `████████░░░░░░░░░░░░` (46)
-- 🟡 **Medium** (54.6%): `███████████░░░░░░░░░` (65)
+- 🟢 **Easy** (38.3%): `████████░░░░░░░░░░░░` (46)
+- 🟡 **Medium** (55.0%): `███████████░░░░░░░░░` (66)
 - 🔴 **Hard** (6.7%): `█░░░░░░░░░░░░░░░░░░░` (8)
 
 ### Topic Breakdown
@@ -25,6 +25,7 @@
 | **Binary Tree** | 4 | 4 | 0 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 | **Two Pointers** | 1 | 1 | 0 | 0 |
+| **Doubly-Linked List** | 1 | 0 | 1 | 0 |
 
 <!-- STATS:END -->
 
@@ -112,6 +113,7 @@
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/387_first_unique_character_in_a_string) |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | Binary Search | [Code & Doc](./Binary%20Search/410_split_array_largest_sum) |
 | 410-A | [Allocate Minimum Number Of Pages](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/410-A_allocate_minimum_number_of_pages) |
+| 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | 🟡 Medium | Doubly-Linked List | [Code & Doc](./Doubly-Linked%20List/430_flatten_a_multilevel_doubly_linked_list) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/451_sort_characters_by_frequency) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | String | [Code & Doc](./String/451_sort_characters_by_frequency) |
 | 485 | Max Consecutive Ones | 🟢 Easy | Arrays | [Code & Doc](./Arrays/485_max_consecutive_ones) |

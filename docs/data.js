@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 119,
+  "total": 120,
   "difficulty": {
     "Easy": 46,
-    "Medium": 65,
+    "Medium": 66,
     "Hard": 8,
     "Unknown": 0
   },
@@ -83,11 +83,18 @@ const dsaData = {
       "Medium": 0,
       "Hard": 0,
       "Unknown": 0
+    },
+    "Doubly-Linked List": {
+      "Total": 1,
+      "Easy": 0,
+      "Medium": 1,
+      "Hard": 0,
+      "Unknown": 0
     }
   },
   "topic_stats": {
     "Array": 59,
-    "Linked List": 7,
+    "Linked List": 8,
     "Math": 15,
     "Recursion": 5,
     "Hash Table": 33,
@@ -112,7 +119,7 @@ const dsaData = {
     "Simulation": 4,
     "Quicksort": 1,
     "Bit Manipulation": 2,
-    "Depth-First Search": 5,
+    "Depth-First Search": 6,
     "Tree": 4,
     "Breadth-First Search": 3,
     "Binary Tree": 4,
@@ -122,6 +129,7 @@ const dsaData = {
     "Queue": 1,
     "Greedy": 3,
     "Prefix Sum": 3,
+    "Doubly-Linked List": 1,
     "Heap (Priority Queue)": 2,
     "Bucket Sort": 2,
     "Binary Indexed Tree": 1,
@@ -1331,6 +1339,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Binary Search\\410-A_allocate_minimum_number_of_pages",
       "rel_folder": "Binary Search/410-A_allocate_minimum_number_of_pages",
       "encoded_folder": "Binary%20Search/410-A_allocate_minimum_number_of_pages"
+    },
+    {
+      "num": "430",
+      "title": "Flatten a Multilevel Doubly Linked List",
+      "link": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
+      "difficulty": "Medium",
+      "category": "Doubly-Linked List",
+      "topics": [
+        "Linked List",
+        "Depth-First Search",
+        "Doubly-Linked List"
+      ],
+      "date": "2026-10-08",
+      "folder_path": "D:\\projects\\dsa\\Doubly-Linked List\\430_flatten_a_multilevel_doubly_linked_list",
+      "rel_folder": "Doubly-Linked List/430_flatten_a_multilevel_doubly_linked_list",
+      "encoded_folder": "Doubly-Linked%20List/430_flatten_a_multilevel_doubly_linked_list"
     },
     {
       "num": "451",
