@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 121,
+  "total": 122,
   "difficulty": {
-    "Easy": 46,
+    "Easy": 47,
     "Medium": 67,
     "Hard": 8,
     "Unknown": 0
@@ -57,8 +57,8 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 7,
-      "Easy": 3,
+      "Total": 8,
+      "Easy": 4,
       "Medium": 4,
       "Hard": 0,
       "Unknown": 0
@@ -94,9 +94,9 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 59,
-    "Linked List": 9,
+    "Linked List": 10,
     "Math": 15,
-    "Recursion": 5,
+    "Recursion": 6,
     "Hash Table": 33,
     "String": 31,
     "Sliding Window": 2,
@@ -377,6 +377,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Linked List\\19_remove_nth_node_from_end_of_list",
       "rel_folder": "Linked List/19_remove_nth_node_from_end_of_list",
       "encoded_folder": "Linked%20List/19_remove_nth_node_from_end_of_list"
+    },
+    {
+      "num": "21",
+      "title": "Merge Two Sorted Lists",
+      "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "difficulty": "Easy",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "date": "2026-10-09",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\21_merge_two_sorted_lists",
+      "rel_folder": "Linked List/21_merge_two_sorted_lists",
+      "encoded_folder": "Linked%20List/21_merge_two_sorted_lists"
     },
     {
       "num": "22",
