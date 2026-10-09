@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 122
+**Total Problems Solved:** 123
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (38.5%): `████████░░░░░░░░░░░░` (47)
-- 🟡 **Medium** (54.9%): `███████████░░░░░░░░░` (67)
-- 🔴 **Hard** (6.6%): `█░░░░░░░░░░░░░░░░░░░` (8)
+- 🟢 **Easy** (38.2%): `████████░░░░░░░░░░░░` (47)
+- 🟡 **Medium** (55.3%): `███████████░░░░░░░░░` (68)
+- 🔴 **Hard** (6.5%): `█░░░░░░░░░░░░░░░░░░░` (8)
 
 ### Topic Breakdown
 
@@ -19,7 +19,7 @@
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
-| **Linked List** | 8 | 4 | 4 | 0 |
+| **Linked List** | 9 | 4 | 5 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
 | **Binary Tree** | 4 | 4 | 0 | 0 |
@@ -53,6 +53,7 @@
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/19_remove_nth_node_from_end_of_list) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | Linked List | [Code & Doc](./Linked%20List/21_merge_two_sorted_lists) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | Recursion | [Code & Doc](./Recursion/22_generate_parentheses) |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/24_swap_nodes_in_pairs) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/27_remove_element) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | Other | [Code & Doc](./Other/28_find_the_index_of_the_first_occurrence_in_a_string) |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | 🔴 Hard | HashMaps | [Code & Doc](./HashMaps/30_substring_with_concatenation_of_all_words) |

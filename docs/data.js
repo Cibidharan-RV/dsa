@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 122,
+  "total": 123,
   "difficulty": {
     "Easy": 47,
-    "Medium": 67,
+    "Medium": 68,
     "Hard": 8,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 8,
+      "Total": 9,
       "Easy": 4,
-      "Medium": 4,
+      "Medium": 5,
       "Hard": 0,
       "Unknown": 0
     },
@@ -94,9 +94,9 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 59,
-    "Linked List": 10,
+    "Linked List": 11,
     "Math": 15,
-    "Recursion": 6,
+    "Recursion": 7,
     "Hash Table": 33,
     "String": 31,
     "Sliding Window": 2,
@@ -409,6 +409,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Recursion\\22_generate_parentheses",
       "rel_folder": "Recursion/22_generate_parentheses",
       "encoded_folder": "Recursion/22_generate_parentheses"
+    },
+    {
+      "num": "24",
+      "title": "Swap Nodes in Pairs",
+      "link": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "date": "2026-10-09",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\24_swap_nodes_in_pairs",
+      "rel_folder": "Linked List/24_swap_nodes_in_pairs",
+      "encoded_folder": "Linked%20List/24_swap_nodes_in_pairs"
     },
     {
       "num": "27",
