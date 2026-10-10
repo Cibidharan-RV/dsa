@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 123
+**Total Problems Solved:** 124
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (38.2%): `████████░░░░░░░░░░░░` (47)
-- 🟡 **Medium** (55.3%): `███████████░░░░░░░░░` (68)
+- 🟢 **Easy** (37.9%): `████████░░░░░░░░░░░░` (47)
+- 🟡 **Medium** (55.6%): `███████████░░░░░░░░░` (69)
 - 🔴 **Hard** (6.5%): `█░░░░░░░░░░░░░░░░░░░` (8)
 
 ### Topic Breakdown
@@ -19,7 +19,7 @@
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
-| **Linked List** | 9 | 4 | 5 | 0 |
+| **Linked List** | 10 | 4 | 6 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
 | **Binary Tree** | 4 | 4 | 0 | 0 |
@@ -80,6 +80,7 @@
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | Backtracking | [Code & Doc](./Backtracking/78_subsets) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | 🟡 Medium | Backtracking | [Code & Doc](./Backtracking/79_word_search) |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/81_search_in_rotated_sorted_array_ii) |
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/82_remove_duplicates_from_sorted_list_ii) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/88_merge_sorted_array) |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | 🟡 Medium | Backtracking | [Code & Doc](./Backtracking/90_subsets_ii) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 Easy | Binary Tree | [Code & Doc](./Binary%20Tree/100_same_tree) |
