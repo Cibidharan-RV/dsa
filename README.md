@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 124
+**Total Problems Solved:** 125
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (37.9%): `████████░░░░░░░░░░░░` (47)
-- 🟡 **Medium** (55.6%): `███████████░░░░░░░░░` (69)
-- 🔴 **Hard** (6.5%): `█░░░░░░░░░░░░░░░░░░░` (8)
+- 🟢 **Easy** (37.6%): `████████░░░░░░░░░░░░` (47)
+- 🟡 **Medium** (55.2%): `███████████░░░░░░░░░` (69)
+- 🔴 **Hard** (7.2%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
 
@@ -19,7 +19,7 @@
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
-| **Linked List** | 10 | 4 | 6 | 0 |
+| **Linked List** | 11 | 4 | 6 | 1 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
 | **Binary Tree** | 4 | 4 | 0 | 0 |
@@ -54,6 +54,7 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | Linked List | [Code & Doc](./Linked%20List/21_merge_two_sorted_lists) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡 Medium | Recursion | [Code & Doc](./Recursion/22_generate_parentheses) |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/24_swap_nodes_in_pairs) |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | 🔴 Hard | Linked List | [Code & Doc](./Linked%20List/25_reverse_nodes_in_k_group) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/27_remove_element) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | Other | [Code & Doc](./Other/28_find_the_index_of_the_first_occurrence_in_a_string) |
 | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | 🔴 Hard | HashMaps | [Code & Doc](./HashMaps/30_substring_with_concatenation_of_all_words) |

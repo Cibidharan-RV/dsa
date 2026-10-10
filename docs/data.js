@@ -1,9 +1,9 @@
 const dsaData = {
-  "total": 124,
+  "total": 125,
   "difficulty": {
     "Easy": 47,
     "Medium": 69,
-    "Hard": 8,
+    "Hard": 9,
     "Unknown": 0
   },
   "categories": {
@@ -57,10 +57,10 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 10,
+      "Total": 11,
       "Easy": 4,
       "Medium": 6,
-      "Hard": 0,
+      "Hard": 1,
       "Unknown": 0
     },
     "Recursion": {
@@ -94,9 +94,9 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 59,
-    "Linked List": 12,
+    "Linked List": 13,
     "Math": 15,
-    "Recursion": 7,
+    "Recursion": 8,
     "Hash Table": 33,
     "String": 31,
     "Sliding Window": 2,
@@ -424,6 +424,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Linked List\\24_swap_nodes_in_pairs",
       "rel_folder": "Linked List/24_swap_nodes_in_pairs",
       "encoded_folder": "Linked%20List/24_swap_nodes_in_pairs"
+    },
+    {
+      "num": "25",
+      "title": "Reverse Nodes in k-Group",
+      "link": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+      "difficulty": "Hard",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "date": "2026-10-11",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\25_reverse_nodes_in_k_group",
+      "rel_folder": "Linked List/25_reverse_nodes_in_k_group",
+      "encoded_folder": "Linked%20List/25_reverse_nodes_in_k_group"
     },
     {
       "num": "27",
