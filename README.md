@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 125
+**Total Problems Solved:** 126
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (37.6%): `████████░░░░░░░░░░░░` (47)
-- 🟡 **Medium** (55.2%): `███████████░░░░░░░░░` (69)
-- 🔴 **Hard** (7.2%): `█░░░░░░░░░░░░░░░░░░░` (9)
+- 🟢 **Easy** (37.3%): `███████░░░░░░░░░░░░░` (47)
+- 🟡 **Medium** (55.6%): `███████████░░░░░░░░░` (70)
+- 🔴 **Hard** (7.1%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
 
@@ -19,7 +19,7 @@
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
-| **Linked List** | 11 | 4 | 6 | 1 |
+| **Linked List** | 12 | 4 | 7 | 1 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
 | **Binary Tree** | 4 | 4 | 0 | 0 |
@@ -84,6 +84,7 @@
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/82_remove_duplicates_from_sorted_list_ii) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/88_merge_sorted_array) |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | 🟡 Medium | Backtracking | [Code & Doc](./Backtracking/90_subsets_ii) |
+| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/92_reverse_linked_list_ii) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | 🟢 Easy | Binary Tree | [Code & Doc](./Binary%20Tree/100_same_tree) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | 🟢 Easy | Binary Tree | [Code & Doc](./Binary%20Tree/104_maximum_depth_of_binary_tree) |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | 🟢 Easy | Binary Tree | [Code & Doc](./Binary%20Tree/112_path_sum) |

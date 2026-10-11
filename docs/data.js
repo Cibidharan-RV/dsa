@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 125,
+  "total": 126,
   "difficulty": {
     "Easy": 47,
-    "Medium": 69,
+    "Medium": 70,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 11,
+      "Total": 12,
       "Easy": 4,
-      "Medium": 6,
+      "Medium": 7,
       "Hard": 1,
       "Unknown": 0
     },
@@ -94,7 +94,7 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 59,
-    "Linked List": 13,
+    "Linked List": 14,
     "Math": 15,
     "Recursion": 8,
     "Hash Table": 33,
@@ -891,6 +891,20 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Backtracking\\90_subsets_ii",
       "rel_folder": "Backtracking/90_subsets_ii",
       "encoded_folder": "Backtracking/90_subsets_ii"
+    },
+    {
+      "num": "92",
+      "title": "Reverse Linked List II",
+      "link": "https://leetcode.com/problems/reverse-linked-list-ii/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List"
+      ],
+      "date": "2026-10-11",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\92_reverse_linked_list_ii",
+      "rel_folder": "Linked List/92_reverse_linked_list_ii",
+      "encoded_folder": "Linked%20List/92_reverse_linked_list_ii"
     },
     {
       "num": "100",
