@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 126
+**Total Problems Solved:** 127
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (37.3%): `███████░░░░░░░░░░░░░` (47)
-- 🟡 **Medium** (55.6%): `███████████░░░░░░░░░` (70)
+- 🟢 **Easy** (37.0%): `███████░░░░░░░░░░░░░` (47)
+- 🟡 **Medium** (55.9%): `███████████░░░░░░░░░` (71)
 - 🔴 **Hard** (7.1%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
@@ -18,8 +18,8 @@
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
+| **Linked List** | 13 | 4 | 8 | 1 |
 | **String** | 12 | 6 | 6 | 0 |
-| **Linked List** | 12 | 4 | 7 | 1 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
 | **Binary Tree** | 4 | 4 | 0 | 0 |
@@ -96,6 +96,7 @@
 | 136 | Single Number | 🟢 Easy | Arrays | [Code & Doc](./Arrays/136_single_number) |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/138_copy_list_with_random_pointer) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | Linked List | [Code & Doc](./Linked%20List/141_linked_list_cycle) |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/143_reorder_list) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | String | [Code & Doc](./String/151_reverse_words_in_a_string) |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/152_maximum_product_subarray) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/153_find_minimum_in_rotated_sorted_array) |

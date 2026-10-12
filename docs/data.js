@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 126,
+  "total": 127,
   "difficulty": {
     "Easy": 47,
-    "Medium": 70,
+    "Medium": 71,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 12,
+      "Total": 13,
       "Easy": 4,
-      "Medium": 7,
+      "Medium": 8,
       "Hard": 1,
       "Unknown": 0
     },
@@ -94,15 +94,15 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 59,
-    "Linked List": 14,
+    "Linked List": 15,
     "Math": 15,
-    "Recursion": 8,
+    "Recursion": 9,
     "Hash Table": 33,
     "String": 31,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
-    "Two Pointers": 16,
+    "Two Pointers": 17,
     "Dynamic Programming": 8,
     "Manacher": 1,
     "Trie": 1,
@@ -124,6 +124,7 @@ const dsaData = {
     "Breadth-First Search": 3,
     "Binary Tree": 4,
     "Floyd's Cycle Finding Algorithm": 1,
+    "Stack": 4,
     "Counting": 6,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
     "Queue": 1,
@@ -140,7 +141,6 @@ const dsaData = {
     "Memoization": 1,
     "Senior Staff": 1,
     "DP on Trees": 1,
-    "Stack": 3,
     "Monotonic Stack": 1,
     "Enumeration": 1,
     "Other": 2
@@ -1077,6 +1077,23 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Linked List\\141_linked_list_cycle",
       "rel_folder": "Linked List/141_linked_list_cycle",
       "encoded_folder": "Linked%20List/141_linked_list_cycle"
+    },
+    {
+      "num": "143",
+      "title": "Reorder List",
+      "link": "https://leetcode.com/problems/reorder-list/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Two Pointers",
+        "Stack",
+        "Recursion"
+      ],
+      "date": "2026-10-12",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\143_reorder_list",
+      "rel_folder": "Linked List/143_reorder_list",
+      "encoded_folder": "Linked%20List/143_reorder_list"
     },
     {
       "num": "151",
