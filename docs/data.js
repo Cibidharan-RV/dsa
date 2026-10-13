@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 127,
+  "total": 128,
   "difficulty": {
-    "Easy": 47,
+    "Easy": 48,
     "Medium": 71,
     "Hard": 9,
     "Unknown": 0
@@ -57,8 +57,8 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 13,
-      "Easy": 4,
+      "Total": 14,
+      "Easy": 5,
       "Medium": 8,
       "Hard": 1,
       "Unknown": 0
@@ -94,15 +94,15 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 59,
-    "Linked List": 15,
+    "Linked List": 16,
     "Math": 15,
     "Recursion": 9,
-    "Hash Table": 33,
+    "Hash Table": 34,
     "String": 31,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
-    "Two Pointers": 17,
+    "Two Pointers": 18,
     "Dynamic Programming": 8,
     "Manacher": 1,
     "Trie": 1,
@@ -1139,6 +1139,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Binary Search\\153_find_minimum_in_rotated_sorted_array",
       "rel_folder": "Binary Search/153_find_minimum_in_rotated_sorted_array",
       "encoded_folder": "Binary%20Search/153_find_minimum_in_rotated_sorted_array"
+    },
+    {
+      "num": "160",
+      "title": "Intersection of Two Linked Lists",
+      "link": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+      "difficulty": "Easy",
+      "category": "Linked List",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers"
+      ],
+      "date": "2026-10-13",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\160_intersection_of_two_linked_lists",
+      "rel_folder": "Linked List/160_intersection_of_two_linked_lists",
+      "encoded_folder": "Linked%20List/160_intersection_of_two_linked_lists"
     },
     {
       "num": "162",

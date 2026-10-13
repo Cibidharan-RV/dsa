@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 127
+**Total Problems Solved:** 128
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (37.0%): `███████░░░░░░░░░░░░░` (47)
-- 🟡 **Medium** (55.9%): `███████████░░░░░░░░░` (71)
-- 🔴 **Hard** (7.1%): `█░░░░░░░░░░░░░░░░░░░` (9)
+- 🟢 **Easy** (37.5%): `████████░░░░░░░░░░░░` (48)
+- 🟡 **Medium** (55.5%): `███████████░░░░░░░░░` (71)
+- 🔴 **Hard** (7.0%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
 
@@ -17,8 +17,8 @@
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
+| **Linked List** | 14 | 5 | 8 | 1 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
-| **Linked List** | 13 | 4 | 8 | 1 |
 | **String** | 12 | 6 | 6 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
@@ -100,6 +100,7 @@
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | String | [Code & Doc](./String/151_reverse_words_in_a_string) |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/152_maximum_product_subarray) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/153_find_minimum_in_rotated_sorted_array) |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | 🟢 Easy | Linked List | [Code & Doc](./Linked%20List/160_intersection_of_two_linked_lists) |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/162_find_peak_element) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/169_majority_element) |
 | 189 | Rotate  Array | 🟡 Medium | Arrays | [Code & Doc](./Arrays/189_rotate_array) |
