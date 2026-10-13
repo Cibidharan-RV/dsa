@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 128
+**Total Problems Solved:** 129
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (37.5%): `████████░░░░░░░░░░░░` (48)
-- 🟡 **Medium** (55.5%): `███████████░░░░░░░░░` (71)
+- 🟢 **Easy** (37.2%): `███████░░░░░░░░░░░░░` (48)
+- 🟡 **Medium** (55.8%): `███████████░░░░░░░░░` (72)
 - 🔴 **Hard** (7.0%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
@@ -17,7 +17,7 @@
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
-| **Linked List** | 14 | 5 | 8 | 1 |
+| **Linked List** | 15 | 5 | 9 | 1 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
@@ -96,6 +96,7 @@
 | 136 | Single Number | 🟢 Easy | Arrays | [Code & Doc](./Arrays/136_single_number) |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/138_copy_list_with_random_pointer) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | Linked List | [Code & Doc](./Linked%20List/141_linked_list_cycle) |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/142_linked_list_cycle_ii) |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/143_reorder_list) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 🟡 Medium | String | [Code & Doc](./String/151_reverse_words_in_a_string) |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/152_maximum_product_subarray) |

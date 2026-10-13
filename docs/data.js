@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 128,
+  "total": 129,
   "difficulty": {
     "Easy": 48,
-    "Medium": 71,
+    "Medium": 72,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 14,
+      "Total": 15,
       "Easy": 5,
-      "Medium": 8,
+      "Medium": 9,
       "Hard": 1,
       "Unknown": 0
     },
@@ -94,15 +94,15 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 59,
-    "Linked List": 16,
+    "Linked List": 17,
     "Math": 15,
     "Recursion": 9,
-    "Hash Table": 34,
+    "Hash Table": 35,
     "String": 31,
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
-    "Two Pointers": 18,
+    "Two Pointers": 19,
     "Dynamic Programming": 8,
     "Manacher": 1,
     "Trie": 1,
@@ -123,7 +123,7 @@ const dsaData = {
     "Tree": 4,
     "Breadth-First Search": 3,
     "Binary Tree": 4,
-    "Floyd's Cycle Finding Algorithm": 1,
+    "Floyd's Cycle Finding Algorithm": 2,
     "Stack": 4,
     "Counting": 6,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
@@ -1077,6 +1077,23 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Linked List\\141_linked_list_cycle",
       "rel_folder": "Linked List/141_linked_list_cycle",
       "encoded_folder": "Linked%20List/141_linked_list_cycle"
+    },
+    {
+      "num": "142",
+      "title": "Linked List Cycle II",
+      "link": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers",
+        "Floyd's Cycle Finding Algorithm"
+      ],
+      "date": "2026-10-13",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\142_linked_list_cycle_ii",
+      "rel_folder": "Linked List/142_linked_list_cycle_ii",
+      "encoded_folder": "Linked%20List/142_linked_list_cycle_ii"
     },
     {
       "num": "143",
