@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 129,
+  "total": 130,
   "difficulty": {
-    "Easy": 48,
+    "Easy": 49,
     "Medium": 72,
     "Hard": 9,
     "Unknown": 0
@@ -57,8 +57,8 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 15,
-      "Easy": 5,
+      "Total": 16,
+      "Easy": 6,
       "Medium": 9,
       "Hard": 1,
       "Unknown": 0
@@ -94,9 +94,9 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 59,
-    "Linked List": 17,
+    "Linked List": 18,
     "Math": 15,
-    "Recursion": 9,
+    "Recursion": 10,
     "Hash Table": 35,
     "String": 31,
     "Sliding Window": 2,
@@ -1229,6 +1229,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\HashMaps\\202_happy_number",
       "rel_folder": "HashMaps/202_happy_number",
       "encoded_folder": "HashMaps/202_happy_number"
+    },
+    {
+      "num": "203",
+      "title": "Remove Linked List Elements",
+      "link": "https://leetcode.com/problems/remove-linked-list-elements/",
+      "difficulty": "Easy",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "date": "2026-10-14",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\203_remove_linked_list_elements",
+      "rel_folder": "Linked List/203_remove_linked_list_elements",
+      "encoded_folder": "Linked%20List/203_remove_linked_list_elements"
     },
     {
       "num": "205",

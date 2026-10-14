@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 129
+**Total Problems Solved:** 130
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (37.2%): `███████░░░░░░░░░░░░░` (48)
-- 🟡 **Medium** (55.8%): `███████████░░░░░░░░░` (72)
-- 🔴 **Hard** (7.0%): `█░░░░░░░░░░░░░░░░░░░` (9)
+- 🟢 **Easy** (37.7%): `████████░░░░░░░░░░░░` (49)
+- 🟡 **Medium** (55.4%): `███████████░░░░░░░░░` (72)
+- 🔴 **Hard** (6.9%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
 
@@ -16,8 +16,8 @@
 |---|---|---|---|---|
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
+| **Linked List** | 16 | 6 | 9 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
-| **Linked List** | 15 | 5 | 9 | 1 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
@@ -106,6 +106,7 @@
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/169_majority_element) |
 | 189 | Rotate  Array | 🟡 Medium | Arrays | [Code & Doc](./Arrays/189_rotate_array) |
 | 202 | Happy Number | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/202_happy_number) |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢 Easy | Linked List | [Code & Doc](./Linked%20List/203_remove_linked_list_elements) |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/205_isomorphic_strings) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | 🟢 Easy | Linked List | [Code & Doc](./Linked%20List/206_reverse_linked_list) |
 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | 🟡 Medium | Backtracking | [Code & Doc](./Backtracking/216_combination_sum_iii) |
