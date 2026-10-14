@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 130
+**Total Problems Solved:** 131
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (37.7%): `████████░░░░░░░░░░░░` (49)
-- 🟡 **Medium** (55.4%): `███████████░░░░░░░░░` (72)
+- 🟢 **Easy** (37.4%): `███████░░░░░░░░░░░░░` (49)
+- 🟡 **Medium** (55.7%): `███████████░░░░░░░░░` (73)
 - 🔴 **Hard** (6.9%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
@@ -16,7 +16,7 @@
 |---|---|---|---|---|
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
-| **Linked List** | 16 | 6 | 9 | 1 |
+| **Linked List** | 17 | 6 | 10 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
@@ -117,6 +117,7 @@
 | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | 🔴 Hard | Backtracking | [Code & Doc](./Backtracking/282_expression_add_operators) |
 | 283 | Move Zeroes | 🟢 Easy | Arrays | [Code & Doc](./Arrays/283_move_zeroes) |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/290_word_pattern) |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/328_odd_even_linked_list) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 Easy | Two Pointers | [Code & Doc](./Two%20Pointers/344_reverse_string) |
 | 349 | Intersection of Two Arrays | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/349_intersection_of_two_arrays) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/383_ransom_note) |

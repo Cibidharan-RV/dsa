@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 130,
+  "total": 131,
   "difficulty": {
     "Easy": 49,
-    "Medium": 72,
+    "Medium": 73,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 16,
+      "Total": 17,
       "Easy": 6,
-      "Medium": 9,
+      "Medium": 10,
       "Hard": 1,
       "Unknown": 0
     },
@@ -94,7 +94,7 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 59,
-    "Linked List": 18,
+    "Linked List": 19,
     "Math": 15,
     "Recursion": 10,
     "Hash Table": 35,
@@ -1399,6 +1399,20 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\HashMaps\\290_word_pattern",
       "rel_folder": "HashMaps/290_word_pattern",
       "encoded_folder": "HashMaps/290_word_pattern"
+    },
+    {
+      "num": "328",
+      "title": "Odd Even Linked List",
+      "link": "https://leetcode.com/problems/odd-even-linked-list/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List"
+      ],
+      "date": "2026-10-14",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\328_odd_even_linked_list",
+      "rel_folder": "Linked List/328_odd_even_linked_list",
+      "encoded_folder": "Linked%20List/328_odd_even_linked_list"
     },
     {
       "num": "344",
