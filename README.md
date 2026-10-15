@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 131
+**Total Problems Solved:** 132
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (37.4%): `███████░░░░░░░░░░░░░` (49)
-- 🟡 **Medium** (55.7%): `███████████░░░░░░░░░` (73)
-- 🔴 **Hard** (6.9%): `█░░░░░░░░░░░░░░░░░░░` (9)
+- 🟢 **Easy** (37.1%): `███████░░░░░░░░░░░░░` (49)
+- 🟡 **Medium** (56.1%): `███████████░░░░░░░░░` (74)
+- 🔴 **Hard** (6.8%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
 
@@ -16,7 +16,7 @@
 |---|---|---|---|---|
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
-| **Linked List** | 17 | 6 | 10 | 1 |
+| **Linked List** | 18 | 6 | 11 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
@@ -158,6 +158,7 @@
 | 1901 | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/1901_find_a_peak_element_ii) |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | 🟢 Easy | String | [Code & Doc](./String/1903_largest_odd_number_in_string) |
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | 🟡 Medium | Recursion | [Code & Doc](./Recursion/1922_count_good_numbers) |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/2095_delete_the_middle_node_of_a_linked_list) |
 | 2124 | Check if All A's appears before all B's | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2124_check_if_all_A%27s_appears_before_all_B%27s) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/2149_rearrange_array_elements_by_sign) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2965_find_missing_and_repeated_values) |

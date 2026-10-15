@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 131,
+  "total": 132,
   "difficulty": {
     "Easy": 49,
-    "Medium": 73,
+    "Medium": 74,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 17,
+      "Total": 18,
       "Easy": 6,
-      "Medium": 10,
+      "Medium": 11,
       "Hard": 1,
       "Unknown": 0
     },
@@ -94,7 +94,7 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 59,
-    "Linked List": 19,
+    "Linked List": 20,
     "Math": 15,
     "Recursion": 10,
     "Hash Table": 35,
@@ -102,7 +102,7 @@ const dsaData = {
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
-    "Two Pointers": 19,
+    "Two Pointers": 20,
     "Dynamic Programming": 8,
     "Manacher": 1,
     "Trie": 1,
@@ -2038,6 +2038,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Recursion\\1922_count_good_numbers",
       "rel_folder": "Recursion/1922_count_good_numbers",
       "encoded_folder": "Recursion/1922_count_good_numbers"
+    },
+    {
+      "num": "2095",
+      "title": "Delete the Middle Node of a Linked List",
+      "link": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "date": "2026-10-15",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\2095_delete_the_middle_node_of_a_linked_list",
+      "rel_folder": "Linked List/2095_delete_the_middle_node_of_a_linked_list",
+      "encoded_folder": "Linked%20List/2095_delete_the_middle_node_of_a_linked_list"
     },
     {
       "num": "2124",
