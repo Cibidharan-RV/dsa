@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 133,
+  "total": 134,
   "difficulty": {
     "Easy": 50,
-    "Medium": 74,
+    "Medium": 75,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 19,
+      "Total": 20,
       "Easy": 7,
-      "Medium": 11,
+      "Medium": 12,
       "Hard": 1,
       "Unknown": 0
     },
@@ -94,7 +94,7 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 59,
-    "Linked List": 21,
+    "Linked List": 22,
     "Math": 15,
     "Recursion": 10,
     "Hash Table": 35,
@@ -102,7 +102,7 @@ const dsaData = {
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
-    "Two Pointers": 20,
+    "Two Pointers": 21,
     "Dynamic Programming": 8,
     "Manacher": 1,
     "Trie": 1,
@@ -873,6 +873,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Linked List\\83_remove_duplicates_from_sorted_list",
       "rel_folder": "Linked List/83_remove_duplicates_from_sorted_list",
       "encoded_folder": "Linked%20List/83_remove_duplicates_from_sorted_list"
+    },
+    {
+      "num": "86",
+      "title": "Partition List",
+      "link": "https://leetcode.com/problems/partition-list/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "date": "2026-10-16",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\86_partition_list",
+      "rel_folder": "Linked List/86_partition_list",
+      "encoded_folder": "Linked%20List/86_partition_list"
     },
     {
       "num": "88",
