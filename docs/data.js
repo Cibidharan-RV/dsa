@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 132,
+  "total": 133,
   "difficulty": {
-    "Easy": 49,
+    "Easy": 50,
     "Medium": 74,
     "Hard": 9,
     "Unknown": 0
@@ -57,8 +57,8 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 18,
-      "Easy": 6,
+      "Total": 19,
+      "Easy": 7,
       "Medium": 11,
       "Hard": 1,
       "Unknown": 0
@@ -94,7 +94,7 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 59,
-    "Linked List": 20,
+    "Linked List": 21,
     "Math": 15,
     "Recursion": 10,
     "Hash Table": 35,
@@ -859,6 +859,20 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Linked List\\82_remove_duplicates_from_sorted_list_ii",
       "rel_folder": "Linked List/82_remove_duplicates_from_sorted_list_ii",
       "encoded_folder": "Linked%20List/82_remove_duplicates_from_sorted_list_ii"
+    },
+    {
+      "num": "83",
+      "title": "Remove Duplicates from Sorted List",
+      "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+      "difficulty": "Easy",
+      "category": "Linked List",
+      "topics": [
+        "Linked List"
+      ],
+      "date": "2026-10-16",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\83_remove_duplicates_from_sorted_list",
+      "rel_folder": "Linked List/83_remove_duplicates_from_sorted_list",
+      "encoded_folder": "Linked%20List/83_remove_duplicates_from_sorted_list"
     },
     {
       "num": "88",

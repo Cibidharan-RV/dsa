@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 132
+**Total Problems Solved:** 133
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (37.1%): `███████░░░░░░░░░░░░░` (49)
-- 🟡 **Medium** (56.1%): `███████████░░░░░░░░░` (74)
+- 🟢 **Easy** (37.6%): `████████░░░░░░░░░░░░` (50)
+- 🟡 **Medium** (55.6%): `███████████░░░░░░░░░` (74)
 - 🔴 **Hard** (6.8%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
@@ -16,7 +16,7 @@
 |---|---|---|---|---|
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
-| **Linked List** | 18 | 6 | 11 | 1 |
+| **Linked List** | 19 | 7 | 11 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
@@ -82,6 +82,7 @@
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | 🟡 Medium | Backtracking | [Code & Doc](./Backtracking/79_word_search) |
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/81_search_in_rotated_sorted_array_ii) |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/82_remove_duplicates_from_sorted_list_ii) |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | Linked List | [Code & Doc](./Linked%20List/83_remove_duplicates_from_sorted_list) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/88_merge_sorted_array) |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | 🟡 Medium | Backtracking | [Code & Doc](./Backtracking/90_subsets_ii) |
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/92_reverse_linked_list_ii) |
