@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 134,
+  "total": 135,
   "difficulty": {
     "Easy": 50,
-    "Medium": 75,
+    "Medium": 76,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 20,
+      "Total": 21,
       "Easy": 7,
-      "Medium": 12,
+      "Medium": 13,
       "Hard": 1,
       "Unknown": 0
     },
@@ -94,7 +94,7 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 59,
-    "Linked List": 22,
+    "Linked List": 23,
     "Math": 15,
     "Recursion": 10,
     "Hash Table": 35,
@@ -106,7 +106,7 @@ const dsaData = {
     "Dynamic Programming": 8,
     "Manacher": 1,
     "Trie": 1,
-    "Sorting": 8,
+    "Sorting": 9,
     "Backtracking": 14,
     "Bracket Sequences": 3,
     "String Matching": 2,
@@ -1140,6 +1140,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Linked List\\143_reorder_list",
       "rel_folder": "Linked List/143_reorder_list",
       "encoded_folder": "Linked%20List/143_reorder_list"
+    },
+    {
+      "num": "147",
+      "title": "Insertion Sort List",
+      "link": "https://leetcode.com/problems/insertion-sort-list/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Sorting"
+      ],
+      "date": "2026-10-17",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\147_insertion_sort_list",
+      "rel_folder": "Linked List/147_insertion_sort_list",
+      "encoded_folder": "Linked%20List/147_insertion_sort_list"
     },
     {
       "num": "151",
