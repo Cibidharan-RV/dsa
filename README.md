@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 135
+**Total Problems Solved:** 136
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (37.0%): `███████░░░░░░░░░░░░░` (50)
-- 🟡 **Medium** (56.3%): `███████████░░░░░░░░░` (76)
-- 🔴 **Hard** (6.7%): `█░░░░░░░░░░░░░░░░░░░` (9)
+- 🟢 **Easy** (36.8%): `███████░░░░░░░░░░░░░` (50)
+- 🟡 **Medium** (56.6%): `███████████░░░░░░░░░` (77)
+- 🔴 **Hard** (6.6%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
 
@@ -16,7 +16,7 @@
 |---|---|---|---|---|
 | **Arrays** | 34 | 15 | 18 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
-| **Linked List** | 21 | 7 | 13 | 1 |
+| **Linked List** | 22 | 7 | 14 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
@@ -128,6 +128,7 @@
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | 🔴 Hard | Binary Search | [Code & Doc](./Binary%20Search/410_split_array_largest_sum) |
 | 410-A | [Allocate Minimum Number Of Pages](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/410-A_allocate_minimum_number_of_pages) |
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | 🟡 Medium | Doubly-Linked List | [Code & Doc](./Doubly-Linked%20List/430_flatten_a_multilevel_doubly_linked_list) |
+| 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/445_add_two_numbers_ii) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/451_sort_characters_by_frequency) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | String | [Code & Doc](./String/451_sort_characters_by_frequency) |
 | 485 | Max Consecutive Ones | 🟢 Easy | Arrays | [Code & Doc](./Arrays/485_max_consecutive_ones) |

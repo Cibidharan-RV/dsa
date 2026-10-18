@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 135,
+  "total": 136,
   "difficulty": {
     "Easy": 50,
-    "Medium": 76,
+    "Medium": 77,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 21,
+      "Total": 22,
       "Easy": 7,
-      "Medium": 13,
+      "Medium": 14,
       "Hard": 1,
       "Unknown": 0
     },
@@ -94,8 +94,8 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 59,
-    "Linked List": 23,
-    "Math": 15,
+    "Linked List": 24,
+    "Math": 16,
     "Recursion": 10,
     "Hash Table": 35,
     "String": 31,
@@ -124,7 +124,7 @@ const dsaData = {
     "Breadth-First Search": 3,
     "Binary Tree": 4,
     "Floyd's Cycle Finding Algorithm": 2,
-    "Stack": 4,
+    "Stack": 5,
     "Counting": 6,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
     "Queue": 1,
@@ -1567,6 +1567,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Doubly-Linked List\\430_flatten_a_multilevel_doubly_linked_list",
       "rel_folder": "Doubly-Linked List/430_flatten_a_multilevel_doubly_linked_list",
       "encoded_folder": "Doubly-Linked%20List/430_flatten_a_multilevel_doubly_linked_list"
+    },
+    {
+      "num": "445",
+      "title": "Add Two Numbers II",
+      "link": "https://leetcode.com/problems/add-two-numbers-ii/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Stack"
+      ],
+      "date": "2026-10-18",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\445_add_two_numbers_ii",
+      "rel_folder": "Linked List/445_add_two_numbers_ii",
+      "encoded_folder": "Linked%20List/445_add_two_numbers_ii"
     },
     {
       "num": "451",
