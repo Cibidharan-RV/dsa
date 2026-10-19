@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 136,
+  "total": 137,
   "difficulty": {
     "Easy": 50,
-    "Medium": 77,
+    "Medium": 78,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 22,
+      "Total": 23,
       "Easy": 7,
-      "Medium": 14,
+      "Medium": 15,
       "Hard": 1,
       "Unknown": 0
     },
@@ -94,7 +94,7 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 59,
-    "Linked List": 24,
+    "Linked List": 25,
     "Math": 16,
     "Recursion": 10,
     "Hash Table": 35,
@@ -102,7 +102,7 @@ const dsaData = {
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
-    "Two Pointers": 21,
+    "Two Pointers": 22,
     "Dynamic Programming": 8,
     "Manacher": 1,
     "Trie": 1,
@@ -2021,6 +2021,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\String\\1614_maximum_nesting_depth_of_the_parentheses",
       "rel_folder": "String/1614_maximum_nesting_depth_of_the_parentheses",
       "encoded_folder": "String/1614_maximum_nesting_depth_of_the_parentheses"
+    },
+    {
+      "num": "1721",
+      "title": "Swapping Nodes in a Linked List",
+      "link": "https://leetcode.com/problems/swapping-nodes-in-a-linked-list/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "date": "2026-10-19",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\1721_swapping_nodes_in_a_linked_list",
+      "rel_folder": "Linked List/1721_swapping_nodes_in_a_linked_list",
+      "encoded_folder": "Linked%20List/1721_swapping_nodes_in_a_linked_list"
     },
     {
       "num": "1752",
