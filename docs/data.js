@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 137,
+  "total": 138,
   "difficulty": {
     "Easy": 50,
-    "Medium": 78,
+    "Medium": 79,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 23,
+      "Total": 24,
       "Easy": 7,
-      "Medium": 15,
+      "Medium": 16,
       "Hard": 1,
       "Unknown": 0
     },
@@ -93,8 +93,8 @@ const dsaData = {
     }
   },
   "topic_stats": {
-    "Array": 59,
-    "Linked List": 25,
+    "Array": 60,
+    "Linked List": 26,
     "Math": 16,
     "Recursion": 10,
     "Hash Table": 35,
@@ -124,7 +124,7 @@ const dsaData = {
     "Breadth-First Search": 3,
     "Binary Tree": 4,
     "Floyd's Cycle Finding Algorithm": 2,
-    "Stack": 5,
+    "Stack": 6,
     "Counting": 6,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
     "Queue": 1,
@@ -141,7 +141,7 @@ const dsaData = {
     "Memoization": 1,
     "Senior Staff": 1,
     "DP on Trees": 1,
-    "Monotonic Stack": 1,
+    "Monotonic Stack": 2,
     "Enumeration": 1,
     "Other": 2
   },
@@ -1912,6 +1912,23 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Binary Search\\1011_capacity_to_ship_packages_within_d_days",
       "rel_folder": "Binary Search/1011_capacity_to_ship_packages_within_d_days",
       "encoded_folder": "Binary%20Search/1011_capacity_to_ship_packages_within_d_days"
+    },
+    {
+      "num": "1019",
+      "title": "Next Greater Node In Linked List",
+      "link": "https://leetcode.com/problems/next-greater-node-in-linked-list/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Array",
+        "Linked List",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "date": "2026-10-20",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\1019_next_greater_node_in_linked_list",
+      "rel_folder": "Linked List/1019_next_greater_node_in_linked_list",
+      "encoded_folder": "Linked%20List/1019_next_greater_node_in_linked_list"
     },
     {
       "num": "1021",

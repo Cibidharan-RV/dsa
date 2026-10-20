@@ -3,19 +3,19 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 137
+**Total Problems Solved:** 138
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (36.5%): `███████░░░░░░░░░░░░░` (50)
-- 🟡 **Medium** (56.9%): `███████████░░░░░░░░░` (78)
-- 🔴 **Hard** (6.6%): `█░░░░░░░░░░░░░░░░░░░` (9)
+- 🟢 **Easy** (36.2%): `███████░░░░░░░░░░░░░` (50)
+- 🟡 **Medium** (57.2%): `███████████░░░░░░░░░` (79)
+- 🔴 **Hard** (6.5%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
 
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
 | **Arrays** | 34 | 15 | 18 | 1 |
-| **Linked List** | 23 | 7 | 15 | 1 |
+| **Linked List** | 24 | 7 | 16 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
@@ -150,6 +150,7 @@
 | 981 | Time Based Key-Value Store | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/981_time_based_key_value_store) |
 | 1002 | Find Common Characters | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/1002_find_common_characters) |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/1011_capacity_to_ship_packages_within_d_days) |
+| 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/1019_next_greater_node_in_linked_list) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 Easy | String | [Code & Doc](./String/1021_remove_outermost_parentheses) |
 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/1124_longest_well_performing_interval) |
 | 1207 | Unique Number of Occurances | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/1207_unique_number_of_occurances) |
