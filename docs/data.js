@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 138,
+  "total": 139,
   "difficulty": {
     "Easy": 50,
-    "Medium": 79,
+    "Medium": 80,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 24,
+      "Total": 25,
       "Easy": 7,
-      "Medium": 16,
+      "Medium": 17,
       "Hard": 1,
       "Unknown": 0
     },
@@ -94,7 +94,7 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 60,
-    "Linked List": 26,
+    "Linked List": 27,
     "Math": 16,
     "Recursion": 10,
     "Hash Table": 35,
@@ -141,6 +141,7 @@ const dsaData = {
     "Memoization": 1,
     "Senior Staff": 1,
     "DP on Trees": 1,
+    "Design": 1,
     "Monotonic Stack": 2,
     "Enumeration": 1,
     "Other": 2
@@ -1782,6 +1783,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\704_binary_search",
       "rel_folder": "Arrays/704_binary_search",
       "encoded_folder": "Arrays/704_binary_search"
+    },
+    {
+      "num": "707",
+      "title": "Design Linked List",
+      "link": "https://leetcode.com/problems/design-linked-list/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Design"
+      ],
+      "date": "2026-10-21",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\707_design_linked_list",
+      "rel_folder": "Linked List/707_design_linked_list",
+      "encoded_folder": "Linked%20List/707_design_linked_list"
     },
     {
       "num": "774",
