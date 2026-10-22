@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 139,
+  "total": 140,
   "difficulty": {
     "Easy": 50,
-    "Medium": 80,
+    "Medium": 81,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 25,
+      "Total": 26,
       "Easy": 7,
-      "Medium": 17,
+      "Medium": 18,
       "Hard": 1,
       "Unknown": 0
     },
@@ -93,11 +93,11 @@ const dsaData = {
     }
   },
   "topic_stats": {
-    "Array": 60,
-    "Linked List": 27,
+    "Array": 61,
+    "Linked List": 28,
     "Math": 16,
     "Recursion": 10,
-    "Hash Table": 35,
+    "Hash Table": 36,
     "String": 31,
     "Sliding Window": 2,
     "Binary Search": 21,
@@ -1827,6 +1827,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\String\\796_rotate_string",
       "rel_folder": "String/796_rotate_string",
       "encoded_folder": "String/796_rotate_string"
+    },
+    {
+      "num": "817",
+      "title": "Linked List Components",
+      "link": "https://leetcode.com/problems/linked-list-components/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Linked List"
+      ],
+      "date": "2026-10-22",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\817_linked_list_components",
+      "rel_folder": "Linked List/817_linked_list_components",
+      "encoded_folder": "Linked%20List/817_linked_list_components"
     },
     {
       "num": "875",
