@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 140,
+  "total": 141,
   "difficulty": {
     "Easy": 50,
-    "Medium": 81,
+    "Medium": 82,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 26,
+      "Total": 27,
       "Easy": 7,
-      "Medium": 18,
+      "Medium": 19,
       "Hard": 1,
       "Unknown": 0
     },
@@ -94,7 +94,7 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 61,
-    "Linked List": 28,
+    "Linked List": 29,
     "Math": 16,
     "Recursion": 10,
     "Hash Table": 36,
@@ -1798,6 +1798,20 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Linked List\\707_design_linked_list",
       "rel_folder": "Linked List/707_design_linked_list",
       "encoded_folder": "Linked%20List/707_design_linked_list"
+    },
+    {
+      "num": "725",
+      "title": "Split Linked List in Parts",
+      "link": "https://leetcode.com/problems/split-linked-list-in-parts/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List"
+      ],
+      "date": "2026-10-24",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\725_split_linked_list_in_parts",
+      "rel_folder": "Linked List/725_split_linked_list_in_parts",
+      "encoded_folder": "Linked%20List/725_split_linked_list_in_parts"
     },
     {
       "num": "774",

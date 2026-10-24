@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 140
+**Total Problems Solved:** 141
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (35.7%): `███████░░░░░░░░░░░░░` (50)
-- 🟡 **Medium** (57.9%): `████████████░░░░░░░░` (81)
+- 🟢 **Easy** (35.5%): `███████░░░░░░░░░░░░░` (50)
+- 🟡 **Medium** (58.2%): `████████████░░░░░░░░` (82)
 - 🔴 **Hard** (6.4%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
@@ -15,7 +15,7 @@
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
 | **Arrays** | 34 | 15 | 18 | 1 |
-| **Linked List** | 26 | 7 | 18 | 1 |
+| **Linked List** | 27 | 7 | 19 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
@@ -142,6 +142,7 @@
 | 659 | Split Array Into Consecutive Subsequences | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/659_split_array_into_consecutive_subsequences) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/704_binary_search) |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/707_design_linked_list) |
+| 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/725_split_linked_list_in_parts) |
 | 774 | [Minimize Max Distance To Gas Station](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1) | 🔴 Hard | Binary Search | [Code & Doc](./Binary%20Search/774_minimize_max_distance_to_gas_station) |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | 🟢 Easy | String | [Code & Doc](./String/796_rotate_string) |
 | 817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/817_linked_list_components) |
