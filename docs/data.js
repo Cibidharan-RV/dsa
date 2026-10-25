@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 142,
+  "total": 143,
   "difficulty": {
     "Easy": 50,
-    "Medium": 83,
+    "Medium": 84,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 28,
+      "Total": 29,
       "Easy": 7,
-      "Medium": 20,
+      "Medium": 21,
       "Hard": 1,
       "Unknown": 0
     },
@@ -94,7 +94,7 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 61,
-    "Linked List": 30,
+    "Linked List": 31,
     "Math": 16,
     "Recursion": 10,
     "Hash Table": 36,
@@ -116,7 +116,7 @@ const dsaData = {
     "Matrix": 9,
     "Algorithm X": 2,
     "Dancing Links": 1,
-    "Simulation": 4,
+    "Simulation": 5,
     "Quicksort": 1,
     "Bit Manipulation": 2,
     "Depth-First Search": 6,
@@ -2235,6 +2235,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\2149_rearrange_array_elements_by_sign",
       "rel_folder": "Arrays/2149_rearrange_array_elements_by_sign",
       "encoded_folder": "Arrays/2149_rearrange_array_elements_by_sign"
+    },
+    {
+      "num": "2181",
+      "title": "Merge Nodes in Between Zeros",
+      "link": "https://leetcode.com/problems/merge-nodes-in-between-zeros/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Simulation"
+      ],
+      "date": "2026-10-25",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\2181_merge_nodes_in_between_zeros",
+      "rel_folder": "Linked List/2181_merge_nodes_in_between_zeros",
+      "encoded_folder": "Linked%20List/2181_merge_nodes_in_between_zeros"
     },
     {
       "num": "2965",

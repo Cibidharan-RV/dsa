@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 142
+**Total Problems Solved:** 143
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (35.2%): `███████░░░░░░░░░░░░░` (50)
-- 🟡 **Medium** (58.5%): `████████████░░░░░░░░` (83)
+- 🟢 **Easy** (35.0%): `███████░░░░░░░░░░░░░` (50)
+- 🟡 **Medium** (58.7%): `████████████░░░░░░░░` (84)
 - 🔴 **Hard** (6.3%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
@@ -15,7 +15,7 @@
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
 | **Arrays** | 34 | 15 | 18 | 1 |
-| **Linked List** | 28 | 7 | 20 | 1 |
+| **Linked List** | 29 | 7 | 21 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
@@ -171,6 +171,7 @@
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/2095_delete_the_middle_node_of_a_linked_list) |
 | 2124 | Check if All A's appears before all B's | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2124_check_if_all_A%27s_appears_before_all_B%27s) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/2149_rearrange_array_elements_by_sign) |
+| 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/2181_merge_nodes_in_between_zeros) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2965_find_missing_and_repeated_values) |
 | 3234 | [Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | 🟡 Medium | String | [Code & Doc](./String/3234_count_the_number_of_substrings_with_dominant_ones) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/3838_weighted_word_mapping) |
