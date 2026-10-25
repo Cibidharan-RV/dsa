@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 141,
+  "total": 142,
   "difficulty": {
     "Easy": 50,
-    "Medium": 82,
+    "Medium": 83,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 27,
+      "Total": 28,
       "Easy": 7,
-      "Medium": 19,
+      "Medium": 20,
       "Hard": 1,
       "Unknown": 0
     },
@@ -94,7 +94,7 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 61,
-    "Linked List": 29,
+    "Linked List": 30,
     "Math": 16,
     "Recursion": 10,
     "Hash Table": 36,
@@ -2084,6 +2084,20 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\String\\1614_maximum_nesting_depth_of_the_parentheses",
       "rel_folder": "String/1614_maximum_nesting_depth_of_the_parentheses",
       "encoded_folder": "String/1614_maximum_nesting_depth_of_the_parentheses"
+    },
+    {
+      "num": "1669",
+      "title": "Merge In Between Linked Lists",
+      "link": "https://leetcode.com/problems/merge-in-between-linked-lists/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List"
+      ],
+      "date": "2026-10-23",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\1669_merge_in_between_linked_lists",
+      "rel_folder": "Linked List/1669_merge_in_between_linked_lists",
+      "encoded_folder": "Linked%20List/1669_merge_in_between_linked_lists"
     },
     {
       "num": "1721",

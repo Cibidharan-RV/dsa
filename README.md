@@ -3,19 +3,19 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 141
+**Total Problems Solved:** 142
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (35.5%): `███████░░░░░░░░░░░░░` (50)
-- 🟡 **Medium** (58.2%): `████████████░░░░░░░░` (82)
-- 🔴 **Hard** (6.4%): `█░░░░░░░░░░░░░░░░░░░` (9)
+- 🟢 **Easy** (35.2%): `███████░░░░░░░░░░░░░` (50)
+- 🟡 **Medium** (58.5%): `████████████░░░░░░░░` (83)
+- 🔴 **Hard** (6.3%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
 
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
 | **Arrays** | 34 | 15 | 18 | 1 |
-| **Linked List** | 27 | 7 | 19 | 1 |
+| **Linked List** | 28 | 7 | 20 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
@@ -161,6 +161,7 @@
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/1482_minimum_number_of_days_to_make_m_bouquets) |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | 🟢 Easy | Binary Search | [Code & Doc](./Binary%20Search/1539_kth_missing_positive_number) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | 🟢 Easy | String | [Code & Doc](./String/1614_maximum_nesting_depth_of_the_parentheses) |
+| 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/1669_merge_in_between_linked_lists) |
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/1721_swapping_nodes_in_a_linked_list) |
 | 1752 | Check If Array is Sorted and Rotated | 🟢 Easy | Arrays | [Code & Doc](./Arrays/1752_check_if_array_is_sorted_and_rotated) |
 | 1781 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | 🟡 Medium | String | [Code & Doc](./String/1781_sum_of_beauty_of_all_substrings) |
