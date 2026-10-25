@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 143,
+  "total": 144,
   "difficulty": {
     "Easy": 50,
-    "Medium": 84,
+    "Medium": 85,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 29,
+      "Total": 30,
       "Easy": 7,
-      "Medium": 21,
+      "Medium": 22,
       "Hard": 1,
       "Unknown": 0
     },
@@ -94,7 +94,7 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 61,
-    "Linked List": 31,
+    "Linked List": 32,
     "Math": 16,
     "Recursion": 10,
     "Hash Table": 36,
@@ -102,7 +102,7 @@ const dsaData = {
     "Sliding Window": 2,
     "Binary Search": 21,
     "Divide and Conquer": 3,
-    "Two Pointers": 22,
+    "Two Pointers": 23,
     "Dynamic Programming": 8,
     "Manacher": 1,
     "Trie": 1,
@@ -124,7 +124,7 @@ const dsaData = {
     "Breadth-First Search": 3,
     "Binary Tree": 4,
     "Floyd's Cycle Finding Algorithm": 2,
-    "Stack": 6,
+    "Stack": 7,
     "Counting": 6,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
     "Queue": 1,
@@ -2219,6 +2219,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\2124_check_if_all_A's_appears_before_all_B's",
       "rel_folder": "Arrays/2124_check_if_all_A's_appears_before_all_B's",
       "encoded_folder": "Arrays/2124_check_if_all_A%27s_appears_before_all_B%27s"
+    },
+    {
+      "num": "2130",
+      "title": "Maximum Twin Sum of a Linked List",
+      "link": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Two Pointers",
+        "Stack"
+      ],
+      "date": "2026-10-25",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\2130_maximum_twin_sum_of_a_linked_list",
+      "rel_folder": "Linked List/2130_maximum_twin_sum_of_a_linked_list",
+      "encoded_folder": "Linked%20List/2130_maximum_twin_sum_of_a_linked_list"
     },
     {
       "num": "2149",

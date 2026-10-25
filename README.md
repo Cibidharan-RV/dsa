@@ -3,19 +3,19 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 143
+**Total Problems Solved:** 144
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (35.0%): `███████░░░░░░░░░░░░░` (50)
-- 🟡 **Medium** (58.7%): `████████████░░░░░░░░` (84)
-- 🔴 **Hard** (6.3%): `█░░░░░░░░░░░░░░░░░░░` (9)
+- 🟢 **Easy** (34.7%): `███████░░░░░░░░░░░░░` (50)
+- 🟡 **Medium** (59.0%): `████████████░░░░░░░░` (85)
+- 🔴 **Hard** (6.2%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
 
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
 | **Arrays** | 34 | 15 | 18 | 1 |
-| **Linked List** | 29 | 7 | 21 | 1 |
+| **Linked List** | 30 | 7 | 22 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
@@ -170,6 +170,7 @@
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | 🟡 Medium | Recursion | [Code & Doc](./Recursion/1922_count_good_numbers) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/2095_delete_the_middle_node_of_a_linked_list) |
 | 2124 | Check if All A's appears before all B's | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2124_check_if_all_A%27s_appears_before_all_B%27s) |
+| 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/2130_maximum_twin_sum_of_a_linked_list) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/2149_rearrange_array_elements_by_sign) |
 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/2181_merge_nodes_in_between_zeros) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2965_find_missing_and_repeated_values) |
