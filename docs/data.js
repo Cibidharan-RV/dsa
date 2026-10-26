@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 144,
+  "total": 145,
   "difficulty": {
     "Easy": 50,
-    "Medium": 85,
+    "Medium": 86,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 30,
+      "Total": 31,
       "Easy": 7,
-      "Medium": 22,
+      "Medium": 23,
       "Hard": 1,
       "Unknown": 0
     },
@@ -94,8 +94,8 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 61,
-    "Linked List": 32,
-    "Math": 16,
+    "Linked List": 33,
+    "Math": 17,
     "Recursion": 10,
     "Hash Table": 36,
     "String": 31,
@@ -124,7 +124,7 @@ const dsaData = {
     "Breadth-First Search": 3,
     "Binary Tree": 4,
     "Floyd's Cycle Finding Algorithm": 2,
-    "Stack": 7,
+    "Stack": 8,
     "Counting": 6,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
     "Queue": 1,
@@ -2266,6 +2266,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Linked List\\2181_merge_nodes_in_between_zeros",
       "rel_folder": "Linked List/2181_merge_nodes_in_between_zeros",
       "encoded_folder": "Linked%20List/2181_merge_nodes_in_between_zeros"
+    },
+    {
+      "num": "2816",
+      "title": "Double a Number Represented as a Linked List",
+      "link": "https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Stack"
+      ],
+      "date": "2026-10-26",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\2816_double_a_number_represented_as_a_linked_list",
+      "rel_folder": "Linked List/2816_double_a_number_represented_as_a_linked_list",
+      "encoded_folder": "Linked%20List/2816_double_a_number_represented_as_a_linked_list"
     },
     {
       "num": "2965",
