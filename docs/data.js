@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 145,
+  "total": 146,
   "difficulty": {
     "Easy": 50,
-    "Medium": 86,
+    "Medium": 87,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 31,
+      "Total": 32,
       "Easy": 7,
-      "Medium": 23,
+      "Medium": 24,
       "Hard": 1,
       "Unknown": 0
     },
@@ -94,9 +94,9 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 61,
-    "Linked List": 33,
+    "Linked List": 34,
     "Math": 17,
-    "Recursion": 10,
+    "Recursion": 11,
     "Hash Table": 36,
     "String": 31,
     "Sliding Window": 2,
@@ -124,7 +124,7 @@ const dsaData = {
     "Breadth-First Search": 3,
     "Binary Tree": 4,
     "Floyd's Cycle Finding Algorithm": 2,
-    "Stack": 8,
+    "Stack": 9,
     "Counting": 6,
     "Boyer\u2013Moore Majority Vote Algorithm": 1,
     "Queue": 1,
@@ -142,7 +142,7 @@ const dsaData = {
     "Senior Staff": 1,
     "DP on Trees": 1,
     "Design": 1,
-    "Monotonic Stack": 2,
+    "Monotonic Stack": 3,
     "Enumeration": 1,
     "Other": 2
   },
@@ -2266,6 +2266,23 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Linked List\\2181_merge_nodes_in_between_zeros",
       "rel_folder": "Linked List/2181_merge_nodes_in_between_zeros",
       "encoded_folder": "Linked%20List/2181_merge_nodes_in_between_zeros"
+    },
+    {
+      "num": "2487",
+      "title": "Remove Nodes From Linked List",
+      "link": "https://leetcode.com/problems/remove-nodes-from-linked-list/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Linked List",
+        "Stack",
+        "Recursion",
+        "Monotonic Stack"
+      ],
+      "date": "2026-10-27",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\2487_remove_nodes_from_linked_list",
+      "rel_folder": "Linked List/2487_remove_nodes_from_linked_list",
+      "encoded_folder": "Linked%20List/2487_remove_nodes_from_linked_list"
     },
     {
       "num": "2816",

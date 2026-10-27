@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 145
+**Total Problems Solved:** 146
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (34.5%): `███████░░░░░░░░░░░░░` (50)
-- 🟡 **Medium** (59.3%): `████████████░░░░░░░░` (86)
+- 🟢 **Easy** (34.2%): `███████░░░░░░░░░░░░░` (50)
+- 🟡 **Medium** (59.6%): `████████████░░░░░░░░` (87)
 - 🔴 **Hard** (6.2%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
@@ -15,7 +15,7 @@
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
 | **Arrays** | 34 | 15 | 18 | 1 |
-| **Linked List** | 31 | 7 | 23 | 1 |
+| **Linked List** | 32 | 7 | 24 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
@@ -173,6 +173,7 @@
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/2130_maximum_twin_sum_of_a_linked_list) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/2149_rearrange_array_elements_by_sign) |
 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/2181_merge_nodes_in_between_zeros) |
+| 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/2487_remove_nodes_from_linked_list) |
 | 2816 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/2816_double_a_number_represented_as_a_linked_list) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2965_find_missing_and_repeated_values) |
 | 3234 | [Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | 🟡 Medium | String | [Code & Doc](./String/3234_count_the_number_of_substrings_with_dominant_ones) |
