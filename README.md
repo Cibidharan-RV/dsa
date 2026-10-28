@@ -3,19 +3,19 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 146
+**Total Problems Solved:** 147
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (34.2%): `███████░░░░░░░░░░░░░` (50)
-- 🟡 **Medium** (59.6%): `████████████░░░░░░░░` (87)
-- 🔴 **Hard** (6.2%): `█░░░░░░░░░░░░░░░░░░░` (9)
+- 🟢 **Easy** (34.0%): `███████░░░░░░░░░░░░░` (50)
+- 🟡 **Medium** (59.9%): `████████████░░░░░░░░` (88)
+- 🔴 **Hard** (6.1%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
 
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
 | **Arrays** | 34 | 15 | 18 | 1 |
-| **Linked List** | 32 | 7 | 24 | 1 |
+| **Linked List** | 33 | 7 | 25 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
@@ -156,6 +156,7 @@
 | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/1019_next_greater_node_in_linked_list) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 Easy | String | [Code & Doc](./String/1021_remove_outermost_parentheses) |
 | 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/1124_longest_well_performing_interval) |
+| 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/1171_remove_zero_sum_consecutive_nodes_from_linked_list) |
 | 1207 | Unique Number of Occurances | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/1207_unique_number_of_occurances) |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/1283_find_the_smallest_divisor_given_a_threshold) |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/1482_minimum_number_of_days_to_make_m_bouquets) |

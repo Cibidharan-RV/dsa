@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 146,
+  "total": 147,
   "difficulty": {
     "Easy": 50,
-    "Medium": 87,
+    "Medium": 88,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 32,
+      "Total": 33,
       "Easy": 7,
-      "Medium": 24,
+      "Medium": 25,
       "Hard": 1,
       "Unknown": 0
     },
@@ -94,10 +94,10 @@ const dsaData = {
   },
   "topic_stats": {
     "Array": 61,
-    "Linked List": 34,
+    "Linked List": 35,
     "Math": 17,
     "Recursion": 11,
-    "Hash Table": 36,
+    "Hash Table": 37,
     "String": 31,
     "Sliding Window": 2,
     "Binary Search": 21,
@@ -2009,6 +2009,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\1124_longest_well_performing_interval",
       "rel_folder": "Arrays/1124_longest_well_performing_interval",
       "encoded_folder": "Arrays/1124_longest_well_performing_interval"
+    },
+    {
+      "num": "1171",
+      "title": "Remove Zero Sum Consecutive Nodes from Linked List",
+      "link": "https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Hash Table",
+        "Linked List"
+      ],
+      "date": "2026-10-28",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\1171_remove_zero_sum_consecutive_nodes_from_linked_list",
+      "rel_folder": "Linked List/1171_remove_zero_sum_consecutive_nodes_from_linked_list",
+      "encoded_folder": "Linked%20List/1171_remove_zero_sum_consecutive_nodes_from_linked_list"
     },
     {
       "num": "1207",
