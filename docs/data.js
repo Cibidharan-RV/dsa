@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 147,
+  "total": 148,
   "difficulty": {
     "Easy": 50,
-    "Medium": 88,
+    "Medium": 89,
     "Hard": 9,
     "Unknown": 0
   },
@@ -57,9 +57,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Linked List": {
-      "Total": 33,
+      "Total": 34,
       "Easy": 7,
-      "Medium": 25,
+      "Medium": 26,
       "Hard": 1,
       "Unknown": 0
     },
@@ -93,11 +93,11 @@ const dsaData = {
     }
   },
   "topic_stats": {
-    "Array": 61,
-    "Linked List": 35,
+    "Array": 62,
+    "Linked List": 36,
     "Math": 17,
     "Recursion": 11,
-    "Hash Table": 37,
+    "Hash Table": 38,
     "String": 31,
     "Sliding Window": 2,
     "Binary Search": 21,
@@ -2331,6 +2331,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\2965_find_missing_and_repeated_values",
       "rel_folder": "Arrays/2965_find_missing_and_repeated_values",
       "encoded_folder": "Arrays/2965_find_missing_and_repeated_values"
+    },
+    {
+      "num": "3217",
+      "title": "Delete Nodes From Linked List Present in Array",
+      "link": "https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/",
+      "difficulty": "Medium",
+      "category": "Linked List",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Linked List"
+      ],
+      "date": "2026-10-29",
+      "folder_path": "D:\\projects\\dsa\\Linked List\\3217_delete_nodes_from_linked_list_present_in_array",
+      "rel_folder": "Linked List/3217_delete_nodes_from_linked_list_present_in_array",
+      "encoded_folder": "Linked%20List/3217_delete_nodes_from_linked_list_present_in_array"
     },
     {
       "num": "3234",

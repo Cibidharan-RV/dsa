@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 147
+**Total Problems Solved:** 148
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (34.0%): `███████░░░░░░░░░░░░░` (50)
-- 🟡 **Medium** (59.9%): `████████████░░░░░░░░` (88)
+- 🟢 **Easy** (33.8%): `███████░░░░░░░░░░░░░` (50)
+- 🟡 **Medium** (60.1%): `████████████░░░░░░░░` (89)
 - 🔴 **Hard** (6.1%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
@@ -15,7 +15,7 @@
 | Topic | Total | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |---|---|---|---|---|
 | **Arrays** | 34 | 15 | 18 | 1 |
-| **Linked List** | 33 | 7 | 25 | 1 |
+| **Linked List** | 34 | 7 | 26 | 1 |
 | **HashMaps** | 22 | 9 | 12 | 1 |
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
@@ -177,6 +177,7 @@
 | 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/2487_remove_nodes_from_linked_list) |
 | 2816 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/2816_double_a_number_represented_as_a_linked_list) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2965_find_missing_and_repeated_values) |
+| 3217 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/3217_delete_nodes_from_linked_list_present_in_array) |
 | 3234 | [Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/) | 🟡 Medium | String | [Code & Doc](./String/3234_count_the_number_of_substrings_with_dominant_ones) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/3838_weighted_word_mapping) |
 | 3894 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | 🟢 Easy | Other | [Code & Doc](./Other/3894_traffic_signal_color) |
