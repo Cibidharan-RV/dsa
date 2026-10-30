@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 148,
+  "total": 149,
   "difficulty": {
-    "Easy": 50,
+    "Easy": 51,
     "Medium": 89,
     "Hard": 9,
     "Unknown": 0
@@ -71,8 +71,8 @@ const dsaData = {
       "Unknown": 0
     },
     "Binary Tree": {
-      "Total": 4,
-      "Easy": 4,
+      "Total": 5,
+      "Easy": 5,
       "Medium": 0,
       "Hard": 0,
       "Unknown": 0
@@ -119,10 +119,10 @@ const dsaData = {
     "Simulation": 5,
     "Quicksort": 1,
     "Bit Manipulation": 2,
-    "Depth-First Search": 6,
-    "Tree": 4,
-    "Breadth-First Search": 3,
-    "Binary Tree": 4,
+    "Depth-First Search": 7,
+    "Tree": 5,
+    "Breadth-First Search": 4,
+    "Binary Tree": 5,
     "Floyd's Cycle Finding Algorithm": 2,
     "Stack": 9,
     "Counting": 6,
@@ -1334,6 +1334,23 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Backtracking\\216_combination_sum_iii",
       "rel_folder": "Backtracking/216_combination_sum_iii",
       "encoded_folder": "Backtracking/216_combination_sum_iii"
+    },
+    {
+      "num": "226",
+      "title": "Invert Binary Tree",
+      "link": "https://leetcode.com/problems/invert-binary-tree/",
+      "difficulty": "Easy",
+      "category": "Binary Tree",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "date": "2026-10-30",
+      "folder_path": "D:\\projects\\dsa\\Binary Tree\\226_invert_binary_tree",
+      "rel_folder": "Binary Tree/226_invert_binary_tree",
+      "encoded_folder": "Binary%20Tree/226_invert_binary_tree"
     },
     {
       "num": "229",
