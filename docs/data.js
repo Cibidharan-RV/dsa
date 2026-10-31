@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 149,
+  "total": 150,
   "difficulty": {
-    "Easy": 51,
+    "Easy": 52,
     "Medium": 89,
     "Hard": 9,
     "Unknown": 0
@@ -77,6 +77,13 @@ const dsaData = {
       "Hard": 0,
       "Unknown": 0
     },
+    "Bit Manipulation": {
+      "Total": 1,
+      "Easy": 1,
+      "Medium": 0,
+      "Hard": 0,
+      "Unknown": 0
+    },
     "Two Pointers": {
       "Total": 1,
       "Easy": 1,
@@ -101,7 +108,7 @@ const dsaData = {
     "String": 31,
     "Sliding Window": 2,
     "Binary Search": 21,
-    "Divide and Conquer": 3,
+    "Divide and Conquer": 4,
     "Two Pointers": 23,
     "Dynamic Programming": 8,
     "Manacher": 1,
@@ -118,7 +125,7 @@ const dsaData = {
     "Dancing Links": 1,
     "Simulation": 5,
     "Quicksort": 1,
-    "Bit Manipulation": 2,
+    "Bit Manipulation": 3,
     "Depth-First Search": 7,
     "Tree": 5,
     "Breadth-First Search": 4,
@@ -1260,6 +1267,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\189_rotate_array",
       "rel_folder": "Arrays/189_rotate_array",
       "encoded_folder": "Arrays/189_rotate_array"
+    },
+    {
+      "num": "191",
+      "title": "Number of 1 Bits",
+      "link": "https://leetcode.com/problems/number-of-1-bits/",
+      "difficulty": "Easy",
+      "category": "Bit Manipulation",
+      "topics": [
+        "Divide and Conquer",
+        "Bit Manipulation"
+      ],
+      "date": "2026-10-31",
+      "folder_path": "D:\\projects\\dsa\\Bit Manipulation\\191_number_of_1_bits",
+      "rel_folder": "Bit Manipulation/191_number_of_1_bits",
+      "encoded_folder": "Bit%20Manipulation/191_number_of_1_bits"
     },
     {
       "num": "202",

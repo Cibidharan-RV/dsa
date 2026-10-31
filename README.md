@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 149
+**Total Problems Solved:** 150
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (34.2%): `███████░░░░░░░░░░░░░` (51)
-- 🟡 **Medium** (59.7%): `████████████░░░░░░░░` (89)
+- 🟢 **Easy** (34.7%): `███████░░░░░░░░░░░░░` (52)
+- 🟡 **Medium** (59.3%): `████████████░░░░░░░░` (89)
 - 🔴 **Hard** (6.0%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
@@ -24,6 +24,7 @@
 | **Binary Tree** | 5 | 5 | 0 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
+| **Bit Manipulation** | 1 | 1 | 0 | 0 |
 | **Two Pointers** | 1 | 1 | 0 | 0 |
 | **Doubly-Linked List** | 1 | 0 | 1 | 0 |
 
@@ -108,6 +109,7 @@
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/162_find_peak_element) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/169_majority_element) |
 | 189 | Rotate  Array | 🟡 Medium | Arrays | [Code & Doc](./Arrays/189_rotate_array) |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | 🟢 Easy | Bit Manipulation | [Code & Doc](./Bit%20Manipulation/191_number_of_1_bits) |
 | 202 | Happy Number | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/202_happy_number) |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢 Easy | Linked List | [Code & Doc](./Linked%20List/203_remove_linked_list_elements) |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/205_isomorphic_strings) |
