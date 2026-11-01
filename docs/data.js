@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 150,
+  "total": 151,
   "difficulty": {
-    "Easy": 52,
+    "Easy": 53,
     "Medium": 89,
     "Hard": 9,
     "Unknown": 0
@@ -78,8 +78,8 @@ const dsaData = {
       "Unknown": 0
     },
     "Bit Manipulation": {
-      "Total": 1,
-      "Easy": 1,
+      "Total": 2,
+      "Easy": 2,
       "Medium": 0,
       "Hard": 0,
       "Unknown": 0
@@ -125,7 +125,7 @@ const dsaData = {
     "Dancing Links": 1,
     "Simulation": 5,
     "Quicksort": 1,
-    "Bit Manipulation": 3,
+    "Bit Manipulation": 4,
     "Depth-First Search": 7,
     "Tree": 5,
     "Breadth-First Search": 4,
@@ -1661,6 +1661,20 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\String\\451_sort_characters_by_frequency",
       "rel_folder": "String/451_sort_characters_by_frequency",
       "encoded_folder": "String/451_sort_characters_by_frequency"
+    },
+    {
+      "num": "461",
+      "title": "Hamming Distance",
+      "link": "https://leetcode.com/problems/hamming-distance/",
+      "difficulty": "Easy",
+      "category": "Bit Manipulation",
+      "topics": [
+        "Bit Manipulation"
+      ],
+      "date": "2026-11-01",
+      "folder_path": "D:\\projects\\dsa\\Bit Manipulation\\461_hamming_distance",
+      "rel_folder": "Bit Manipulation/461_hamming_distance",
+      "encoded_folder": "Bit%20Manipulation/461_hamming_distance"
     },
     {
       "num": "485",

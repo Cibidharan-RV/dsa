@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 150
+**Total Problems Solved:** 151
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (34.7%): `███████░░░░░░░░░░░░░` (52)
-- 🟡 **Medium** (59.3%): `████████████░░░░░░░░` (89)
+- 🟢 **Easy** (35.1%): `███████░░░░░░░░░░░░░` (53)
+- 🟡 **Medium** (58.9%): `████████████░░░░░░░░` (89)
 - 🔴 **Hard** (6.0%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
@@ -23,8 +23,8 @@
 | **Other** | 7 | 5 | 2 | 0 |
 | **Binary Tree** | 5 | 5 | 0 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
+| **Bit Manipulation** | 2 | 2 | 0 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
-| **Bit Manipulation** | 1 | 1 | 0 | 0 |
 | **Two Pointers** | 1 | 1 | 0 | 0 |
 | **Doubly-Linked List** | 1 | 0 | 1 | 0 |
 
@@ -134,6 +134,7 @@
 | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/445_add_two_numbers_ii) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/451_sort_characters_by_frequency) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | 🟡 Medium | String | [Code & Doc](./String/451_sort_characters_by_frequency) |
+| 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | 🟢 Easy | Bit Manipulation | [Code & Doc](./Bit%20Manipulation/461_hamming_distance) |
 | 485 | Max Consecutive Ones | 🟢 Easy | Arrays | [Code & Doc](./Arrays/485_max_consecutive_ones) |
 | 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | 🔴 Hard | Arrays | [Code & Doc](./Arrays/493_reverse_pairs) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | Recursion | [Code & Doc](./Recursion/509_fibonacci_number) |
