@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 151,
+  "total": 152,
   "difficulty": {
-    "Easy": 53,
+    "Easy": 54,
     "Medium": 89,
     "Hard": 9,
     "Unknown": 0
@@ -78,8 +78,8 @@ const dsaData = {
       "Unknown": 0
     },
     "Bit Manipulation": {
-      "Total": 2,
-      "Easy": 2,
+      "Total": 3,
+      "Easy": 3,
       "Medium": 0,
       "Hard": 0,
       "Unknown": 0
@@ -102,8 +102,8 @@ const dsaData = {
   "topic_stats": {
     "Array": 62,
     "Linked List": 36,
-    "Math": 17,
-    "Recursion": 11,
+    "Math": 18,
+    "Recursion": 12,
     "Hash Table": 38,
     "String": 31,
     "Sliding Window": 2,
@@ -125,7 +125,7 @@ const dsaData = {
     "Dancing Links": 1,
     "Simulation": 5,
     "Quicksort": 1,
-    "Bit Manipulation": 4,
+    "Bit Manipulation": 5,
     "Depth-First Search": 7,
     "Tree": 5,
     "Breadth-First Search": 4,
@@ -1391,6 +1391,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\229_majority_element_ii",
       "rel_folder": "Arrays/229_majority_element_ii",
       "encoded_folder": "Arrays/229_majority_element_ii"
+    },
+    {
+      "num": "231",
+      "title": "Power of Two",
+      "link": "https://leetcode.com/problems/power-of-two/",
+      "difficulty": "Easy",
+      "category": "Bit Manipulation",
+      "topics": [
+        "Math",
+        "Bit Manipulation",
+        "Recursion"
+      ],
+      "date": "2026-11-02",
+      "folder_path": "D:\\projects\\dsa\\Bit Manipulation\\231_power_of_two",
+      "rel_folder": "Bit Manipulation/231_power_of_two",
+      "encoded_folder": "Bit%20Manipulation/231_power_of_two"
     },
     {
       "num": "237",
