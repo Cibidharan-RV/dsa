@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 152,
+  "total": 153,
   "difficulty": {
-    "Easy": 54,
+    "Easy": 55,
     "Medium": 89,
     "Hard": 9,
     "Unknown": 0
@@ -78,8 +78,8 @@ const dsaData = {
       "Unknown": 0
     },
     "Bit Manipulation": {
-      "Total": 3,
-      "Easy": 3,
+      "Total": 4,
+      "Easy": 4,
       "Medium": 0,
       "Hard": 0,
       "Unknown": 0
@@ -108,7 +108,7 @@ const dsaData = {
     "String": 31,
     "Sliding Window": 2,
     "Binary Search": 21,
-    "Divide and Conquer": 4,
+    "Divide and Conquer": 5,
     "Two Pointers": 23,
     "Dynamic Programming": 8,
     "Manacher": 1,
@@ -125,7 +125,7 @@ const dsaData = {
     "Dancing Links": 1,
     "Simulation": 5,
     "Quicksort": 1,
-    "Bit Manipulation": 5,
+    "Bit Manipulation": 6,
     "Depth-First Search": 7,
     "Tree": 5,
     "Breadth-First Search": 4,
@@ -1267,6 +1267,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\189_rotate_array",
       "rel_folder": "Arrays/189_rotate_array",
       "encoded_folder": "Arrays/189_rotate_array"
+    },
+    {
+      "num": "190",
+      "title": "Reverse Bits",
+      "link": "https://leetcode.com/problems/reverse-bits/",
+      "difficulty": "Easy",
+      "category": "Bit Manipulation",
+      "topics": [
+        "Divide and Conquer",
+        "Bit Manipulation"
+      ],
+      "date": "2026-11-02",
+      "folder_path": "D:\\projects\\dsa\\Bit Manipulation\\190_reverse_bits",
+      "rel_folder": "Bit Manipulation/190_reverse_bits",
+      "encoded_folder": "Bit%20Manipulation/190_reverse_bits"
     },
     {
       "num": "191",
