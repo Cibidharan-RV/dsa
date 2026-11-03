@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 153
+**Total Problems Solved:** 154
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (35.9%): `███████░░░░░░░░░░░░░` (55)
-- 🟡 **Medium** (58.2%): `████████████░░░░░░░░` (89)
-- 🔴 **Hard** (5.9%): `█░░░░░░░░░░░░░░░░░░░` (9)
+- 🟢 **Easy** (36.4%): `███████░░░░░░░░░░░░░` (56)
+- 🟡 **Medium** (57.8%): `████████████░░░░░░░░` (89)
+- 🔴 **Hard** (5.8%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
 
@@ -22,8 +22,8 @@
 | **String** | 12 | 6 | 6 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Binary Tree** | 5 | 5 | 0 | 0 |
+| **Bit Manipulation** | 5 | 5 | 0 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
-| **Bit Manipulation** | 4 | 4 | 0 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 | **Two Pointers** | 1 | 1 | 0 | 0 |
 | **Doubly-Linked List** | 1 | 0 | 1 | 0 |
@@ -158,6 +158,7 @@
 | 974 | Subarray Sum Divisible by K | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/974_subarray_sums_divisible_by_k) |
 | 981 | Time Based Key-Value Store | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/981_time_based_key_value_store) |
 | 1002 | Find Common Characters | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/1002_find_common_characters) |
+| 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | 🟢 Easy | Bit Manipulation | [Code & Doc](./Bit%20Manipulation/1009_complement_of_base_10_integer) |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | 🟡 Medium | Binary Search | [Code & Doc](./Binary%20Search/1011_capacity_to_ship_packages_within_d_days) |
 | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/1019_next_greater_node_in_linked_list) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | 🟢 Easy | String | [Code & Doc](./String/1021_remove_outermost_parentheses) |

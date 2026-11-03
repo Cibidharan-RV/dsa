@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 153,
+  "total": 154,
   "difficulty": {
-    "Easy": 55,
+    "Easy": 56,
     "Medium": 89,
     "Hard": 9,
     "Unknown": 0
@@ -78,8 +78,8 @@ const dsaData = {
       "Unknown": 0
     },
     "Bit Manipulation": {
-      "Total": 4,
-      "Easy": 4,
+      "Total": 5,
+      "Easy": 5,
       "Medium": 0,
       "Hard": 0,
       "Unknown": 0
@@ -125,7 +125,7 @@ const dsaData = {
     "Dancing Links": 1,
     "Simulation": 5,
     "Quicksort": 1,
-    "Bit Manipulation": 6,
+    "Bit Manipulation": 7,
     "Depth-First Search": 7,
     "Tree": 5,
     "Breadth-First Search": 4,
@@ -2027,6 +2027,20 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\HashMaps\\1002_find_common_characters",
       "rel_folder": "HashMaps/1002_find_common_characters",
       "encoded_folder": "HashMaps/1002_find_common_characters"
+    },
+    {
+      "num": "1009",
+      "title": "Complement of Base 10 Integer",
+      "link": "https://leetcode.com/problems/complement-of-base-10-integer/",
+      "difficulty": "Easy",
+      "category": "Bit Manipulation",
+      "topics": [
+        "Bit Manipulation"
+      ],
+      "date": "2026-11-03",
+      "folder_path": "D:\\projects\\dsa\\Bit Manipulation\\1009_complement_of_base_10_integer",
+      "rel_folder": "Bit Manipulation/1009_complement_of_base_10_integer",
+      "encoded_folder": "Bit%20Manipulation/1009_complement_of_base_10_integer"
     },
     {
       "num": "1011",
