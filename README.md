@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 154
+**Total Problems Solved:** 155
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (36.4%): `███████░░░░░░░░░░░░░` (56)
-- 🟡 **Medium** (57.8%): `████████████░░░░░░░░` (89)
+- 🟢 **Easy** (36.8%): `███████░░░░░░░░░░░░░` (57)
+- 🟡 **Medium** (57.4%): `███████████░░░░░░░░░` (89)
 - 🔴 **Hard** (5.8%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
@@ -21,8 +21,8 @@
 | **Backtracking** | 13 | 0 | 10 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
+| **Bit Manipulation** | 6 | 6 | 0 | 0 |
 | **Binary Tree** | 5 | 5 | 0 | 0 |
-| **Bit Manipulation** | 5 | 5 | 0 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
 | **Two Pointers** | 1 | 1 | 0 | 0 |
@@ -126,6 +126,7 @@
 | 283 | Move Zeroes | 🟢 Easy | Arrays | [Code & Doc](./Arrays/283_move_zeroes) |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/290_word_pattern) |
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/328_odd_even_linked_list) |
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | 🟢 Easy | Bit Manipulation | [Code & Doc](./Bit%20Manipulation/338_counting_bits) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 Easy | Two Pointers | [Code & Doc](./Two%20Pointers/344_reverse_string) |
 | 349 | Intersection of Two Arrays | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/349_intersection_of_two_arrays) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | 🟢 Easy | HashMaps | [Code & Doc](./HashMaps/383_ransom_note) |

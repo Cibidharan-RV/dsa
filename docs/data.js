@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 154,
+  "total": 155,
   "difficulty": {
-    "Easy": 56,
+    "Easy": 57,
     "Medium": 89,
     "Hard": 9,
     "Unknown": 0
@@ -78,8 +78,8 @@ const dsaData = {
       "Unknown": 0
     },
     "Bit Manipulation": {
-      "Total": 5,
-      "Easy": 5,
+      "Total": 6,
+      "Easy": 6,
       "Medium": 0,
       "Hard": 0,
       "Unknown": 0
@@ -110,7 +110,7 @@ const dsaData = {
     "Binary Search": 21,
     "Divide and Conquer": 5,
     "Two Pointers": 23,
-    "Dynamic Programming": 8,
+    "Dynamic Programming": 9,
     "Manacher": 1,
     "Trie": 1,
     "Sorting": 9,
@@ -125,7 +125,7 @@ const dsaData = {
     "Dancing Links": 1,
     "Simulation": 5,
     "Quicksort": 1,
-    "Bit Manipulation": 7,
+    "Bit Manipulation": 8,
     "Depth-First Search": 7,
     "Tree": 5,
     "Breadth-First Search": 4,
@@ -1528,6 +1528,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Linked List\\328_odd_even_linked_list",
       "rel_folder": "Linked List/328_odd_even_linked_list",
       "encoded_folder": "Linked%20List/328_odd_even_linked_list"
+    },
+    {
+      "num": "338",
+      "title": "Counting Bits",
+      "link": "https://leetcode.com/problems/counting-bits/",
+      "difficulty": "Easy",
+      "category": "Bit Manipulation",
+      "topics": [
+        "Dynamic Programming",
+        "Bit Manipulation"
+      ],
+      "date": "2026-11-04",
+      "folder_path": "D:\\projects\\dsa\\Bit Manipulation\\338_counting_bits",
+      "rel_folder": "Bit Manipulation/338_counting_bits",
+      "encoded_folder": "Bit%20Manipulation/338_counting_bits"
     },
     {
       "num": "344",
