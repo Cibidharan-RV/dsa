@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 155,
+  "total": 156,
   "difficulty": {
-    "Easy": 57,
+    "Easy": 58,
     "Medium": 89,
     "Hard": 9,
     "Unknown": 0
@@ -78,8 +78,8 @@ const dsaData = {
       "Unknown": 0
     },
     "Bit Manipulation": {
-      "Total": 6,
-      "Easy": 6,
+      "Total": 7,
+      "Easy": 7,
       "Medium": 0,
       "Hard": 0,
       "Unknown": 0
@@ -100,20 +100,20 @@ const dsaData = {
     }
   },
   "topic_stats": {
-    "Array": 62,
+    "Array": 63,
     "Linked List": 36,
-    "Math": 18,
+    "Math": 19,
     "Recursion": 12,
-    "Hash Table": 38,
+    "Hash Table": 39,
     "String": 31,
     "Sliding Window": 2,
-    "Binary Search": 21,
+    "Binary Search": 22,
     "Divide and Conquer": 5,
     "Two Pointers": 23,
     "Dynamic Programming": 9,
     "Manacher": 1,
     "Trie": 1,
-    "Sorting": 9,
+    "Sorting": 10,
     "Backtracking": 14,
     "Bracket Sequences": 3,
     "String Matching": 2,
@@ -125,7 +125,7 @@ const dsaData = {
     "Dancing Links": 1,
     "Simulation": 5,
     "Quicksort": 1,
-    "Bit Manipulation": 8,
+    "Bit Manipulation": 9,
     "Depth-First Search": 7,
     "Tree": 5,
     "Breadth-First Search": 4,
@@ -1469,6 +1469,25 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\String\\242_valid_anagram",
       "rel_folder": "String/242_valid_anagram",
       "encoded_folder": "String/242_valid_anagram"
+    },
+    {
+      "num": "268",
+      "title": "Missing Number",
+      "link": "https://leetcode.com/problems/missing-number/",
+      "difficulty": "Easy",
+      "category": "Bit Manipulation",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Bit Manipulation",
+        "Sorting"
+      ],
+      "date": "2026-11-05",
+      "folder_path": "D:\\projects\\dsa\\Bit Manipulation\\268_missing_number",
+      "rel_folder": "Bit Manipulation/268_missing_number",
+      "encoded_folder": "Bit%20Manipulation/268_missing_number"
     },
     {
       "num": "282",
