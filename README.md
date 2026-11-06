@@ -3,12 +3,12 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 156
+**Total Problems Solved:** 157
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (37.2%): `███████░░░░░░░░░░░░░` (58)
-- 🟡 **Medium** (57.1%): `███████████░░░░░░░░░` (89)
-- 🔴 **Hard** (5.8%): `█░░░░░░░░░░░░░░░░░░░` (9)
+- 🟢 **Easy** (37.6%): `████████░░░░░░░░░░░░` (59)
+- 🟡 **Medium** (56.7%): `███████████░░░░░░░░░` (89)
+- 🔴 **Hard** (5.7%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
 
@@ -20,8 +20,8 @@
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
+| **Bit Manipulation** | 8 | 8 | 0 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
-| **Bit Manipulation** | 7 | 7 | 0 | 0 |
 | **Binary Tree** | 5 | 5 | 0 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
 | **Math** | 1 | 1 | 0 | 0 |
@@ -183,6 +183,7 @@
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/2130_maximum_twin_sum_of_a_linked_list) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | Arrays | [Code & Doc](./Arrays/2149_rearrange_array_elements_by_sign) |
 | 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/2181_merge_nodes_in_between_zeros) |
+| 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | 🟢 Easy | Bit Manipulation | [Code & Doc](./Bit%20Manipulation/2220_minimum_bit_flips_to_convert_number) |
 | 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/2487_remove_nodes_from_linked_list) |
 | 2816 | [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/2816_double_a_number_represented_as_a_linked_list) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | 🟢 Easy | Arrays | [Code & Doc](./Arrays/2965_find_missing_and_repeated_values) |

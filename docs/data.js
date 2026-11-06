@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 156,
+  "total": 157,
   "difficulty": {
-    "Easy": 58,
+    "Easy": 59,
     "Medium": 89,
     "Hard": 9,
     "Unknown": 0
@@ -78,8 +78,8 @@ const dsaData = {
       "Unknown": 0
     },
     "Bit Manipulation": {
-      "Total": 7,
-      "Easy": 7,
+      "Total": 8,
+      "Easy": 8,
       "Medium": 0,
       "Hard": 0,
       "Unknown": 0
@@ -125,7 +125,7 @@ const dsaData = {
     "Dancing Links": 1,
     "Simulation": 5,
     "Quicksort": 1,
-    "Bit Manipulation": 9,
+    "Bit Manipulation": 10,
     "Depth-First Search": 7,
     "Tree": 5,
     "Breadth-First Search": 4,
@@ -2413,6 +2413,20 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Linked List\\2181_merge_nodes_in_between_zeros",
       "rel_folder": "Linked List/2181_merge_nodes_in_between_zeros",
       "encoded_folder": "Linked%20List/2181_merge_nodes_in_between_zeros"
+    },
+    {
+      "num": "2220",
+      "title": "Minimum Bit Flips to Convert Number",
+      "link": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
+      "difficulty": "Easy",
+      "category": "Bit Manipulation",
+      "topics": [
+        "Bit Manipulation"
+      ],
+      "date": "2026-11-06",
+      "folder_path": "D:\\projects\\dsa\\Bit Manipulation\\2220_minimum_bit_flips_to_convert_number",
+      "rel_folder": "Bit Manipulation/2220_minimum_bit_flips_to_convert_number",
+      "encoded_folder": "Bit%20Manipulation/2220_minimum_bit_flips_to_convert_number"
     },
     {
       "num": "2487",
