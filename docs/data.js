@@ -1,7 +1,7 @@
 const dsaData = {
-  "total": 157,
+  "total": 158,
   "difficulty": {
-    "Easy": 59,
+    "Easy": 60,
     "Medium": 89,
     "Hard": 9,
     "Unknown": 0
@@ -78,8 +78,8 @@ const dsaData = {
       "Unknown": 0
     },
     "Bit Manipulation": {
-      "Total": 8,
-      "Easy": 8,
+      "Total": 9,
+      "Easy": 9,
       "Medium": 0,
       "Hard": 0,
       "Unknown": 0
@@ -102,8 +102,8 @@ const dsaData = {
   "topic_stats": {
     "Array": 63,
     "Linked List": 36,
-    "Math": 19,
-    "Recursion": 12,
+    "Math": 20,
+    "Recursion": 13,
     "Hash Table": 39,
     "String": 31,
     "Sliding Window": 2,
@@ -125,7 +125,7 @@ const dsaData = {
     "Dancing Links": 1,
     "Simulation": 5,
     "Quicksort": 1,
-    "Bit Manipulation": 10,
+    "Bit Manipulation": 11,
     "Depth-First Search": 7,
     "Tree": 5,
     "Breadth-First Search": 4,
@@ -1562,6 +1562,22 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Bit Manipulation\\338_counting_bits",
       "rel_folder": "Bit Manipulation/338_counting_bits",
       "encoded_folder": "Bit%20Manipulation/338_counting_bits"
+    },
+    {
+      "num": "342",
+      "title": "Power of Four",
+      "link": "https://leetcode.com/problems/power-of-four/",
+      "difficulty": "Easy",
+      "category": "Bit Manipulation",
+      "topics": [
+        "Math",
+        "Bit Manipulation",
+        "Recursion"
+      ],
+      "date": "2026-11-08",
+      "folder_path": "D:\\projects\\dsa\\Bit Manipulation\\342_power_of_four",
+      "rel_folder": "Bit Manipulation/342_power_of_four",
+      "encoded_folder": "Bit%20Manipulation/342_power_of_four"
     },
     {
       "num": "344",
