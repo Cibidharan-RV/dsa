@@ -3,11 +3,11 @@
 ## 📊 Statistics
 
 <!-- STATS:START -->
-**Total Problems Solved:** 158
+**Total Problems Solved:** 159
 
 ### Difficulty Breakdown
-- 🟢 **Easy** (38.0%): `████████░░░░░░░░░░░░` (60)
-- 🟡 **Medium** (56.3%): `███████████░░░░░░░░░` (89)
+- 🟢 **Easy** (37.7%): `████████░░░░░░░░░░░░` (60)
+- 🟡 **Medium** (56.6%): `███████████░░░░░░░░░` (90)
 - 🔴 **Hard** (5.7%): `█░░░░░░░░░░░░░░░░░░░` (9)
 
 ### Topic Breakdown
@@ -20,7 +20,7 @@
 | **Binary Search** | 15 | 1 | 11 | 3 |
 | **Backtracking** | 13 | 0 | 10 | 3 |
 | **String** | 12 | 6 | 6 | 0 |
-| **Bit Manipulation** | 9 | 9 | 0 | 0 |
+| **Bit Manipulation** | 10 | 9 | 1 | 0 |
 | **Other** | 7 | 5 | 2 | 0 |
 | **Binary Tree** | 5 | 5 | 0 | 0 |
 | **Recursion** | 4 | 1 | 3 | 0 |
@@ -97,6 +97,7 @@
 | 128 | Longest Consecutive Sequence | 🟡 Medium | HashMaps | [Code & Doc](./HashMaps/128_longest_consecutive_sequence) |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | 🟡 Medium | Backtracking | [Code & Doc](./Backtracking/131_palindrome_partitioning) |
 | 136 | Single Number | 🟢 Easy | Arrays | [Code & Doc](./Arrays/136_single_number) |
+| 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | 🟡 Medium | Bit Manipulation | [Code & Doc](./Bit%20Manipulation/137_single_number_ii) |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/138_copy_list_with_random_pointer) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | Linked List | [Code & Doc](./Linked%20List/141_linked_list_cycle) |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 🟡 Medium | Linked List | [Code & Doc](./Linked%20List/142_linked_list_cycle_ii) |

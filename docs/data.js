@@ -1,8 +1,8 @@
 const dsaData = {
-  "total": 158,
+  "total": 159,
   "difficulty": {
     "Easy": 60,
-    "Medium": 89,
+    "Medium": 90,
     "Hard": 9,
     "Unknown": 0
   },
@@ -78,9 +78,9 @@ const dsaData = {
       "Unknown": 0
     },
     "Bit Manipulation": {
-      "Total": 9,
+      "Total": 10,
       "Easy": 9,
-      "Medium": 0,
+      "Medium": 1,
       "Hard": 0,
       "Unknown": 0
     },
@@ -100,7 +100,7 @@ const dsaData = {
     }
   },
   "topic_stats": {
-    "Array": 63,
+    "Array": 64,
     "Linked List": 36,
     "Math": 20,
     "Recursion": 13,
@@ -125,7 +125,7 @@ const dsaData = {
     "Dancing Links": 1,
     "Simulation": 5,
     "Quicksort": 1,
-    "Bit Manipulation": 11,
+    "Bit Manipulation": 12,
     "Depth-First Search": 7,
     "Tree": 5,
     "Breadth-First Search": 4,
@@ -1082,6 +1082,21 @@ const dsaData = {
       "folder_path": "D:\\projects\\dsa\\Arrays\\136_single_number",
       "rel_folder": "Arrays/136_single_number",
       "encoded_folder": "Arrays/136_single_number"
+    },
+    {
+      "num": "137",
+      "title": "Single Number II",
+      "link": "https://leetcode.com/problems/single-number-ii/",
+      "difficulty": "Medium",
+      "category": "Bit Manipulation",
+      "topics": [
+        "Array",
+        "Bit Manipulation"
+      ],
+      "date": "2026-11-09",
+      "folder_path": "D:\\projects\\dsa\\Bit Manipulation\\137_single_number_ii",
+      "rel_folder": "Bit Manipulation/137_single_number_ii",
+      "encoded_folder": "Bit%20Manipulation/137_single_number_ii"
     },
     {
       "num": "138",
